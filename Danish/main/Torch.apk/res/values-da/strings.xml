@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about">Om:</string>
+  <string name="about_btn">Om Lommelygte</string>
+  <string name="about_close">Luk</string>
+  <string name="about_title">Om</string>
+  <string name="app_name">Lommelygte</string>
+  <string name="brightwarn">"Fuld lysstyrke testet i 1/2 time, men udviklede meget varme og begyndte at flimre tilfældigt ved omkring 45 min. Langtidseffekt er ukendt.
+
+Dette er endnu ikke understøttet af Widgeten.
+
+Tryk 'Accepter' hvis du vil bruge det på eget ansvar."</string>
+  <string name="brightwarn_accept">Acceptér</string>
+  <string name="brightwarn_negative">Nej tak</string>
+  <string name="brightwarn_title">Hi-brite \'Tænd\' knap!!!</string>
+  <string name="description">"Denne applikation manipulerer kamera lyset.
+"</string>
+  <string name="label_frequency">Frekvens: (træk for at ændre)</string>
+  <string name="label_high">Høj lysstyrke</string>
+  <string name="label_off">Fra</string>
+  <string name="label_on">Til</string>
+  <string name="label_strobe">Strobe</string>
+  <string name="license">"Original code from Nexus One Torch by Ben Buxton, released under the GPL, v3.
+http://n1torch.googlecode.com/
+
+Thanks to David Prieto for new UI design.
+
+Modified for CyanogenMod by Steve Kondik.
+
+"</string>
+  <string name="not_torch_summary">Tommelygte er tændt</string>
+  <string name="not_torch_title">Lommelygte tændt</string>
+  <string name="setting_add_widget">Tilføj widget</string>
+  <string name="setting_frequency_dialog">Frekvens</string>
+  <string name="setting_frequency_hz">Hz</string>
+  <string name="setting_frequency_summary">Frekvens af strobe lys</string>
+  <string name="setting_frequency_title">Strobe frekvens</string>
+  <string name="setting_widget_bright">Bright widget</string>
+  <string name="setting_widget_strobe">Strobe blink</string>
+  <string name="torch_message">Du kan tænde lommelygten hurtigt ved at holde [icon] nede på låseskærmen</string>
+  <string name="warning">"Advarsel: At Lade lyset være på i lang tid kan overophede det.
+
+'altid tændt' er testet 1/2 time, men der er stadig risiko for at skade kameraets LED.
+"</string>
+  <string name="warning_label">Advarsel</string>
+  <string name="widget_label">Lommelygte</string>
+  <string name="widget_options">Generelle indstillinger</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="continues">Fortsæt</string>
+  <string name="data_usage_summary">Hvis du ikke har en data plan fra din udbyder, anbefales det at være varsom med netværkstrafik. Vær opmærksom på din udbyders priser på datatrafik.</string>
+  <string name="input_method">Tastatur</string>
+  <string name="input_method_category">Vælg standard tastatur</string>
+  <string name="next">Næste</string>
+  <string name="other_service_label">Andre tjenester</string>
+  <string name="other_service_location">Placeringstjenester</string>
+  <string name="other_service_location_summary">Placeringstjenester tillader Maps og andre apps at finde din placering via GPS</string>
+  <string name="other_service_user_experience">Deltag i bruger erfaringsprogrammet</string>
+  <string name="other_service_user_experience_summary0">"Vi er afhængige af din brug af vores produkt og features og håber du vil hjælpe os med tilbagemeldinger."</string>
+  <string name="other_service_user_experience_summary1">Tak, MIUI teamet</string>
+  <string name="setup_complete_info">Opsætningsguiden vil være aktiveret første gang telefonen tages i brug</string>
+  <string name="setup_complete_label">Opsætning fuldført</string>
+  <string name="setup_complete_start">Begynd at bruge telefonen</string>
+  <string name="setup_complete_summary">Opsætning fuldført! Nyd nu MIUI!</string>
+  <string name="shutdown">Sluk</string>
+  <string name="sim_card_detection_dialog_message">Læser SIM kort, vent venligst...</string>
+  <string name="sim_card_detection_info">Kunne ikke opsætte Xiaomi konto uden et SIM kort. Du skal bruge et SIM kort for at anvende konto synkronisering, telefon lokalisering og lign."</string>
+  <string name="sim_card_detection_label">Læs SIM kort</string>
+  <string name="sim_card_detection_status_absent">SIM kort ikke fundet!</string>
+  <string name="traffic_protection_label">Data trafik overvågning</string>
+  <string name="traffic_protection_summary">Data trafik overvågning vil underrette dig når din dataplan har nået sin grænse.</string>
+  <string name="traffic_protection_text_hint">Venligst indtast din Data grænse.</string>
+  <string name="traffic_protection_unknown" />
+  <string name="use_data">Aktiver data</string>
+</resources>

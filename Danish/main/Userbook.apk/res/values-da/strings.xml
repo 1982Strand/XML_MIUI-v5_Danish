@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Håndbog</string>
+  <string name="grid_list_title">Lær at bruge MIUI!</string>
+  <string name="loading_userbook">Indlæser...</string>
+  <string name="read_progress_format">%1$s/%2$s</string>
+  <string name="read_progress_title">Fuldført:</string>
+  <string name="total_read_progress_format">%1$s%%</string>
+</resources>
