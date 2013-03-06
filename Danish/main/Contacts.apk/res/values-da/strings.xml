@@ -288,7 +288,7 @@
   <string name="display_warn_remove_ungrouped">"Fjernelse af '%s' fra synkronisering vil også fjerne eventuelle ikke grupperede kontakter fra synk."</string>
   <string name="editContactDescription">Rediger Kontakt</string>
   <string name="editGroupDescription">Rediger gruppe</string>
-  <string name="edit_contact_card_title">Rediger kontaktkort</string>
+  <string name="edit_contact">Rediger kontakt</string>
   <string name="edit_contact_card_title">Rediger kontakt kort</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
@@ -452,7 +452,7 @@
   <string name="menu_create_contact_shortcut">Placer på skrivebordet</string>
   <string name="menu_deleteContact">Slet Kontakt</string>
   <string name="menu_deleteGroup">Slet</string>
-  <string name="menu_dialpad">Opkald</string>
+  <string name="menu_dialpad_text">Telefon</string>
   <string name="menu_discard">Kassér</string>
   <string name="menu_display_all">Vis alle</string>
   <string name="menu_display_selected">Vis valgte</string>

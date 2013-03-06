@@ -29,10 +29,10 @@
   <string name="attach_subject">Emne</string>
   <string name="attach_take_photo">Tag billede</string>
   <string name="attach_video">Videoer</string>
-  <string name="batch_delete_thread_confirm_dialog_message">Slet valgte besked(er)?</string>
+  <string name="batch_delete_confirm_dialog_message">Er du sikker på du vil slette %1$s beskeder?</string>
   <string name="batch_deleting_message_progress_message">Sletter valgte besked(er)</string>
   <string name="batch_deleting_progress_message">Sletter valgte tråd(e)</string>
-  <string name="bcc_label">Bcc:\u0020</string>
+  <string name="bcc_label">"Bcc: "</string>
   <string name="bookmark">Favoritter</string>
   <string name="bookmark_confirm_delete_message">Valgte elementer vil blive slettet</string>
   <string name="bookmark_empty">Ingen Bogmærker</string>
@@ -201,8 +201,8 @@
   <string name="mx_auto_resend_sms_summary">Send som SMS når Cloud besked er utilgængelig</string>
   <string name="mx_btn_enable">Aktiver</string>
   <string name="mx_count_dspt">Siden aktivering, har MIUI sendt %1$d Cloud Besked(r) for dig (%2$s)</string>
+  <string name="mx_current_status">Aktuel status: Online</string>
   <string name="mx_dspt">Send beskeder via Internet mellem MIUI, aktiver for at sende via udbyder når mislykket</string>
-  <string name="mx_dspt_disabled">Send beskeder via Internet mellem MIUI, aktiver for at sende via udbyder når mislykket</string>
   <string name="mx_enable">Aktiver Cloud Beskeder</string>
   <string name="mx_enable_popup_msg">Cloud Beskeder tillader dig at sende beskeder via MIUI. En normal SMS er påkrævet for at aktivere tjenesten. Vil du aktivere nu?</string>
   <string name="mx_msg">Cloud Besked</string>

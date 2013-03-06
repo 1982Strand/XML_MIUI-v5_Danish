@@ -5,8 +5,8 @@
   <string name="alert_edit_action_update">Rediger</string>
   <string name="alert_message_delete_folder">Bekræft sletning af mappe og dens noter?</string>
   <string name="alert_message_delete_folders">Slet valgte %1$s mapper?</string>
-  <string name="alert_message_delete_folders_notes">Slet valgte %1$s mapper og %2$s noter?</string>
-  <string name="alert_message_delete_note">Bekræft sletning af denne note??</string>
+  <string name="alert_message_delete_note">Er du sikker på du vil slette denne note?</string>
+  <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s noter?</string>
   <string name="alert_message_discard_changes">Kasser alle ændringer?</string>
   <string name="alert_message_exceed_image_limit">Maks 15 billeder kan vedhæftes en note. Opret ny note for at vedhæfte flere billeder</string>
   <string name="alert_title_delete">Slet valgte noter</string>
