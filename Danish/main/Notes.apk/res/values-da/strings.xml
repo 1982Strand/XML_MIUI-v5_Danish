@@ -8,8 +8,10 @@
   <string name="alert_message_delete_folders_notes">Slet valgte %1$s mapper og %2$s noter?</string>
   <string name="alert_message_delete_note">Bekræft sletning af denne note??</string>
   <string name="alert_message_discard_changes">Kasser alle ændringer?</string>
+  <string name="alert_message_exceed_image_limit">Maks 15 billeder kan vedhæftes en note. Opret ny note for at vedhæfte flere billeder</string>
   <string name="alert_title_delete">Slet valgte noter</string>
   <string name="alert_title_discard">Kasser ændringer?</string>
+  <string name="alert_title_exceed_image_limit">Grænse for billeder per note er nået!</string>
   <string name="app_name">Noter</string>
   <string name="app_widget">Noter</string>
   <string name="attachment_camera">Kamera</string>
@@ -17,6 +19,7 @@
   <string name="attachment_gallery">Galleri</string>
   <string name="button_new_note">Ny Note</string>
   <string name="call_record_folder_name">Opkaldsoptagelser</string>
+  <string name="close">Luk</string>
   <string name="default_folder_name">Noter</string>
   <string name="enable_sync">Synk</string>
   <string name="enable_sync_desc">Noter kan synkroniseres med din Xiaomi konto %1$s, synk nu?</string>

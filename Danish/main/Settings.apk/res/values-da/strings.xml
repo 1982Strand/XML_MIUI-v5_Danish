@@ -1345,6 +1345,11 @@ Prøv følgende:
   <string name="pref_volume_wake_summary">Tryk på lydstyrke knappen (+/-) vækker telefonen. Specielt til enheder med defekt sluk knap</string>
   <string name="pref_volume_wake_title">Væk med Lydstyrke (+/-)</string>
   <string name="preference_change_password_title">Skift adgangskode</string>
+  <string name="preferred_launcher_title">Foretrukne Launcher</string>
+  <string name="preferred_launcher_warning_message">Erstatning af standard Launcher kan medføre øget ressourcebrug. Er du sikker på du vil forstæstte?</string>
+  <string name="preferred_launcher_warning_replace">Erstat Launcher</string>
+  <string name="preferred_launcher_warning_title">Erstatter standard Launcher</string>
+  <string name="preferred_launcher_warning_use_system">Avend standard Launcher</string>
   <string name="preferred_media_app_summary">Vælg Musikafspiller</string>
   <string name="privacy_mode_enable_sum">Skjul opkaldslister, beskeder og andre data når i Privat Tilstand</string>
   <string name="privacy_mode_enable_title">Aktiver Privat tilstand</string>
