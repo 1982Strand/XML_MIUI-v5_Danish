@@ -20,7 +20,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Spil</string>
   <string name="default_folder_title_recommend">Anbefalet</string>
-  <string name="default_folder_title_security">Sikkerheds Center</string>
+  <string name="default_folder_title_security">Sikkerhed</string>
   <string name="default_folder_title_tools">Værktøjer</string>
   <string name="description_author">Forfatter:</string>
   <string name="description_designer">Designer:</string>
@@ -44,7 +44,7 @@
   <string name="failed_to_drop_widget_nospace">Ikke nok plads</string>
   <string name="folder_name">Mappe</string>
   <string name="frame_load_failed">Indlæsning af Fotoramme widget mislykkedes!</string>
-  <string name="free_style_apps_title">Vælg appllikation</string>
+  <string name="free_style_apps_title">Vælg applikation</string>
   <string name="free_style_drawer_title">Alle applikationer</string>
   <string name="free_style_edit_app">Applikation</string>
   <string name="free_style_edit_bar_empty">Tom</string>

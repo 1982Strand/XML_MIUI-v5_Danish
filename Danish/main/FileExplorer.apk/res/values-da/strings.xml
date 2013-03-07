@@ -2,7 +2,7 @@
 <resources>
   <string name="add_task">Tilføj opgaver</string>
   <string name="adding_upload_tasks">Tilføjer upload opgave.</string>
-  <string name="app_name">Filhåndtering</string>
+  <string name="app_name">Filer</string>
   <string name="background">Kør i baggrunden</string>
   <string name="bind_account">knyt til kuaipan konto</string>
   <string name="bind_account_summary">Hvis du allerede har en kuaipan konto, kan du knytte den til din telefon for at læse dens data</string>
