@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="perm_action_accept">Accepter</string>
-  <string name="perm_action_prompt">Spørg</string>
-  <string name="perm_action_reject">Afvis</string>
   <string name="Parse_error_dlg_text">Der er problemer med at parse pakken.</string>
   <string name="Parse_error_dlg_title">Parsingfejl</string>
   <string name="allow_source_dlg_text">"%1$s ønsker at installere andre apps. Vil du tillade dette nu og i fremtiden?"</string>
@@ -41,6 +38,9 @@
   <string name="other_relative">Andre tilladelser</string>
   <string name="out_of_space_dlg_text">%1$s kunne ikke installeres. Frigør lagerplads, og prøv igen.</string>
   <string name="out_of_space_dlg_title">Der er ikke mere plads</string>
+  <string name="perm_action_accept">Accepter</string>
+  <string name="perm_action_prompt">Spørg</string>
+  <string name="perm_action_reject">Afvis</string>
   <string name="perm_notice">Sikkerhedsnotifikation</string>
   <string name="perm_privacy_app_finish">Færdig</string>
   <string name="perm_privacy_app_installed">Installation fuldført!</string>

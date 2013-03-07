@@ -101,8 +101,8 @@
   <string name="download_later">Download ikke mulig - prøv venligst senere.</string>
   <string name="downloading">Overfører</string>
   <string name="duration_not_a_number">Varighed SKAL være et tal</string>
-  <string name="duration_sec">Varighed (%s sek.)</string>
-  <string name="duration_selector_title">Varighed for dette dias\u0020</string>
+  <string name="duration_sec">Varighed (%s sek)</string>
+  <string name="duration_selector_title">"Varighed for dette dias "</string>
   <string name="duration_zero">Varighed SKAL være større end 0 sekunder</string>
   <string name="edit">Slet beskeder</string>
   <string name="edit_nickname_for_nocontact">Ingen modtagere fundet. Tilføj venligst en modtager for at redigere kaldenavne.</string>
@@ -178,7 +178,7 @@
   <string name="message_size_label">Størrelse på besked:\u0020</string>
   <string name="message_too_big_for_audio">Beskeden er for stor til at vedhæfte lyd.</string>
   <string name="message_too_big_for_video">Meddelse for stor til vedhæftning af video.</string>
-  <string name="message_type_label">Type:\u0020</string>
+  <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Mig</string>
   <string name="mms">MMS</string>
   <string name="move_down">Flyt ned</string>
@@ -217,7 +217,7 @@
   <string name="new_phrase_hint">Indtast ny sætning</string>
   <string name="nickname_placeholder">Kaldenavn</string>
   <string name="no">Annuller</string>
-  <string name="no_conversations">Ingen samtaler.</string>
+  <string name="no_conversations">Ingen samtaler</string>
   <string name="no_subject">(Intet emne)</string>
   <string name="no_subject_view">(Intet emne)</string>
   <string name="non_english_subject_limit">Højst 13 bogstaver/tal til ikke-engelsk emne</string>
@@ -234,7 +234,7 @@
   <string name="play">Afspil</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="prefDefault_vibrateWhen">aldrig</string>
-  <string name="prefDefault_vibrate_false">aldrif</string>
+  <string name="prefDefault_vibrate_false">aldrig</string>
   <string name="prefDefault_vibrate_true">altid</string>
   <string name="pref_advanced_settings_title">Avancerede indstillinger</string>
   <string name="pref_edit_smsc_address">SMS center nummer</string>
@@ -294,16 +294,16 @@
   <string name="recipient_label">"Modtager: "</string>
   <string name="refresh">Opdater</string>
   <string name="refresh_failed">Fejl ved opdatering</string>
-  <string name="refreshing">Opdaterer</string>
+  <string name="refreshing">Opdaterer...</string>
   <string name="remove">Slet</string>
   <string name="remove_music">Slet musik</string>
-  <string name="remove_picture">Slet billed</string>
+  <string name="remove_picture">Slet billede</string>
   <string name="remove_slide">Fjern dias</string>
   <string name="remove_text">Slet tekst</string>
   <string name="remove_video">Fjern video</string>
   <string name="replace">Erstat</string>
   <string name="replace_image">Erstat billede</string>
-  <string name="resent_message">Gensend</string>
+  <string name="resent_message">Send igen</string>
   <string name="resize_image_error_information">Beklager, selv med skalering er billedet for stort til at sende.</string>
   <string name="save">Gem</string>
   <string name="save_ringtone">Gem som ringetone</string>
@@ -322,6 +322,8 @@
   <string name="select_bottom_text">Tekst i bunden</string>
   <string name="select_different_media">Vælg venligst et andet %1$s.</string>
   <string name="select_link_title">Vælg handling</string>
+  <string name="select_local_audio">Vælg lokal lydfil</string>
+  <string name="select_local_video">Vælg lokal video video</string>
   <string name="select_top_text">Tekst i toppen</string>
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">Intet indhold i besked, er du sikker på du vil sende?</string>
