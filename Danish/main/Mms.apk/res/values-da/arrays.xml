@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
+        <item>1 gang</item>
+        <item>2 gange</item>
+        <item>3 gange</item>
+        <item>5 gange</item>
+        <item>10 gange</item>
     </string-array>
+    <string-array name="contact_entries">
+        <item>Navn</item>
+        <item>Kaldenavn</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organisation</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Fødselsdag</item>
+        <item>Hjemmeside</item>
+        <item>Adresse</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Viser tid modtaget</item>
+        <item>"Viser tid afsendt
+(server tidsstempel, kan være upræcist)"</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via SMS besked</item>
+        <item>Via Cloud besked</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via MMS besked</item>
+        <item>Via Cloud besked</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Andet</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Altid</item>
+        <item>Kun når lydløs</item>
+        <item>Aldrig</item>
 </resources>
