@@ -22,8 +22,8 @@
     </string-array>
     <string-array name="entries_date_type">
         <item>Viser tid modtaget</item>
-        <item>"Viser tid afsendt
-(server tidsstempel, kan være upræcist)"</item>
+        <item>"Viser tid afsendt 
+        (server tidsstempel, kan være upræcist)"</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via SMS besked</item>
@@ -50,4 +50,5 @@
         <item>Altid</item>
         <item>Kun når lydløs</item>
         <item>Aldrig</item>
+    </string-array>
 </resources>
