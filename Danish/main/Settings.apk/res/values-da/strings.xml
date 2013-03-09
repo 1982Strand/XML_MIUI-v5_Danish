@@ -398,7 +398,7 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="bluetooth_sap_profile_summary_use_for">Anvend til SIM Adgang</string>
   <string name="bluetooth_sap_remember_choice">Spørg ikke igen</string>
   <string name="bluetooth_sap_request">SAP anmodning</string>
-  <string name="bluetooth_scan_for_devices">Scan efter enheder</string>
+  <string name="bluetooth_scan_for_devices">Skan efter enheder</string>
   <string name="bluetooth_search_for_devices">Søg efter enheder</string>
   <string name="bluetooth_searching_for_devices">Søger ...</string>
   <string name="bluetooth_settings">Bluetooth</string>
@@ -482,7 +482,7 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="contributors_title">Bidragydere</string>
   <string name="controls_label">Styringer</string>
   <string name="controls_subtitle">Juster strømforbrug</string>
-  <string name="copyright_title">Copyright</string>
+  <string name="copyright_title">Ophavsret</string>
   <string name="create">Opret</string>
   <string name="credentials_configure_lock_screen_hint">Du skal angive en lås skærm PIN-kode eller adgangskode, før du kan bruge legitimationsoplysningslager.</string>
   <string name="credentials_enabled">legitimationsoplysningslager er aktiveret.</string>
@@ -607,7 +607,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="date_time_set_date">Indstil dato</string>
   <string name="date_time_set_time">Indstil tid</string>
   <string name="date_time_set_timezone">Vælg tidszone</string>
-  <string name="date_time_settings">Dato &amp; tid</string>
+  <string name="date_time_settings">Dato &amp; Tid</string>
   <string name="debug_app">Vælg fejlsøgnings app</string>
   <string name="debug_app_not_set">Ingen fejlsøgnings app valgt</string>
   <string name="debug_app_set">Fejlsøger applikation: %1$s</string>
@@ -819,8 +819,8 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="game_controller_settings_category">Spil Controller</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
-  <string name="haptic_feedback_enable_title">haptisk feedback</string>
-  <string name="haptic_feedback_level">Vibration niveau</string>
+  <string name="haptic_feedback_enable_title">Haptisk feedback</string>
+  <string name="haptic_feedback_level">Vibrationsniveau</string>
   <string name="hardkeyboard_category">Fysisk tastatur Indstillinger</string>
   <string name="hdcp_checking_dialog_title">Indstil HDCP kontrol adfærd</string>
   <string name="hdcp_checking_title">HDCP kontrol</string>
@@ -854,7 +854,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="ims_reg_required_off">Deaktiver IMS registrering nødvendig</string>
   <string name="ims_reg_required_on">Aktiver IMS registrering nødvendig</string>
   <string name="incoming_call_vibrate_abbreviation">Opkald</string>
-  <string name="incoming_call_volume_title">Kæd til Ringevolumen</string>
+  <string name="incoming_call_volume_title">Ringetone</string>
   <string name="input_method">Inputmetode</string>
   <string name="input_method_selector">Inputmetode vælger</string>
   <string name="input_method_selector_always_hide_title">Skjul altid</string>
@@ -877,7 +877,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="intent_sender_account_label">Konto:</string>
   <string name="intent_sender_action_label">Handling:</string>
   <string name="intent_sender_data_label">Data:</string>
-  <string name="intent_sender_resource_label">Ressource:</string>
+  <string name="intent_sender_resource_label">Element:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
   <string name="intent_sender_startactivity_text">Start aktivitet</string>
   <string name="internal_format">Formater Internt lager</string>
@@ -1158,7 +1158,7 @@ Prøv følgende:
   <string name="perm_check">Tjek</string>
   <string name="perm_clean">Rens</string>
   <string name="perm_configuration">Indstillinger</string>
-  <string name="perm_copyright">Powered by LBE Privacy Guard</string>
+  <string name="perm_copyright">Drevet af LBE Privacy Guard</string>
   <string name="perm_disable">Deaktiver</string>
   <string name="perm_enable">Aktiver tilladelsesovervågning</string>
   <string name="perm_good">God</string>
@@ -1379,7 +1379,7 @@ Prøv følgende:
   <string name="proxy_exclusionlist_hint">eksempel.dk, mycomp.test.com, localhost</string>
   <string name="proxy_exclusionlist_label">Omgå proxy for</string>
   <string name="proxy_hostname_hint">proxy.eksempel.com</string>
-  <string name="proxy_hostname_label">Hostname</string>
+  <string name="proxy_hostname_label">Værtsnavn</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port</string>
   <string name="proxy_settings_label">Proxy Konfiguration</string>
@@ -1408,7 +1408,7 @@ Prøv følgende:
   <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">Få PDP liste</string>
   <string name="radioInfo_menu_viewADN">Vis SIM-adressebog</string>
-  <string name="radioInfo_menu_viewFDN">Vis Faste opkaldsnumre</string>
+  <string name="radioInfo_menu_viewFDN">Vis Faste Opkaldsnumre</string>
   <string name="radioInfo_menu_viewSDN">Vis Service numre</string>
   <string name="radioInfo_phone_idle">Tomgang</string>
   <string name="radioInfo_phone_offhook">Opkald i gang</string>
@@ -1455,15 +1455,15 @@ Prøv følgende:
   <string name="really_remove_account_message">Fjernelse af denne konto vil slette alle sine beskeder, kontakter og andre data fra telefonen!</string>
   <string name="really_remove_account_title">Fjern konto?</string>
   <string name="recognizer_settings_summary">"Indstillinger for '%s'"</string>
-  <string name="recognizer_settings_title">Voice genkendelsesprogram Indstillinger</string>
-  <string name="recognizer_title">Voice genkendelsesprogram</string>
+  <string name="recognizer_settings_title">Stemmesøgning</string>
+  <string name="recognizer_title">Stemmesøgning</string>
   <string name="recompute_size">Genberegner størrelse ...</string>
   <string name="remove_account_failed">Denne konto er påkrævet af nogle apps. Du kan kun fjerne den ved at nulstille telefonen til fabriksindstillingerne (hvilket sletter alle dine personlige data) i Indstillinger&gt;Backup &amp; nulstillet.</string>
   <string name="remove_account_label">Fjern konto</string>
   <string name="remove_device_admin">Deaktiver</string>
   <string name="remove_from_frequently_fragment">Fjern \"%s\" fra generelle indstillinger?</string>
   <string name="reset_app_preferences">Nulstil app indstillinger</string>
-  <string name="reset_app_preferences_button">Nulstil apps apps</string>
+  <string name="reset_app_preferences_button">Nulstil apps</string>
   <string name="reset_app_preferences_desc">"Dette vil nulstille indstillinger for: "</string>
   <string name="reset_app_preferences_title">Nulstil app indstillinger?</string>
   <string name="restore_default_apn">Gendannelse af standard APN indstillinger</string>
@@ -1492,7 +1492,7 @@ Prøv følgende:
   <string name="runningservices_settings_summary">Se og styr kørende apps</string>
   <string name="runningservices_settings_title">Jobliste</string>
   <string name="safe_relative">Sikre tilladelser</string>
-  <string name="scan_list_label">Scan Resultater:</string>
+  <string name="scan_list_label">Skan Resultater:</string>
   <string name="screen">Skærm</string>
   <string name="screen_button_custom">Rediger skærmknappers placering</string>
   <string name="screen_button_key">Skærmknapper</string>
@@ -1509,7 +1509,7 @@ Prøv følgende:
   <string name="screensaver_component_title">Valgt Candy</string>
   <string name="screensaver_settings_summary_off">Deaktiveret</string>
   <string name="screensaver_settings_summary_on">Vil begynde når skærm slukker hvis tilsluttet strøm</string>
-  <string name="screensaver_settings_title">Screen Candy</string>
+  <string name="screensaver_settings_title">Skærm Lækkerier</string>
   <string name="screensaver_test">Prøv det!</string>
   <string name="screensaver_timeout_summary">efter %1$s i tomgang</string>
   <string name="screensaver_timeout_title">Aktivering</string>
@@ -1527,8 +1527,8 @@ Prøv følgende:
   <string name="sd_mount">Monter SD Kort</string>
   <string name="sd_mount_summary" />
   <string name="sdcard_changes_instructions">Ændringer træder i kraft, når USB-kablet er genindsat</string>
-  <string name="sdcard_format">Slet SD Card</string>
-  <string name="sdcard_setting">SD Card</string>
+  <string name="sdcard_format">Slet SD kort</string>
+  <string name="sdcard_setting">SD kort</string>
   <string name="sdcard_settings_available_bytes_label">bytes til rådighed:</string>
   <string name="sdcard_settings_bad_removal_status">SD-kort blev fjernet, mens det stadig var i brug!</string>
   <string name="sdcard_settings_mass_storage_status">SD-kort bliver brugt som en lagerenhed</string>
@@ -1539,13 +1539,13 @@ Prøv følgende:
   <string name="sdcard_settings_total_bytes_label">Total bytes:</string>
   <string name="sdcard_settings_unmounted_status">"Det er nu sikkert at fjerne SD-kort"</string>
   <string name="sdcard_settings_used_bytes_label">Brugte bytes:</string>
-  <string name="sdcard_unmount">Demonter SD Card</string>
+  <string name="sdcard_unmount">Demonter SD kort</string>
   <string name="search_about">om</string>
   <string name="search_accelerometer">accelerometer</string>
   <string name="search_access_control">adgangsbegrænsning</string>
   <string name="search_airplane">flytilstand</string>
   <string name="search_android_beam">nfc</string>
-  <string name="search_battery_indicator">batteri indicator</string>
+  <string name="search_battery_indicator">batteri indikator</string>
   <string name="search_bluetooth">bluetooth</string>
   <string name="search_brightness">lysstyrke</string>
   <string name="search_date_time">dato tid</string>
@@ -1558,7 +1558,7 @@ Prøv følgende:
   <string name="search_launcher">launcher</string>
   <string name="search_led">led</string>
   <string name="search_network">netværk</string>
-  <string name="search_power_mode">kørselstilstand; ydeevne; prioriter ydeevne; ydeevne; normal; konservativ; standard; balanceret ydeevne; sparetilstand; energibesparing; ydeevne; strøm</string>
+  <string name="search_power_mode">strømtilstand</string>
   <string name="search_ring_volume">Ringe lydstyrke</string>
   <string name="search_ringtone">Ringetone</string>
   <string name="search_screen_timeout">Skærm timeout</string>
@@ -1749,7 +1749,7 @@ Forsøg tilbage :"</string>
   <string name="sync_menu_sync_cancel">Annuller synk</string>
   <string name="sync_menu_sync_now">Synk nu</string>
   <string name="sync_one_time_sync">"Tryk for at synkronisere nu %1$s "</string>
-  <string name="sync_plug">" "</string>
+  <string name="sync_plug"/>
   <string name="sync_settings">Konti og synkronisering</string>
   <string name="sync_wifi_label">Wi-Fi Synk indstillinger</string>
   <string name="system">System</string>
@@ -1906,7 +1906,7 @@ Forsøg tilbage :"</string>
   <string name="use_location_title">Lokation &amp; Søgning</string>
   <string name="use_system_language_to_select_input_method_subtypes">Brug systemsprog</string>
   <string name="user_add_user_menu">Tilføj bruger</string>
-  <string name="user_confirm_remove_message">Er du sikekr på du vil slette brugeren og alle asocierede data fra enheden?</string>
+  <string name="user_confirm_remove_message">Er du sikker på du vil slette brugeren og alle associerede data fra enheden?</string>
   <string name="user_confirm_remove_title">Slet bruger?</string>
   <string name="user_details_title">Rediger detaljer</string>
   <string name="user_dict_multiple_settings_title">Personlige ordbøger</string>
@@ -1962,7 +1962,7 @@ Forsøg tilbage :"</string>
   <string name="virus_scan_app_stop_scan">Stop scanning</string>
   <string name="virus_scan_app_uninstall">Afinstaller (%d)</string>
   <string name="virus_scan_app_waiting">Venter</string>
-  <string name="virus_scanner_auto_update">Auto opdater</string>
+  <string name="virus_scanner_auto_update">Auto opdatering</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virus database opdateret</string>
   <string name="virus_scanner_lib_update_failed">Virus database opdatering mislykkedes!</string>
@@ -1970,14 +1970,14 @@ Forsøg tilbage :"</string>
   <string name="virus_scanner_manual_update">Opdater manuelt</string>
   <string name="virus_scanner_provider">Sikkerhed udbudt af %s</string>
   <string name="virus_scanner_scan">Scan nu</string>
-  <string name="virus_scanner_scanning">scanner</string>
+  <string name="virus_scanner_scanning">kcanner</string>
   <string name="virus_scanner_select_Cancel">Annuller</string>
   <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Virus Database</string>
   <string name="virus_scanner_select_multi">Valg af mere end en Virus Database kræver gen-installation</string>
   <string name="virus_scanner_select_single">Vælg den mest betroede Virus Database</string>
   <string name="virus_scanner_select_trust_lib">Vælg betroet Virus Database</string>
-  <string name="virus_scanner_title">Virus scanner</string>
+  <string name="virus_scanner_title">Virus skanner</string>
   <string name="virus_scanner_update_lib">Opdater Virus Database</string>
   <string name="voice_category">Tale</string>
   <string name="voice_input_output_settings">Voice indput og output</string>
@@ -2069,7 +2069,7 @@ Forsøg tilbage :"</string>
   <string name="wifi_disabled_generic">Handicappede</string>
   <string name="wifi_disabled_help">Netværket blev undgået på grund af dårlig forbindelse. Sluk denne adfærd fra Indstillinger&gt;Wi-Fi-skærm, Advanced menupunkt.</string>
   <string name="wifi_disabled_network_failure">Undgik dårlig internetforbindelse</string>
-  <string name="wifi_disabled_password_failure">Authentication problem</string>
+  <string name="wifi_disabled_password_failure">Godkendelsesproblem</string>
   <string name="wifi_dns1">DNS-1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
@@ -2106,7 +2106,7 @@ Forsøg tilbage :"</string>
   <string name="wifi_menu_forget">Glem netværk</string>
   <string name="wifi_menu_modify">Rediger netværk</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_scan">Scan</string>
+  <string name="wifi_menu_scan">Skan</string>
   <string name="wifi_menu_wfd">Wi-Fi Visning</string>
   <string name="wifi_menu_wps_pbc">WPS Tryk på knap</string>
   <string name="wifi_menu_wps_pin">WPS Pin indtastning</string>
@@ -2174,7 +2174,7 @@ Forsøg tilbage :"</string>
   <string name="wifi_setup_back">Tilbage</string>
   <string name="wifi_setup_cancel">Annuller</string>
   <string name="wifi_setup_connect">Tilslut</string>
-  <string name="wifi_setup_description_connected">Touch </string>
+  <string name="wifi_setup_description_connected">Tryk </string>
   <string name="wifi_setup_description_connecting">Tilslutning kan tage et par minutter ...</string>
   <string name="wifi_setup_detail">Netværksdetaljer</string>
   <string name="wifi_setup_eap_not_supported">"Du kan ikke konfigurere en EAP Wi-Fi-forbindelse under installationen. Efter opsætning, kan du gøre det i Indstillinger&gt;Trådløst og netværk."</string>
@@ -2212,7 +2212,7 @@ Forsøg tilbage :"</string>
   <string name="wifi_state_enabling">Aktiverer</string>
   <string name="wifi_state_label">Wi-Fi-tilstand:</string>
   <string name="wifi_state_unknown">Ukendt</string>
-  <string name="wifi_status">status</string>
+  <string name="wifi_status">Status</string>
   <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Deaktivering ...</string>
   <string name="wifi_tether_checkbox_text">Bærbart Wi-Fi hotspot</string>
