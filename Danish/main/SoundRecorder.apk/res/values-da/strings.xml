@@ -22,7 +22,7 @@
   <string name="error_mediadb_new_record">Kan ikke gemme optaget lyd</string>
   <string name="error_sdcard_access">Kan ikke få adgang til SD-kort</string>
   <string name="fm_record">FM optagelse (%d)</string>
-  <string formatted="false" name="hour">%d time(r)</string>
+  <string name="hour" formatted="false">%d time(r)</string>
   <string name="insert_sd_card">Indsæt SD-kort</string>
   <string name="low_battery_error">Der er mindre end 5% batteri tilbage. For at hindre at optagelsen ikke gik tabt, er den blev stoppet og gemt.</string>
   <string name="low_battery_message_title">Lavt batteri</string>
@@ -31,15 +31,15 @@
   <string name="max_length_reached">Maks. længde er nået</string>
   <string name="menu_setting">Indstillinger</string>
   <string name="menu_view_record_list">Se liste over optagelser</string>
-  <string formatted="false" name="minute">%d minut</string>
+  <string name="minute" formatted="false">%d minut</string>
   <string name="no_file">Ingen optagelse</string>
   <string name="notification_playback">Afspiller optagelse…</string>
   <string name="notification_playback_paused">Pause...</string>
   <string name="notification_recording">Optager</string>
   <string name="notification_stopped">Optagelse stoppet</string>
-  <string formatted="false" name="notification_warning">Lav lagerplads(mindre end %d minutter)...</string>
+  <string name="notification_warning" formatted="false">Lav lagerplads(mindre end %d minutter)...</string>
   <string name="open_file_explorer">Åben Filhåndtering</string>
-  <string formatted="false" name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
   <string name="prefDefault_recordType">audio/3gpp</string>
   <string name="prefDialogTitle_recordType">Vælg venligst filtype</string>
   <string name="pref_summary_enable_high_quality">Lydfiler i høj kvalitet kan være større</string>
@@ -59,12 +59,14 @@
   <string name="rename_duplicate">Navn eksisterer, venligst anvend et andet:</string>
   <string name="rename_illegal">Ugyldigt navn, venligst anvend et andet:</string>
   <string name="sd_card_not_available">SD-Kort ikke tilgængelig</string>
-  <string formatted="false" name="second">%d sekunder</string>
+  <string name="second" formatted="false">%d sekunder</string>
   <string name="send_to">Send til</string>
   <string name="status_bar_anti_disturb">Telefon er på lydløs, juster lydstyrken for at fortsætte.</string>
   <string name="status_bar_back">Tryk for at vende tilbage til optager</string>
   <string name="status_bar_recording">Optager...</string>
+  <string name="status_bar_recording_back">Tryk for at vende tilbage til optager</string>
+  <string name="status_bar_recording_pause">Optagelse er sat på pause</string>
   <string name="storage_is_full">Lager er fyldt</string>
-  <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="unknown_caller">Ukendt</string>
 </resources>

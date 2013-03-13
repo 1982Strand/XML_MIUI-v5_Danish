@@ -1749,7 +1749,7 @@ Forsøg tilbage :"</string>
   <string name="sync_menu_sync_cancel">Annuller synk</string>
   <string name="sync_menu_sync_now">Synk nu</string>
   <string name="sync_one_time_sync">"Tryk for at synkronisere nu %1$s "</string>
-  <string name="sync_plug"/>
+  <string name="sync_plug" />
   <string name="sync_settings">Konti og synkronisering</string>
   <string name="sync_wifi_label">Wi-Fi Synk indstillinger</string>
   <string name="system">System</string>

@@ -19,6 +19,7 @@
   <string name="auto_create_recent_album_confirm">Efter deaktiovering af denne feature, vil Galleri rydde data for favorit albums. Favorit albums indstillet af brugeren bliver ikke berørt. Alternativt kan det indstilles ved langt tryk på et album.</string>
   <string name="auto_create_recent_album_over_ten_times">Auto opret favorit album(s) når åbnet mere end ti gange</string>
   <string name="autofix">Auto-fix</string>
+  <string name="big_screen_alertdialog_title">Projekteringsenhed</string>
   <string name="bigscrren_slide_exit">Afslut diasshow på TV</string>
   <string name="browse_category">Gennemse fotos</string>
   <string name="camera_connected">Kamera forbundet.</string>

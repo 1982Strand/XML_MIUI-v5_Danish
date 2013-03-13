@@ -301,6 +301,7 @@
   <string name="pref_force_userscalable_summary">"Overskyg en hjemmesides anmodning om at styre zoom adfærd"</string>
   <string name="pref_general_autofill_title">Auto-fyld</string>
   <string name="pref_general_exit_setting_title">Luk indstillinger</string>
+  <string name="pref_general_setting_title">Indstillinger</string>
   <string name="pref_general_sync_title">Synk</string>
   <string name="pref_general_title">Generelt</string>
   <string name="pref_gesture_title">Berøringshandlinger</string>
@@ -356,6 +357,7 @@
   <string name="pref_security_show_security_warning">Vis sikkerhedsadvarsler</string>
   <string name="pref_security_show_security_warning_summary">"Vis advarsel, hvis der er et problem med et websteds sikkerhed"</string>
   <string name="pref_set_homepage_to">indstillet til</string>
+  <string name="pref_setting_title">Side indstillinger</string>
   <string name="pref_text_zoom">Tekst skalering</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_mione_value">6</string>

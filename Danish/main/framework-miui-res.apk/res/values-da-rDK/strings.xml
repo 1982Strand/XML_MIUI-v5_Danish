@@ -253,7 +253,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Slet</string>
-  <string name="double_seventh_day"/>
+  <string name="double_seventh_day" />
   <string name="emergency_call_string">Nødopkald</string>
   <string name="error_forbidden">Der er problemer med din konto. Synk er deaktiveret.</string>
   <string name="error_not_acceptable">Der opstod serverfejl. Synk er deaktiveret.</string>
