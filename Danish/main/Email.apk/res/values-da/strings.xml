@@ -243,14 +243,14 @@
   <string name="default_signature">Sendt fra min telefon</string>
   <string name="delete_action">Slet</string>
   <string name="delete_quick_response_action">Slet</string>
-  <string formatted="false" name="destination_format">%1$s „%2$s”</string>
+  <string name="destination_format">%1$s „%2$s”</string>
   <string name="device_admin_description">Aktiverer server-specificeret sikkerhedpolitik</string>
   <string name="device_admin_label">Email</string>
   <string name="dialog_first_wifi">Store filer vil kun blive uploadet via Wi-Fi.</string>
   <string name="dialog_sync_all_canceled">Synk alt annulleret</string>
   <string name="dialog_sync_all_error_title">Synk Alt</string>
   <string name="dialog_sync_all_found_none">Ikke flere fotos/videoer der skal uploades.</string>
-  <string formatted="false" name="dialog_sync_all_preparing">Forbereder %1$d fotos og %2$d videoer til upload...</string>
+  <string name="dialog_sync_all_preparing">Forbereder %1$d fotos og %2$d videoer til upload...</string>
   <string name="dialog_sync_all_scanning">Scanner for filer...</string>
   <string name="dialog_sync_all_server_error">Der opstod et problem med kommunikationen med serveren. Prøv igen senere.</string>
   <string name="disable_admin_warning">"ADVARSEL: Deaktivering af E-Mail app'ens rettigheder til at administrere din telefon viol slette alle konti der behøver det, samt deres E-Mail, kontakter, kalender begivenheder, og andre data."</string>
@@ -484,10 +484,10 @@ CC: %4$s
   <string name="preference_plus_sync_while_roaming_summary">Upload fotos &amp; videoer under roaming</string>
   <string name="preference_plus_title">Instant Upload indstillinger</string>
   <string name="preference_plus_upload_status">Upload status</string>
-  <string formatted="false" name="preference_summary_header_format">%1$s: %2$s</string>
+  <string name="preference_summary_header_format">%1$s: %2$s</string>
   <string name="preference_summary_need_power">Upload kun når telefon bliver ladt op.</string>
   <string name="preference_summary_need_wifi">Upload kun når Wi-Fi er tilgængelig.</string>
-  <string formatted="false" name="preference_summary_uploading_format">: %1$d af %2$d</string>
+  <string name="preference_summary_uploading_format">: %1$d af %2$d</string>
   <string name="preference_summary_uploading_paused">Pause: tryk for at genoptage upload</string>
   <string name="preference_summary_uploading_percent">Uploader (%1$d%%)</string>
   <string name="preference_title_camera_sync_version">Instant Upload Version</string>
