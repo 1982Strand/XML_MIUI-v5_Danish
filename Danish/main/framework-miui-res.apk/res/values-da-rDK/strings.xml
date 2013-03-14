@@ -427,6 +427,8 @@
   <string name="the_mid_autumn_festival" />
   <string name="the_rains" />
   <string name="the_spring_festival" />
+  <string name="today">Idag</string>
+  <string name="tomorrow">Imorgen</string>
   <string name="unknown">Ukendt nummer</string>
   <string name="unknown_caller">Ukendt nummrer</string>
   <string name="unlock_string">OK</string>
@@ -460,4 +462,5 @@
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="yesterday">Igår</string>
 </resources>

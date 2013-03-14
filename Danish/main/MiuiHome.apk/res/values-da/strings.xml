@@ -125,6 +125,7 @@
   <string name="pref_icon_shadow_title">Ikon Skygge</string>
   <string name="pref_keep_in_memory_summary">Launcher vil ikke lukke ved lav hukommelse</string>
   <string name="pref_keep_in_memory_title">Behold i hukommelsen</string>
+  <string name="pref_keep_layout_summary">Ændring af ikon layout kan forvrænge dit skrivebords layout.</string>
   <string name="pref_keep_layout_title">Behold nuværende layout</string>
   <string name="pref_render_in_truecolor_summary">Dekativer for at forbedre ydeevnen</string>
   <string name="pref_render_in_truecolor_title">Ægte farvegengivelse</string>
@@ -132,7 +133,7 @@
   <string name="pref_wallpaper_scroll_type_title">Typer af tapet rulning</string>
   <string name="preferences_general_title">Ydeevne &amp; udseende</string>
   <string name="preferences_title">Launcher indstillinger</string>
-  <string name="process" />
+  <string name="process"/>
   <string name="processing">Behandler...</string>
   <string name="reset_scene_prompt">Layout vil blive nulstillet</string>
   <string name="resource_alarm_default">Alarm</string>

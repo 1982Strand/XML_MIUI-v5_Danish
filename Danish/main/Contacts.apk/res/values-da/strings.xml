@@ -22,6 +22,9 @@
   <string name="add_organization">Tilføj organisation</string>
   <string name="add_to_my_contacts">Tilføj til mine kontaktpersoner</string>
   <string name="add_wait">Tilføj pause</string>
+  <string name="add_xiaomi_account_dialog_btn">Anvend Xiaomi konto</string>
+  <string name="add_xiaomi_account_dialog_msg">For den bedste brugeroplevelse, venligst overvej at bruge din Xiaomi konto til at synkronisere og sikkerhedskopiere kontakter og håndtere dine kontakter fra en computer.</string>
+  <string name="add_xiaomi_account_dialog_title">Vælg synk konto</string>
   <string name="aggregation_suggestion_edit_dialog_message">Skift til redigering af den valgte kontakt? Oplysninger, du har indtastet indtil videre vil blive kopieret.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Rediger valgte kontakter</string>
   <string name="aggregation_suggestion_join_dialog_message">Flet nuværende kontakt med den valgte kontakt?</string>
@@ -400,6 +403,7 @@
   <string name="insertGroupDescription">Opret gruppe</string>
   <string name="invalidContactMessage">Kontakt eksisterer ikke</string>
   <string name="keep_local">Behold lokal</string>
+  <string name="keep_local_btn">Gem kun til telefon</string>
   <string name="label_custom_type">Brugerdefineret</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tillykke! Ingen duplikerde kontakter!</string>
