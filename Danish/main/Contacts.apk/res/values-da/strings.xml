@@ -80,7 +80,7 @@
   <string name="calllog_menu_edit_before_call">Rediger, før du ringer</string>
   <string name="calllog_menu_send_sms">Send SMS</string>
   <string name="callrecordview_item_newcontact">Ny kontaktperson</string>
-  <string formatted="false" name="callrecordview_item_op_time_minutes_seconds">%d min %d sek</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
   <string name="callrecordview_item_op_time_missed">Ikke forbundet</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
@@ -194,11 +194,11 @@
   <string name="delete_contact_calllog_title">"Bekræft sletning af kontaktens opkaldslister?"</string>
   <string name="delete_duplicate">Flet</string>
   <string name="delete_duplicate_message">"Fletter ... "</string>
-  <string formatted="false" name="delete_group_dialog_message">"Er du sikker på du vil slette gruppen '%1$s'? (Selve kontakterne vil ikke blive slettet .)"</string>
+  <string name="delete_group_dialog_message">"Er du sikker på du vil slette gruppen '%1$s'? (Selve kontakterne vil ikke blive slettet .)"</string>
   <string name="delete_group_dialog_title">Slet gruppe</string>
   <string name="delete_unknown_contact_calllog_title">"Bekræft sletning af ukendt kontakts opkaldslister?"</string>
   <string name="description_add_contact">Tilføj kontakt</string>
-  <string formatted="false" name="description_call">Ring til %1$s</string>
+  <string name="description_call">Ring til %1$s</string>
   <string name="description_call_log_incoming_call">Indgående opkald</string>
   <string name="description_call_log_missed_call">Mistet opkald</string>
   <string name="description_call_log_outgoing_call">udgående opkald</string>
@@ -314,13 +314,13 @@
   <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktoplysninger. Årsag: \"%s\" "</string>
   <string name="exporting_contact_failed_title">"Kunne ikke eksportere kontakt data"</string>
   <string name="exporting_contact_list_message">Dine kontakt data bliver eksporteret til: %s.</string>
-  <string formatted="false" name="exporting_contact_list_progress">%s af %s kontakter</string>
-  <string name="exporting_contact_list_title">Eksporterer kontakt data</string>
+  <string name="exporting_contact_list_progress">%s af %s kontakter</string>
+  <string name="exporting_contact_list_title" formatted="false">Eksporterer kontakt data</string>
   <string name="exporting_vcard_canceled_title">Eksportering af %s blev annulleret</string>
   <string name="exporting_vcard_finished_title">Færdig med eksportering af %s</string>
   <string name="external_profile_title">Min %1$s profil</string>
   <string name="fail_reason_could_not_initialize_exporter">Kunne ikke initialisere eksporten: \"%s\"</string>
-  <string formatted="false" name="fail_reason_could_not_open_file">Kunne ikke åbne \"%s\":%s</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Kunne ikke åbne \"%s\":%s</string>
   <string name="fail_reason_error_occurred_during_export">Der opstod en fejl under eksport: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Kunne ikke indsamle meta info fra givne vCard fil(er)."</string>
   <string name="fail_reason_failed_to_read_files">En eller flere filer kunne ikke importeres (%s).</string>
