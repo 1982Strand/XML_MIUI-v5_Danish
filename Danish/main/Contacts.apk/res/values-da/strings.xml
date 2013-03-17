@@ -314,7 +314,7 @@
   <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktoplysninger. Årsag: \"%s\" "</string>
   <string name="exporting_contact_failed_title">"Kunne ikke eksportere kontakt data"</string>
   <string name="exporting_contact_list_message">Dine kontakt data bliver eksporteret til: %s.</string>
-  <string name="exporting_contact_list_progress">%s af %s kontakter</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s af %s kontakter</string>
   <string name="exporting_contact_list_title" formatted="false">Eksporterer kontakt data</string>
   <string name="exporting_vcard_canceled_title">Eksportering af %s blev annulleret</string>
   <string name="exporting_vcard_finished_title">Færdig med eksportering af %s</string>
