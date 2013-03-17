@@ -307,12 +307,6 @@
   <string name="mailbox_name_display_sent">Sendt</string>
   <string name="mailbox_name_display_trash">Skraldespand</string>
   <string name="mailbox_name_display_unread">Ulsæt</string>
-  <string name="mailbox_name_server_drafts">Kladder</string>
-  <string name="mailbox_name_server_inbox">Indbakke</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Udbakker</string>
-  <string name="mailbox_name_server_sent">Sendt</string>
-  <string name="mailbox_name_server_trash">Skraldespand</string>
   <string name="mailbox_preferences_header">Synk indstillinger</string>
   <string name="mailbox_settings_action">Synk indstillinger</string>
   <string name="mailbox_settings_activity_title">Synk indstillinger</string>
