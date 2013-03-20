@@ -143,8 +143,8 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
+  <string name="config_export_vcard_type">standard</string>
+  <string name="config_import_vcard_type">standard</string>
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">"Er du sikker på du vil slette opkaldslister for %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts opkaldslister</string>
@@ -171,8 +171,8 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="contact_list_loading">Indlæser...</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">kan ikke redigeres fra dette program</string>
-  <string name="contact_status_update_attribution">via%1$s</string>
-  <string name="contact_status_update_attribution_with_date">%1$s via%2$s</string>
+  <string name="contact_status_update_attribution">via %1$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Kontakt fjernet fra favoritter</string>
   <string name="contactsAllLabel">Alle</string>
   <string name="contactsFavoritesLabel">Favoritter</string>
@@ -423,7 +423,7 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="label_custom_type">Brugerdefineret</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tillykke! Ingen duplikerde kontakter!</string>
-  <string name="label_notes">Notes</string>
+  <string name="label_notes">Noter</string>
   <string name="label_sip_address">SIP</string>
   <string name="launcherDialer">Telefon</string>
   <string name="listAllContactsInAccount">Kontakter i %s</string>
@@ -542,7 +542,7 @@ For at tilføje kontakter, tryk på "</string>
 
 For at tilføje kontakter, tryk på "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Du har ingen kontakter at vise. (Hvis du lige har tilføjet en konto, kan det tage et par minutter at synkronisere kontakter.)"</string>
-  <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
+  <string name="noContactsNoSimHelpText">"Du har ingen kontakter at vise.
 
 For at tilføje kontakter, tryk på "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Ingen kontakter at vise. (Hvis du lige har tilføjet en konto, kan det tage et par minutter at synkronisere.)
@@ -601,6 +601,7 @@ For at tilføje kontakt til favoritter:
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Primær</string>
   <string name="photoPickerNotFoundText">Ingen billeder er tilgængelige</string>
+  <string name="photo_package_activity_title">Billedpakke</string>
   <string name="pick_favorites_contacts_list_title">%1$d favorit kontakter</string>
   <string name="pick_favorites_list_title">%1$d favorit kontakt numre</string>
   <string name="pick_new_photo">Vælg nyt billede fra Galleri</string>
