@@ -372,6 +372,8 @@
   <string name="payphone">Mønttelefon</string>
   <string name="peace_day">Peace Day</string>
   <string name="perm_auto_backup">Automatisk backup</string>
+  <string name="perm_data_update_dspt">Tilladt at opdatere data vandmærke</string>
+  <string name="perm_data_update_lab">Data opdatering</string>
   <string name="perm_payment_dspt">Tillad app at betale via Xiaomi betalingstjeneste</string>
   <string name="perm_payment_lab">Xiaomi betalingstjeneste</string>
   <string name="perm_send_push_dspt">Tillad at sende Xiaomi push besked</string>

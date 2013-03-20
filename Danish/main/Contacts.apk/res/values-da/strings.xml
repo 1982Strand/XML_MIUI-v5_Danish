@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_abnormal_state">Ikke genkendt kontoinformation, venligst prøv at logge ind igen eller prøv senere!</string>
   <string name="account_container_title">Fra følgende konto</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Kun telefon (usynkroniserede)</string>
@@ -29,10 +30,15 @@
   <string name="aggregation_suggestion_edit_dialog_title">Rediger valgte kontakter</string>
   <string name="aggregation_suggestion_join_dialog_message">Flet nuværende kontakt med den valgte kontakt?</string>
   <string name="all_list_empty">Ingen kontakter</string>
+  <string name="all_resources">Alle</string>
   <string name="attach_photo_dialog_title">Kontakt Foto</string>
   <string name="audio_chat">Lyd chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="batch_delete">Slet flere kontakter</string>
+  <string name="batch_delete_msg">"Er du sikker på du vil slette de valgte %d kontakter?
+
+Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra denne."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth forbindelse afbrudt</string>
   <string name="blurbJoinContactDataWith">Vælg kontkat du vil flette med %s:</string>
   <string name="btn_delete_multi_contacts">Slet %d kontakter</string>
@@ -198,6 +204,7 @@
   <string name="delete_group_dialog_title">Slet gruppe</string>
   <string name="delete_unknown_contact_calllog_title">"Bekræft sletning af ukendt kontakts opkaldslister?"</string>
   <string name="description_add_contact">Tilføj kontakt</string>
+  <string name="description_author">Forfatter:</string>
   <string name="description_call">Ring til %1$s</string>
   <string name="description_call_log_incoming_call">Indgående opkald</string>
   <string name="description_call_log_missed_call">Mistet opkald</string>
@@ -207,9 +214,11 @@
   <string name="description_call_log_voicemail">Voicemail</string>
   <string name="description_contact_photo">kontakt foto</string>
   <string name="description_delete_button">slet</string>
+  <string name="description_designer">Designer:</string>
   <string name="description_dial_button">Ring op</string>
   <string name="description_dial_phone_number">Ring til %1$s</string>
   <string name="description_digits_edittext">nummer at ringe til</string>
+  <string name="description_download">Downloaded:</string>
   <string name="description_image_button_eight">otte</string>
   <string name="description_image_button_five">fem</string>
   <string name="description_image_button_four">fire</string>
@@ -228,7 +237,11 @@
   <string name="description_search_button">søg</string>
   <string name="description_send_message">Send besked til %1$s</string>
   <string name="description_send_text_message">Send SMS-besked til %1$s</string>
+  <string name="description_size">Størrelse:</string>
   <string name="description_star">foretrukken</string>
+  <string name="description_summary">Beskrivelse:</string>
+  <string name="description_uploadtime">Opdateret:</string>
+  <string name="description_version">Version:</string>
   <string name="description_view_contact">Vis kontakt %1$s</string>
   <string name="description_view_contact_detail">Vis kontakt</string>
   <string name="description_voicemail_button">voicemail</string>
@@ -289,6 +302,8 @@
   <string name="display_sim_contacts">Vis SIM kontakter</string>
   <string name="display_ungrouped">Alle Andre kontaktpersoner</string>
   <string name="display_warn_remove_ungrouped">"Fjernelse af '%s' fra synkronisering vil også fjerne eventuelle ikke grupperede kontakter fra synk."</string>
+  <string name="download_failed">Download mislykkedes!</string>
+  <string name="download_preview_failed">Kunne ikke indlæse eksempel</string>
   <string name="editContactDescription">Rediger Kontakt</string>
   <string name="editGroupDescription">Rediger gruppe</string>
   <string name="edit_contact">Rediger kontakt</string>
@@ -343,7 +358,7 @@
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Navn</string>
   <string name="generic_no_account_prompt">Hold dine kontakter sikret, selv hvis du mister din telefon: synkroniser med en onliner tjeneste.</string>
-  <string name="generic_no_account_prompt_title">Add an account</string>
+  <string name="generic_no_account_prompt_title">Tilføj konto</string>
   <string name="ghostData_company">Organisation</string>
   <string name="ghostData_title">Titel</string>
   <string name="groupSavedErrorToast">Fejl, ude af stand til at gemme gruppe ændringer.</string>
@@ -353,7 +368,7 @@
   <string name="group_create_success_toast">Gruppe oprettet</string>
   <string name="group_delete_success_toast">Gruppe slettet</string>
   <string name="group_edit_field_hint_text">Gruppens navn</string>
-  <string name="group_member_remove_toast">Contact removed from group successfully</string>
+  <string name="group_member_remove_toast">Kontakt fjernet fra gruppe</string>
   <string name="group_name_hint">Gruppens navn</string>
   <string name="group_read_only">Kan ikke redigeres på denne enhed.</string>
   <string name="group_rename_dialog_title">Omdøb gruppe</string>
@@ -391,6 +406,7 @@
   <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
   <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
   <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
+  <string name="import_weibo_fetch_followers">Henter Sina Weibo følgere…</string>
   <string name="import_weibo_notification_title">Importerer Sina weibo kontakter…</string>
   <string name="import_weibo_notification_title_done">Importering fuldført</string>
   <string name="import_weibo_progress_hint">Importerer…</string>
@@ -425,9 +441,11 @@
   <string name="list_filter_customize">Tilpas ...</string>
   <string name="list_filter_phones">Alle kontakter med telefonnumre</string>
   <string name="list_filter_single">Kontakt</string>
+  <string name="loading">Indlæser...</string>
   <string name="loading_group_members">Indlæser gruppe medlemmer...</string>
   <string name="loading_groups">Indlæser grupper...</string>
   <string name="loading_recent">Indlæser nylige kontakter...</string>
+  <string name="loading_resource_detail_info">Indlæser element info...</string>
   <string name="local_invisible_directory">Andre</string>
   <string name="local_profile_title">Min lokale profil</string>
   <string name="local_search_label">Alle kontakter</string>
@@ -558,6 +576,8 @@ For at tilføje kontakt til favoritter:
   <string name="notification_action_voicemail_play">Afspil</string>
   <string name="notification_new_voicemail_ticker">Ny voicemail fra %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
+  <string name="online_no_network">Kan ikke forbinde til netværk</string>
+  <string name="online_search_hint">Søg efter elementer online</string>
   <string name="openDialKeyboard">Telefon</string>
   <string name="open_contact">Vis kontakt</string>
   <string name="option_delete_contact">Slet</string>
@@ -657,8 +677,9 @@ For at tilføje kontakt til favoritter:
   <string name="preview_contact_card_title">Importerer kontakter…</string>
   <string name="previous">forrige</string>
   <string name="private_num">Hemmeligt nummer</string>
+  <string name="processing">Behandler...</string>
   <string name="profile_display_name">Opsæt min profil</string>
-  <string formatted="false" name="progress_notifier_message">Importerer %s/%s: %s</string>
+  <string name="progress_notifier_message" formatted="false">Importerer %s/%s: %s</string>
   <string name="quickcontact_missing_app">Intet program fundet til at håndtere denne handling</string>
   <string name="quit_dialog_confirm_title">Er du sikker på du vil afslutte fletning af kontakter?</string>
   <string name="readOnlyContactDeleteConfirmation">Denne kontakt indeholder information fra flere konti. Info fra skrivebeskyttede konti vil blive skjult i dine kontakters lister, ikke slettet.</string>
@@ -684,7 +705,45 @@ For at tilføje kontakt til favoritter:
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Nu</string>
   <string name="removePhoto">Fjern foto</string>
-  <string name="remove_duplicate">MIUI hjælper dig med at finde og flette duplikerede kontakter, da de ikke flettes automatisk.</string>
+  <string name="remove_duplicate">MIUI hjælper dig med at finde og flette duplikerede kontakter, men de flettes ikke automatisk. Dette skal gøres manuelt</string>
+  <string name="resource_alarm_default">Alarm</string>
+  <string name="resource_app_name">Element Browser</string>
+  <string name="resource_apply">Anvend</string>
+  <string name="resource_buy">Køb</string>
+  <string name="resource_can_not_selected">%1$s kan ikke vælges!</string>
+  <string name="resource_default">Standard ringetone</string>
+  <string name="resource_default_name">Element</string>
+  <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
+  <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementer?</string>
+  <string name="resource_detail">Detaljer</string>
+  <string name="resource_download">Download</string>
+  <string name="resource_downloaded_title">Downloadede elementer</string>
+  <string name="resource_downloading">Downloader...</string>
+  <string name="resource_get_auth_checking">Kontrollerer godkendelse...</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke anvendes på denne telefon, da enhedsgrænsen på 10 er nået, venligst benyt en anden telefon</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Godkendelsesgrænse overskredet</string>
+  <string name="resource_get_auth_missing">Tema ikke hentet fra officielt marked, kan ikke anvendes.</string>
+  <string name="resource_get_auth_retrieving">Modtager godkendelse...</string>
+  <string name="resource_importing">Importerer...</string>
+  <string name="resource_list_title">Seneste</string>
+  <string name="resource_local">Lokal %1$s</string>
+  <string name="resource_mute">Ingen</string>
+  <string name="resource_no_result">Ingen resultater</string>
+  <string name="resource_notification_default">Notifikationer</string>
+  <string name="resource_online">Online %1$s</string>
+  <string name="resource_price_format">(%1$s)</string>
+  <string name="resource_price_free">Gratis</string>
+  <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_ringtone_default">Ringetoner</string>
+  <string name="resource_see_more">Se flere</string>
+  <string name="resource_select">Vælg</string>
+  <string name="resource_server_out_of_service">Server utilgængelig i øjeblikket, prøv igen senere.</string>
+  <string name="resource_switch_account">Skift</string>
+  <string name="resource_system_title">System elementer</string>
+  <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
+  <string name="resource_title">Element detaljer</string>
+  <string name="resource_title_select_ringtone">Vælg ringetone</string>
+  <string name="resource_update">Opdater</string>
   <string name="restore_nickname">Gendan</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Ring tilbage</string>
@@ -698,13 +757,17 @@ For at tilføje kontakt til favoritter:
   <string name="scanning">Skanner efter enheder…</string>
   <string name="scanning_sdcard_failed_message">Kan ikke bruge SD Kort (Årsag: \"%s\")</string>
   <string name="scanning_sdcard_failed_title">Kan ikke bruge SD Kort</string>
+  <string name="sdcard_status_changed_dialog_message">"App vil nu afslutte. Venligst åbn igen for at opdatere elementer."</string>
+  <string name="sdcard_status_changed_dialog_title">SD kort status ændret</string>
   <string name="searchHint">Søg i kontakter</string>
   <string name="search_results_searching">Søger ...</string>
   <string name="search_settings_description">Navne på dine kontakter</string>
   <string name="searching_vcard_message">Søger efter vCard data på SD Kort</string>
   <string name="select_all">Vælg alle</string>
   <string name="select_device">Vælg enhed at forbinde til</string>
+  <string name="select_new_photo_from_photo_package">Vælg nyt billede fra billedpakken</string>
   <string name="select_none">Intet valgt, handlingen er ugyldig</string>
+  <string name="select_photo_from_photo_package">Vælg billede fra billedpakken</string>
   <string name="select_show_contacts">Vis kontakten</string>
   <string name="select_vcard_title">Vælg vCard-fil</string>
   <string name="send_contact_shortcut_todesktop_success">Tilføjede genvej til kontakt på skrivebordet</string>

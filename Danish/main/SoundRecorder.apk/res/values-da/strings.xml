@@ -50,6 +50,8 @@
   <string name="preferences_title">Indsstillinger</string>
   <string name="record_list">Optagelser</string>
   <string name="record_loading">Indlæser optagelse, vent venligst.</string>
+  <string name="record_name_hour">.</string>
+  <string name="record_name_minute">min</string>
   <string name="record_picker_title">Vælg optagelse</string>
   <string name="record_saving">Gemmer optagelse, vent venligst.</string>
   <string name="recording">Optager</string>
