@@ -881,7 +881,7 @@ For at tilføje kontakt til favoritter:
   <string name="viewContactTitle">Kontakt detaljer</string>
   <string name="view_updates_from_group">Vis opdateringer</string>
   <string name="voicemail">Voicemail</string>
-  <string name="voicemail_buffering">Buffering ...</string>
+  <string name="voicemail_buffering">Indlæser i buffer ...</string>
   <string name="voicemail_fetching_content">Henter voicemail ...</string>
   <string name="voicemail_fetching_timout">"Kunne ikke hente voicemail."</string>
   <string name="voicemail_playback_error">"Kunne ikke spille voicemail."</string>
