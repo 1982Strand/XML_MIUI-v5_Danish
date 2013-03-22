@@ -74,7 +74,7 @@
   <string name="android_beam_disabled_summary">Ikke tilgængelig, da NFC er slukket</string>
   <string name="android_beam_explained">"Når denne funktion er slået til, kan du stråle app indhold til en anden NFC-kompatible enhed ved at holde enhederne tæt på hinanden. For eksempel kan du sende browsersider, YouTube videoer, kontakter, og mere. Bare før enhederne sammen (typisk ryg mod ryg), og tryk derefter på din skærm. Applikationen afgør, hvad der bliver strålet."</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">Off</string>
+  <string name="android_beam_off_summary">Fra</string>
   <string name="android_beam_on_summary">Klar til at overføre app indhold via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="animator_duration_scale_title">Animatons længde skala</string>
@@ -291,6 +291,7 @@
   <string name="bluetooth_device_context_unpair">Annuller pardannelse</string>
   <string name="bluetooth_device_details">Enhedsindstillinger</string>
   <string name="bluetooth_device_name">Enhedsnavn</string>
+  <string name="bluetooth_device_searchable">Enhed synlig</string>
   <string name="bluetooth_devices">Bluetooth-enheder</string>
   <string name="bluetooth_disable_profile_message">Dette vil deaktivere:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fra:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Deaktiver profil?</string>
@@ -642,6 +643,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
   <string name="device_default_name">Xiaomi telefon</string>
+  <string name="device_edit_title">Skift enhedens navn</string>
   <string name="device_info_default">Ukendt</string>
   <string name="device_info_label">Enheds info</string>
   <string name="device_info_not_available">Ikke tilgængelig</string>
@@ -650,6 +652,8 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_memory">RAM:</string>
   <string name="device_miui_version">MIUI version:</string>
   <string name="device_name">Enhedsnavn</string>
+  <string name="device_name_input_hint">Indtast enhedens navn</string>
+  <string name="device_name_usage_point">Tillad enhed at blive opdaget af andre Bluetooth enheder, for at muliggøre filoverførsler og andre funktioner.</string>
   <string name="device_picker">Bluetooth-enhedsvælger</string>
   <string name="device_sd_memory">SD Kort:</string>
   <string name="device_status">Status</string>
@@ -834,7 +838,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="header_category_wireless_networks">Trådløs og netværk</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="heavy_weight_stop_description">Denne applikation kan ikke stoppes sikkert. Dette kan medføre tab af dit nuværende arbejde.</string>
-  <string name="help_label">Help</string>
+  <string name="help_label">Hjælp</string>
   <string name="help_url_accounts"/>
   <string name="help_url_backup_reset"/>
   <string name="help_url_battery"/>
@@ -1488,7 +1492,7 @@ Prøv følgende:
   <string name="runningservicedetails_services_title">Tjenester</string>
   <string name="runningservicedetails_settings_title">Kørende app</string>
   <string name="runningservicedetails_stop_dlg_text">Hvis du stopper denne service, kan nogle af telefonens funktioner stoppe med at arbejde korrekt, før du slukker og derefter tænder igen.</string>
-  <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
+  <string name="runningservicedetails_stop_dlg_title">Stop system tjeneste?</string>
   <string name="runningservices_settings_summary">Se og styr kørende apps</string>
   <string name="runningservices_settings_title">Jobliste</string>
   <string name="safe_relative">Sikre tilladelser</string>

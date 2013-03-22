@@ -335,6 +335,7 @@
   <string name="pref_grp_picture_settings">Billed indstillinger</string>
   <string name="pref_grp_restore_settings">Gendand indstillinger</string>
   <string name="pref_settings_mode">Kamera tilstand</string>
+  <string name="pref_video_captrue_ability_title">Egenskaber for videooptagelse</string>
   <string name="pref_video_continuous_focus">Kontinuerlig fokus</string>
   <string name="pref_video_continuous_focus_entry_off">Fra</string>
   <string name="pref_video_continuous_focus_entry_on">Til</string>

@@ -5,9 +5,15 @@
   <string name="input_method">Tastatur</string>
   <string name="input_method_category">Vælg standard tastatur</string>
   <string name="next">Næste</string>
+  <string name="other_service_google_location">Googles Placeringstjeneste</string>
+  <string name="other_service_google_location_use">Position &amp; Google søgning</string>
+  <string name="other_service_google_location_use_help">"Tillad Googles Positionstjeneste at indsamle anonyme placeringsdata. Indsamling vil ske selv når ingen applikationer kører. For at ændre denne indstilling, gå til indstillinger &gt; Positionstjenester"</string>
+  <string name="other_service_google_location_use_summary">Lad Google anvende din placering for at forbedre søgeresultater og andre tjenester</string>
   <string name="other_service_label">Andre tjenester</string>
   <string name="other_service_location">Placeringstjenester</string>
-  <string name="other_service_location_summary">Placeringstjenester tillader Maps og andre apps at finde din placering via GPS</string>
+  <string name="other_service_location_summary">Positionstjenester tillader Maps og andre apps at finde din placering via GPS</string>
+  <string name="other_service_permission_manager">Håndter App Tilladelser</string>
+  <string name="other_service_permission_manager_summary">Overvåger apps for sikkerhed og privatliv</string>
   <string name="other_service_user_experience">Deltag i bruger erfaringsprogrammet</string>
   <string name="other_service_user_experience_summary0">"Vi er afhængige af din brug af vores produkt og features og håber du vil hjælpe os med tilbagemeldinger."</string>
   <string name="other_service_user_experience_summary1">Tak, MIUI teamet</string>
