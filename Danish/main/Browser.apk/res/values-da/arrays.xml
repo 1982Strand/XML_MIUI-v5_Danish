@@ -7,10 +7,7 @@
         <item>Fra</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Aktuel side</item>
         <item>Tom side</item>
-        <item>Standardside</item>
-        <item>Default page</item>
         <item>Mest besøgte websteder</item>
         <item>Andre</item>
     </string-array>
@@ -26,7 +23,6 @@
         <item>Mellem</item>
         <item>Tæt</item>
     </string-array>
-    
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
