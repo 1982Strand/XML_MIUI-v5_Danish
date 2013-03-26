@@ -19,7 +19,7 @@
   <string name="accessibility_button_search">Søg</string>
   <string name="accessibility_button_smaller">Mindre</string>
   <string name="accessibility_button_stop">Stop sideindlæsning</string>
-  <string name="accessibility_button_tabs">Fan</string>
+  <string name="accessibility_button_tabs">Faner</string>
   <string name="accessibility_button_uaswitch">Skift brugeragent</string>
   <string name="accessibility_button_voice">Start voice søgning</string>
   <string name="accessibility_state_frozen">Gemt side</string>

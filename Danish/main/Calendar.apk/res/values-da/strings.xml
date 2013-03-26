@@ -52,7 +52,7 @@
   <string name="creating_event_with_guest">Invitationerne er sendt.</string>
   <string name="custom">Tilpasset (kan ikke tilpasses på telefon)</string>
   <string name="daily">Dagligt</string>
-  <string formatted="false" name="date_time_fmt">%s, %s</string>
+  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dag</string>
   <string name="day_view_new_event_hint">+ Ny begivenhed</string>
   <string name="delete_label">Slet</string>
