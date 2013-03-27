@@ -28,8 +28,6 @@
   <string name="menu_settings">Søgeindstillinger</string>
   <string name="remove_from_history">Fjern fra søgehistorik</string>
   <string name="remove_from_history_failed">"Kunne ikke fjerne fra historik"</string>
-  <string name="search_in_app_store">Søg i Play Butik</string>
-  <string name="search_in_web">Søg på nettet</string>
   <string name="search_settings">Søgeindstillinger</string>
   <string name="search_sources">Søgbare elementer</string>
   <string name="search_sources_summary">Vælg hvad der skal søges på telefon</string>

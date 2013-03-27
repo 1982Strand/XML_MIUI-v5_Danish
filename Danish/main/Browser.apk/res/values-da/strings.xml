@@ -98,7 +98,7 @@
   <string name="clear">Ryd</string>
   <string name="clear_history">Ryd historik</string>
   <string name="containing_folder">Tilføj til</string>
-  <string formatted="false" name="contextheader_folder_bookmarkcount">%d bogmærker</string>
+  <string name="contextheader_folder_bookmarkcount">%d bogmærker</string>
   <string name="contextheader_folder_empty">Tøm mappen</string>
   <string name="contextmenu_add_contact">Tilføj kontakt</string>
   <string name="contextmenu_copy">Kopier</string>
@@ -121,12 +121,12 @@
   <string name="current_page">"fra"</string>
   <string name="defaultBookmarksUpButton">Bogmærker</string>
   <string name="delete">Slet</string>
-  <string formatted="false" name="delete_bookmark_warning">Slet bogmærke \"%s\"?</string>
+  <string name="delete_bookmark_warning">Slet bogmærke \"%s\"?</string>
   <string name="delete_folder">Slet mappe</string>
   <string name="delete_multi_bookmarks_alert_title">Er du sikker på du vil slette %1$s elementer?</string>
   <string name="disable_autofill">Deaktiver auto-fyld</string>
   <string name="do_not_save">Annuller</string>
-  <string formatted="false" name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for at downloade %s.</string>
+  <string name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for at downloade %s.</string>
   <string name="download_no_sdcard_dlg_title">USB utilgængelig</string>
   <string name="download_pending">Start download ...</string>
   <string name="download_sdcard_busy_dlg_msg">USB-lagring er optaget. Hvis du vil tillade downloads, slå USB-lagring fra i notifikationen.</string>
@@ -157,7 +157,7 @@
   <string name="folder_name">Mappenavn</string>
   <string name="forward">Fremad</string>
   <string name="geolocation_permissions_prompt_dont_share">Afslå</string>
-  <string formatted="false" name="geolocation_permissions_prompt_message">%s ønsker at kende din placering</string>
+  <string name="geolocation_permissions_prompt_message">%s ønsker at kende din placering</string>
   <string name="geolocation_permissions_prompt_remember">Husk præferencer</string>
   <string name="geolocation_permissions_prompt_share">Del placering</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Dette websted kan få adgang til din placering. Skift dette på Indstillinger&gt;Avanceret&gt;Website skærmen.</string>
@@ -171,19 +171,20 @@
   <string name="go_home">hjemmeside</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Gå</string>
+  <string name="have_sent_bookmark_to_home_screen">Sendt til skrivebord</string>
   <string name="history">Historik</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="homepage_set">Indstil som startside</string>
+  <string name="homepage_set">Indstillet som startside</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Importer bogmærker</string>
   <string name="import_bookmark_failure">Import af bogmærker mislykkedes!</string>
   <string name="import_bookmark_sucess">Bogmærker importeret</string>
   <string name="import_bookmarks_dialog_add">Føj bogmærker til Google-konto</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_add">Tilføj bogmærker i øjeblikket på denne enhed og begynde at synkronisere bogmærker med %s?</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Slet bogmærker i øjeblikket på denne enhed og begynde at synkronisere bogmærker med %s?</string>
+  <string name="import_bookmarks_dialog_confirm_add">Tilføj bogmærker i øjeblikket på denne enhed og begynde at synkronisere bogmærker med %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Slet bogmærker i øjeblikket på denne enhed og begynde at synkronisere bogmærker med %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Slet bogmærker i øjeblikket på denne enhed og begynde at synkronisere med Google-konto</string>
   <string name="import_bookmarks_dialog_description">"Bogmærker på denne enhed er endnu ikke forbundet med en Google-konto. Gem disse bogmærker ved at føje dem til en konto. Slet disse bogmærker, hvis du ikke ønsker at synkronisere dem."</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Tilføj din Android-bogmærker til bogmærker for %s</string>
+  <string name="import_bookmarks_dialog_import">Tilføj din Android-bogmærker til bogmærker for %s</string>
   <string name="import_bookmarks_dialog_remove">Slet bogmærker</string>
   <string name="import_bookmarks_dialog_select_add_account">Tilføj bogmærker i øjeblikket på denne enhed og begynde at synkronisere med Google-konto</string>
   <string name="import_bookmarks_dialog_title">Synkroniser med Google-konto</string>
@@ -240,7 +241,7 @@
   <string name="pref_autofill_enabled_summary">Udfyld webformularer med et enkelt tryk</string>
   <string name="pref_autofill_profile_editor">Auto-fyld tekst</string>
   <string name="pref_autofill_profile_editor_summary">Opsæt tekst til automatisk at udfylde webformularer</string>
-  <string formatted="false" name="pref_autologin_progress">Logger ind på Google-websteder ved hjælp af %s</string>
+  <string name="pref_autologin_progress">Logger ind på Google-websteder ved hjælp af %s</string>
   <string name="pref_autologin_title">Automatisk Google SignIn</string>
   <string name="pref_clear_cache_for_exit">Ryd cache ved afslutning</string>
   <string name="pref_clear_history_for_exit">Ryd historik ved afslutning</string>
@@ -320,7 +321,7 @@
   <string name="pref_link_prefetch_summary">Tillad browser at indlæse sider i baggrunden</string>
   <string name="pref_link_prefetch_title">Forudindlæs hjemmesider</string>
   <string name="pref_min_font_size">Mindste skriftstørrelse</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pkt</string>
+  <string name="pref_min_font_size_value">%d pkt</string>
   <string name="pref_privacy_clear_cache">Ryd cache</string>
   <string name="pref_privacy_clear_cache_dlg">Slet lokalt cachelagret indhold og databaser?</string>
   <string name="pref_privacy_clear_cache_summary">Ryd lokalt cachelagret indhold og databaser</string>
@@ -365,12 +366,7 @@
   <string name="pref_ua_title">Brugeragent håndtering</string>
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">Brug Google Instant, når du bruger Google-søgning, for at vise resultater, som du skriver (dette kan øge data brug).</string>
-  <string name="pref_video_preload_dialogtitle">Video forudindlæser...</string>
   <string name="pref_video_preload_summary">Tillad browser at forudindlæse video når serveren understøtter det</string>
-  <string name="pref_video_preload_title">Video forudindlæser</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Lydstyrke knapper</string>
   <string name="pref_volume_key_operation">Handling for lydstyrke knapper</string>
   <string name="pref_zoom_on_double_tap">Zoom ved dobbelt-tap</string>

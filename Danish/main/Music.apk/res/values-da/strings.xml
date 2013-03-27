@@ -57,6 +57,8 @@
   <string name="delete_playlist_menu">Slet</string>
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Fravælg alle</string>
+  <string name="dirac_disabled">Dirac er deaktiveret</string>
+  <string name="dirac_enabled">Dirac er aktiveret</string>
   <string name="download">Hent</string>
   <string name="download_album_settings">Auto hent albumcovers</string>
   <string name="download_album_summary">Kan medvirke ekstra taksering, overvej at anvende Wi-Fi istedet</string>

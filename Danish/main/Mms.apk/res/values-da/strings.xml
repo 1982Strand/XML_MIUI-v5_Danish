@@ -14,7 +14,6 @@
   <string name="add_slide">Tilføj dias</string>
   <string name="add_slide_hint">Vælg at oprette nyt dias.</string>
   <string name="add_smiley">Smiley</string>
-  <string name="add_subject">Tilføj emne</string>
   <string name="add_timing">Timer</string>
   <string name="add_video">Tilføj video</string>
   <string name="adding_attachments">Vent venligst mens filerne tilføjes til dias-showet...</string>
@@ -86,7 +85,6 @@
   <string name="delete_bookmark">Slet bogmærke</string>
   <string name="delete_message">Slet besked</string>
   <string name="delete_phrase">Slet sætning</string>
-  <string name="delete_subject">Slet emne</string>
   <string name="delete_unlocked">Slet låst besked</string>
   <string name="delivery_report_activity">Leveringsrapport</string>
   <string name="delivery_toast_body">Besked modtaget af %s</string>
@@ -111,6 +109,7 @@
   <string name="edit_slide_activity">Redigér dias</string>
   <string name="edit_slideshow_activity">Rediger diasshow</string>
   <string name="enable_password_protect">Aktiver adgangskode beskyttelse</string>
+  <string name="enable_visible_pattern_title">Gør mønster synlig</string>
   <string name="enter_edit_mode">Slet</string>
   <string name="error_code_label">"Fejl kode: "</string>
   <string name="error_state">Inkonsistent tilstand</string>
@@ -159,6 +158,8 @@
   <string name="menu_edit">Rediger</string>
   <string name="menu_forward">Videresend</string>
   <string name="menu_lock">Lås besked</string>
+  <string name="menu_new_manual">Indtast nummer manuelt</string>
+  <string name="menu_pick_from_contact">Vælg fra kontakter</string>
   <string name="menu_preferences">Indstillinger</string>
   <string name="menu_unlock">Lås besked op</string>
   <string name="menu_view_contact">Åben kontakt</string>
@@ -226,10 +227,11 @@
   <string name="notification_failed_multiple_title">beskedn kunne ikke sendes!</string>
   <string name="notification_multiple">%s ulæste beskeder.</string>
   <string name="notification_multiple_title">Nye beskeder</string>
+  <string name="number_add_hint">Indtast nummer der skal tilføjes til Private Kontakter</string>
   <string name="phrase_confirm_delete_message">Valgte sætning vil blive slettet</string>
   <string name="phrase_empty">Ingen sætninger</string>
   <string name="phrase_from">Fra %1s</string>
-  <string formatted="false" name="phrase_list_title">Sætninger (%1$d)</string>
+  <string name="phrase_list_title">Sætninger (%1$d)</string>
   <string name="pick_too_many_recipients">For mange modtagere</string>
   <string name="play">Afspil</string>
   <string name="prefDefault_ringtone_repeat">1</string>
@@ -253,7 +255,8 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Hent automatisk MMS beskeder under roaming</string>
   <string name="pref_summary_new_message_popup">Vis Pop-up på skærmen når beskeder modtages</string>
   <string name="pref_summary_new_message_popup_when_secure">Pop-up vindue er deaktiveret når telefonen er beskyttet med kodeord</string>
-  <string name="pref_summary_on_system_mms_priority">System Mms app vil modtage beskeder først</string>
+  <string name="pref_summary_off_system_mms_priority">Andre apps vil muligvis modtage MMS udsendingen før system MMS app</string>
+  <string name="pref_summary_on_system_mms_priority">System MMS app vil prioriteres til modtagelse af MMS udsendinger</string>
   <string name="pref_summary_show_recent_contacts">Vis liste med nyligt anvendte kontakter når der skrives nye beskeder</string>
   <string name="pref_summary_wake_up_screen">Væk skærm når beskeder modtages</string>
   <string name="pref_system_title">System</string>

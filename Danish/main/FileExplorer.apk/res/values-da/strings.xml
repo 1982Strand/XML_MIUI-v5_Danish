@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_bind_prompt">"Indlæser brugerdata
+indlæsning kan tage et par minutter,
+din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="add_task">Tilføj opgaver</string>
   <string name="adding_upload_tasks">Tilføjer upload opgave.</string>
   <string name="app_name">Filer</string>
@@ -27,6 +30,7 @@
   <string name="category_zip">Arkiver</string>
   <string name="choose_send_type">Vælg forsendelsetype</string>
   <string name="choose_upload_location">Vælg upload placering</string>
+  <string name="clean_complete">Oprydning fuldført</string>
   <string name="clean_message">%1$s plads frigjort</string>
   <string name="clean_title">Slet filer fra papirkurven der er ældre end 30 dage</string>
   <string name="clean_trash_box">Ryd papirkurv</string>
@@ -64,6 +68,7 @@
   <string name="dialog_type_image">Billede</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
+  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Download mislykkedes</string>
   <string name="download_link_completed">Jeg har delt %1$s via MiDrive. Klik på linket nedenunder for at se: </string>
   <string name="download_successful">Download fuldført</string>
@@ -82,6 +87,7 @@
   <string name="file_info_modified">Tidspunkt:</string>
   <string name="file_info_size">Størrelse:</string>
   <string name="file_loading">Indlæser...</string>
+  <string name="file_too_large">Filen er for stor, kan ikke uploades</string>
   <string name="finished">Fuldført</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tryk her&lt;/a&gt;for at gå til papirkurven</string>
   <string name="ftp_account_req_notice">Brugernavn og adgangskode, 4~16 tegn, skal indeholde cifre, bogstaver, er versalfølsom</string>
@@ -116,14 +122,18 @@
   <string name="menu_item_sort_name">Navn</string>
   <string name="menu_item_sort_size">Størrelse</string>
   <string name="menu_item_sort_type">Type</string>
+  <string name="migrate_announcement_msg">Hvis du har en kuaipan konto, kan den tilknyttes i indstilinger og få adgang til data herfra.</string>
+  <string name="migrate_announcement_title">MiDriver er indlæst til kuaipan</string>
   <string name="move_failed">Flytning mislykkedes</string>
   <string name="multi_select_title">%1$s valgt</string>
+  <string name="name_illegal">Filnavn kan ikke være blankt</string>
   <string name="net_lose_connected">Netværk ikke tilgængeligt, kan ikke få størrelse</string>
   <string name="networkView_notConnected">Intet netværk tilgængeligt</string>
   <string name="networkView_offline">"Offline tilstand, kan ikke opdatere liste"</string>
   <string name="new_folder_name">Ny Mappe</string>
   <string name="no">Nej</string>
   <string name="no_file">Ingen filer</string>
+  <string name="no_more_space">Ikke mere plads</string>
   <string name="no_tasks">Ingen opgaver</string>
   <string name="no_wifi">Wi-Fi ikke tilsluttet</string>
   <string name="no_wifi_hint">Ingen Wi-Fi forbindelse fundet, tryk for at kontrollere indstillinger</string>
@@ -134,6 +144,8 @@
   <string name="operation_compress">Komprimer</string>
   <string name="operation_compressing">Komprimerer...</string>
   <string name="operation_copy">Kopier</string>
+  <string name="operation_copying">Kopierer...</string>
+  <string name="operation_copying_detail">Kopierer filer (%1$d/%2$d)</string>
   <string name="operation_create_folder">Ny Mappe</string>
   <string name="operation_create_folder_message">Indtast navn</string>
   <string name="operation_decompressing">Dekomprimerer...</string>
@@ -141,12 +153,14 @@
   <string name="operation_delete_confirm_message">Slet?</string>
   <string name="operation_delete_confirm_message_folder">"Sletning af mappen vil også slette filer indeni."</string>
   <string name="operation_deleting">Sletter...</string>
+  <string name="operation_deleting_detail">Sletter filer (%1$d/%2$d)</string>
   <string name="operation_download_link">Generer download link</string>
   <string name="operation_favorite">Favoritter</string>
   <string name="operation_hide_sys">"Vis ikke skjulte"</string>
   <string name="operation_info">Detaljer</string>
   <string name="operation_move">Klip</string>
   <string name="operation_moving">Flytter...</string>
+  <string name="operation_moving_detail">Klipper filer (%1$d/%2$d)</string>
   <string name="operation_paste">Indsæt</string>
   <string name="operation_pasting">Kopierer...</string>
   <string name="operation_pause">Pause</string>
@@ -161,11 +175,14 @@
   <string name="operation_unfavorite">Fjern fra Favoritter</string>
   <string name="pan_settting">MiDrive indstillinger</string>
   <string name="paused">På pause</string>
+  <string name="query_bind_state">Forespørger status på tilknytning, vent venligst...</string>
   <string name="remote_management">FTP</string>
   <string name="rename_description">Omdøber, vent venligst…</string>
   <string name="rename_failed">Kunne ikke omdøbe %1$s</string>
+  <string name="scanning">Skanner</string>
   <string name="sd_card_available">Tilgængelig: %1$s</string>
   <string name="sd_card_size">SD Kort: %1$s</string>
+  <string name="sd_full">SD Kort fyldt</string>
   <string name="search_hint">Indtast hele eller dele af filnavnet</string>
   <string name="search_title">Søg</string>
   <string name="send_to_midrive">Send til MiDrive</string>
@@ -218,6 +235,9 @@
   <string name="user_guide_upload_to_kuaipan">"Kopier og indsæt filer til MiDrive"</string>
   <string name="utf8_summary">Standard kodning</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="wait_net">Venter på netværk</string>
+  <string name="wait_sdcard">Venter på SD Kort monteret</string>
+  <string name="wait_wifi">Venter på Wi-Fi</string>
   <string name="waiting">Venter...</string>
   <string name="wangpan_root_path">Mit Drev</string>
   <string name="wifi_state">Wi-Fi Status</string>

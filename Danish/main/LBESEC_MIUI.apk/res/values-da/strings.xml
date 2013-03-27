@@ -25,7 +25,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT er ikke tilgængelig i stable MIUI versioner</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Afgivning af ROOT tilladelser til 3. parts apps kan medføre system ustabilitet, eller tab af personlige data og system samt hardware skade.. Skift til en development version af MIUI for at aktivere ROOT tilladelser."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT Tilladelse</string>
   <string name="Dashboard_Su_Enable_Content">Aktivering vil give apps adgang til at anmode onm ROOT tilladelser. Fortsæt?</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Tilladelse</string>
@@ -147,7 +147,6 @@
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Standard SMS-center</string>
   <string name="HIPS_Perm_SendSMS_Text">sende SMS til %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">gøre ringetonen lydløs</string>
-  <string name="HIPS_Perm_Title">Titel</string>
   <string name="HIPS_Perm_WIFINetwork">WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Adgang internettet via WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps er tilladt adgang til internettet</string>

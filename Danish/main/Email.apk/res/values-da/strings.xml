@@ -213,6 +213,7 @@
   <string name="cc">Cc</string>
   <string name="choose_attachment_dialog_title">Vælg vedhæftning</string>
   <string name="choosertitle_sharevia">Del via</string>
+  <string name="cleared_trusted_senders_message">"Ryd \"vis billeder\", billeder i beskeder vil ikke vises automatisk."</string>
   <string name="close_action">Luk</string>
   <string name="completed_no_file">Fil ikke fundet</string>
   <string name="compose_action">Ny</string>

@@ -6,16 +6,10 @@
   <string name="account_hint_text">Email/Telefonnummer</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="activating">Aktiverer...</string>
-  <string name="add_weibo_account">Tilføj konto</string>
   <string name="alert_title_remove_account">Slet konto</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Validering mislykkedes, forkert brugernavn eller adgangskode</string>
   <string name="balance">Saldo: %1$s Mi credits</string>
-  <string name="bind">Godkend</string>
-  <string name="bind_description">Tillad synkronisering af kontakter</string>
-  <string name="bind_sina_weibo">Godkend Sina Weibo</string>
-  <string name="bind_weibo_description">Find kontakter, venner og anden information direkte fra din konto</string>
-  <string name="binding_behavior_error">Godkendelsesfejl!</string>
   <string name="btn_activate">Aktiver</string>
   <string name="btn_back">Tilbage</string>
   <string name="btn_call">Ring op</string>
@@ -84,7 +78,6 @@
   <string name="frozen">(Låst)</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>
-  <string name="imported_contacts">Importerede %s kontakter</string>
   <string name="input_password_hint">Indtast adgangskode</string>
   <string name="label_order_name">Produkt navn: </string>
   <string name="label_order_price">Antal: </string>
@@ -122,7 +115,6 @@
   <string name="mili_center">Mi credit center</string>
   <string name="next">Næste</string>
   <string name="no_sim">SIM ikke fundet, kan ikke synkronisere</string>
-  <string name="nobind">Ikke godkendt</string>
   <string name="order_price">%1$s Mi credits</string>
   <string name="other_settings">Andre indstilliniger</string>
   <string name="password">Adgangskode</string>
@@ -208,7 +200,6 @@
   <string name="send_sms_for_sync_notice">Aktiverings SMS skal sendes, fortsæt?</string>
   <string name="send_sms_for_sync_title">Synk tjeneste ikke aktiveret</string>
   <string name="sim_changed_notification_content">SIM ikke aktiveret, venligst aktiver</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip log ind</string>
   <string name="skip_setup_account_msg">Med din Xiaomi konto, kan du synkronisere og sikkerhedskopiere SMS, kontakter, billeder, noter, etc. Forstæt og indstil senere?</string>
   <string name="skip_setup_account_title">Skip konto indstilling</string>
@@ -225,9 +216,6 @@
   <string name="title_reg">Registrer en XiaoMi konto</string>
   <string name="title_voucher">Genopfyld me MiCredit kupon</string>
   <string name="unactivated_user">Ikke aktiveret</string>
-  <string name="unbind">Fjern godkendelse</string>
-  <string name="update_contacts">Opdater kontakter</string>
-  <string name="update_contacts_description">Opdater dine kontakter og andre informationer</string>
   <string name="user_agreement_p1">"Ved at logge ind, accepterer du "</string>
   <string name="user_agreement_p2">Xiaomis tjenestevilkår</string>
   <string name="user_agreement_p3"> og </string>

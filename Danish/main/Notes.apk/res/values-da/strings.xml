@@ -3,15 +3,13 @@
   <string name="add_account_desc">Noter kan synkroniseres til din Xiaomi konto. Log ind og synk nu?</string>
   <string name="alert_edit_action_delete">Fjern</string>
   <string name="alert_edit_action_update">Rediger</string>
-  <string name="alert_message_delete_folder">Bekræft sletning af mappe og dens noter?</string>
-  <string name="alert_message_delete_folders">Slet valgte %1$s mapper?</string>
+  <string name="alert_message_delete_folders">Bekræft sletning af de valgte %1$s mapper?</string>
+  <string name="alert_message_delete_folders_notes">Bekræft sletning af de valgte %1$s mapper og %2$s noter?</string>
   <string name="alert_message_delete_note">Er du sikker på du vil slette denne note?</string>
   <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s noter?</string>
   <string name="alert_message_discard_changes">Kasser alle ændringer?</string>
-  <string name="alert_message_exceed_image_limit">Maks 15 billeder kan vedhæftes en note. Opret ny note for at vedhæfte flere billeder</string>
   <string name="alert_title_delete">Slet valgte noter</string>
   <string name="alert_title_discard">Kasser ændringer?</string>
-  <string name="alert_title_exceed_image_limit">Grænse for billeder per note er nået!</string>
   <string name="app_name">Noter</string>
   <string name="app_widget">Noter</string>
   <string name="attachment_camera">Kamera</string>

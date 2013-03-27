@@ -409,7 +409,6 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="import_weibo_fetch_followers">Henter Sina Weibo følgere…</string>
   <string name="import_weibo_notification_title">Importerer Sina weibo kontakter…</string>
   <string name="import_weibo_notification_title_done">Importering fuldført</string>
-  <string name="import_weibo_progress_hint">Importerer…</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Importering af %s blev annulleret</string>

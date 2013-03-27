@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="widget_sizes">
-        <item>home_edit_box_area_1_1</item>
-        <item>home_edit_box_area_1_2</item>
-        <item>home_edit_box_area_1_3</item>
-        <item>home_edit_box_area_1_4</item>
-        <item>home_edit_box_area_2_1</item>
-        <item>home_edit_box_area_2_2</item>
-        <item>home_edit_box_area_2_3</item>
-        <item>home_edit_box_area_2_4</item>
-        <item>home_edit_box_area_3_1</item>
-        <item>home_edit_box_area_3_2</item>
-        <item>home_edit_box_area_3_3</item>
-        <item>home_edit_box_area_3_4</item>
-        <item>home_edit_box_area_4_1</item>
-        <item>home_edit_box_area_4_2</item>
-        <item>home_edit_box_area_4_3</item>
-        <item>home_edit_box_area_4_4</item>
-    </string-array>
     <string-array name="transformation_entries">
         <item>Klassisk</item>
         <item>Klassisk (Ingen overskyd)</item>
@@ -49,5 +31,36 @@
         <item>center</item>
         <item>left</item>
         <item>right</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Standard</item>
+        <item>Klassisk</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Klart</item>
+        <item>Skyet</item>
+        <item>Diset</item>
+        <item>Tåget</item>
+        <item>Kraftig regnstorm</item>
+        <item>Regnstorm</item>
+        <item>Voldsom regn</item>
+        <item>Tordenstorm</item>
+        <item>Byger</item>
+        <item>Kraftig regn</item>
+        <item>Regn</item>
+        <item>Let regn</item>
+        <item>Slud</item>
+        <item>Snestorm</item>
+        <item>Snebyger</item>
+        <item>Kraftige snebyger</item>
+        <item>Sne</item>
+        <item>Lette snebyger</item>
+        <item>Kraftig sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Let sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Hagl</item>
+        <item>Støvet</item>
+        <item>Dis</item>
     </string-array>
 </resources>

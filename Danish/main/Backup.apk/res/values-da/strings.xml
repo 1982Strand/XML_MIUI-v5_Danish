@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Data (Sikkerhedskopier Xiaomi og Gmail info)</string>
+  <string name="account_contact_backup_info">Data (Backup Xiaomi og Gmail info)</string>
   <string name="account_login">Log ind</string>
-  <string name="account_summary">Sikkerhedskopier Gmail, Email og Xiaomi konti</string>
+  <string name="account_summary">Backup Gmail, Email og Xiaomi konti</string>
   <string name="already_enable_encrypt">Kryptering aktiveret</string>
   <string name="app_name">Backup</string>
   <string name="auto_backup">Automatisk Backup</string>
@@ -21,20 +21,20 @@
   <string name="auto_backup_time">Planlagt backup</string>
   <string name="auto_backup_user_data">Apps</string>
   <string name="backup">Backup</string>
-  <string name="backup_data">Sikkerhedskopier data</string>
+  <string name="backup_data">Backup data</string>
   <string name="backup_delete">Slet backup</string>
   <string name="backup_empty">Ingen backups fundet!</string>
-  <string name="backup_empty_info">Sikkerhedskopier dine data, indstillinger og applikationer</string>
+  <string name="backup_empty_info">Backup dine data, indstillinger og applikationer</string>
   <string name="backup_error">Backup Fejl</string>
   <string name="backup_failed">Backup mislykkedes, prøv venligst igen</string>
   <string name="backup_file_error">Der var et problem med backup\'en, handlingen var ugyldig.</string>
   <string name="backup_finished">Backup fuldført</string>
   <string name="backup_hint">Undgå multitasking når backup er igang</string>
   <string name="backup_items_app_tailer">" Apps"</string>
-  <string name="backup_items_sysdata_tailer">" System Filer "</string>
+  <string name="backup_items_sysdata_tailer">" System Filer"</string>
   <string name="backup_new">Ny backup</string>
   <string name="backup_progress">Backup igang...</string>
-  <string name="backup_recently">\u0020(Seneste)</string>
+  <string name="backup_recently">" (seneste)"</string>
   <string name="backup_report">Backup rapport</string>
   <string name="backup_update">Rediger backup</string>
   <string name="batch_delete_backup_confirm">Er du sikker på du vil slette?</string>
@@ -53,7 +53,7 @@
   <string name="cloud_backup_login">MIUI konto</string>
   <string name="cloud_backup_window_title">Online Data Backup</string>
   <string name="cloud_home_title">Online Backup</string>
-  <string name="cloud_item_info_summary">\u0020(Lokal : %1$s | Online : %2$s)</string>
+  <string name="cloud_item_info_summary">" (Lokal : %1$s | Online : %2$s)"</string>
   <string name="cloud_last_backup">Sidste backup:</string>
   <string name="cloud_no_backup">Ingen backup</string>
   <string name="cloud_restore_guide">Tryk Start gendannelse for at gøre dette\n Du kan også gendanne %s i Backup</string>
@@ -145,11 +145,11 @@
   <string name="service_stoped">Tjeneste stoppet</string>
   <string name="settings_summary">Backup af telefon og besked indstillinger</string>
   <string name="sms_title">SMS beskeder</string>
-  <string name="software_backup_info">Sikkerhedskopier apps og app data</string>
+  <string name="software_backup_info">Backup apps og app data</string>
   <string name="start_backup">Start Backup</string>
   <string name="start_restore">Gendan</string>
   <string name="succeed">Fuldført</string>
-  <string name="system_backup">Sikkerhedskopier</string>
+  <string name="system_backup">Backup</string>
   <string name="system_backup_info">System indstillinger, skrivebordslayout, mv.</string>
   <string name="task_backup_cancel_progress">Annullerer backup...</string>
   <string name="task_backup_finished_local">Backup fuldført</string>

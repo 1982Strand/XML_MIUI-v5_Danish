@@ -310,27 +310,14 @@
   <string name="bluetooth_dock_settings_headset">Som højttaler telefon</string>
   <string name="bluetooth_dock_settings_remember">Husk indstillinger</string>
   <string name="bluetooth_dock_settings_title">Brug dock til audio</string>
-  <string name="bluetooth_dun_acceptance_dialog_text">%1$s ønsker at anvende DUN. Giv adgang til %2$s?</string>
-  <string name="bluetooth_dun_connection_permission_request">Dun forbindelsesanmodning</string>
-  <string name="bluetooth_dun_profile_summary_connected">Forbundet til DUN Server</string>
-  <string name="bluetooth_dun_profile_summary_not_connected">Ikke forbundet til DUN Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Anvend til Dial-up Netværksadgang</string>
-  <string name="bluetooth_dun_remember_choice">Spørg ikke igen</string>
-  <string name="bluetooth_dun_request">DUN anmodning</string>
   <string name="bluetooth_empty_list_bluetooth_off">For at se enheder, skal du slå Bluetooth til.</string>
   <string name="bluetooth_enable">Aktiver Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN indeholder bogstaver eller symboler</string>
   <string name="bluetooth_enter_passkey_msg">"For at parre med:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indtast enhedens krævede adgangsnøgle:"</string>
   <string name="bluetooth_enter_passkey_other_device">Du kan også være nødvendigt at indtaste denne adgangskode på den anden enhed.</string>
   <string name="bluetooth_enter_pin_msg">"For at parre med:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indtast enhedens krævede PIN-kode:"</string>
-  <string name="bluetooth_enter_pin_msg_hs">"
-Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 cifret nøgle]"</string>
   <string name="bluetooth_enter_pin_other_device">Du kan også være nødvendigt at indtaste denne PIN-kode på den anden enhed.</string>
   <string name="bluetooth_error_title">Bemærk</string>
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s ønsker adgang til dine filer og mapper. Giv adgang til %2$s?</string>
-  <string name="bluetooth_ftp_connection_permission_request">Ftp forbindelsesanmodning</string>
-  <string name="bluetooth_ftp_remember_choice">Spørg ikke igen</string>
-  <string name="bluetooth_ftp_request">Ftp anmodning</string>
   <string name="bluetooth_headset_profile_summary_connected">Forbundet til telefon audio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Bruges til telefon audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Forbundet til input-enhed</string>
@@ -340,10 +327,6 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="bluetooth_is_discoverable_always">Synlig for alle Bluetooth-enheder i nærheden </string>
   <string name="bluetooth_lock_voice_dialing">Lås stemmeopkald</string>
   <string name="bluetooth_lock_voice_dialing_summary">Forbyd brugen af ​​Bluetooth-dialer, når skærmen er låst</string>
-  <string name="bluetooth_map_connection_permission_request">Kort forbindelsesanmodning</string>
-  <string name="bluetooth_mas_acceptance_dialog_text">%1$s ønsker adgang til dine beskeder. Giv adgang til %2$s?</string>
-  <string name="bluetooth_mas_remember_choice">Spørg ikke igen</string>
-  <string name="bluetooth_mas_request">Anmodning om adgang til beskeder</string>
   <string name="bluetooth_menu_advanced">Avanceret</string>
   <string name="bluetooth_name_not_set">Intet navn angivet, anvender kontonavn</string>
   <string name="bluetooth_no_devices_found">​​Ingen Bluetooth-enheder blev fundet i nærheden.</string>
@@ -370,7 +353,6 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="bluetooth_pan_user_profile_summary_connected">Tilsluttet enhed for internetadgang</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s ønsker at få adgang til dine kontakter og opkladshistorik. Giv adgang til %2$s?</string>
   <string name="bluetooth_pb_remember_choice">"Spørg ikke igen"</string>
-  <string name="bluetooth_pbap_connection_permission_request">Pbap forbindelsesanmodning</string>
   <string name="bluetooth_permission_request">Bluetooth tilladelse</string>
   <string name="bluetooth_phonebook_request">Telefonbog anmodning</string>
   <string name="bluetooth_pin_values_hint">Normalt 0000 eller 1234</string>
@@ -380,25 +362,16 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="bluetooth_preference_scan_title">Scan efter enheder</string>
   <string name="bluetooth_profile_a2dp">Media Audio</string>
   <string name="bluetooth_profile_details">Profil indstillinger</string>
-  <string name="bluetooth_profile_dun">Dial-up Netværksadgang</string>
   <string name="bluetooth_profile_headset">Telefon audio</string>
   <string name="bluetooth_profile_hid">Inputenhed</string>
   <string name="bluetooth_profile_name">"%1$s's Xiaomi Telefon"</string>
   <string name="bluetooth_profile_opp">Filoverførsel</string>
   <string name="bluetooth_profile_pan">internetadgang</string>
   <string name="bluetooth_profile_pan_nap">internetforbindelse deling</string>
-  <string name="bluetooth_profile_sap">SIM Adgang</string>
   <string name="bluetooth_quick_toggle_summary">Tænd Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Omdøb</string>
   <string name="bluetooth_rename_device">Omdøb telefon</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s ønsker adgang til dit SIM. Giv adgang til %2$s?</string>
-  <string name="bluetooth_sap_connection_permission_request">Sap forbindelsesanmodning</string>
-  <string name="bluetooth_sap_profile_summary_connected">Forbundet til SIM Adgangsserver</string>
-  <string name="bluetooth_sap_profile_summary_not_connected">Ikke forbundet til SIM Adgangsserver</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Anvend til SIM Adgang</string>
-  <string name="bluetooth_sap_remember_choice">Spørg ikke igen</string>
-  <string name="bluetooth_sap_request">SAP anmodning</string>
   <string name="bluetooth_scan_for_devices">Skan efter enheder</string>
   <string name="bluetooth_search_for_devices">Søg efter enheder</string>
   <string name="bluetooth_searching_for_devices">Søger ...</string>
@@ -528,8 +501,6 @@ Indtast PIN for at parre med \"%1$s\". [Høj sikkerhed aktiveret: Påkræver 16 
   <string name="current_backup_pw_prompt">Skriv din nuværende fuld backup adgangskode her</string>
   <string name="current_input_method">Standard</string>
   <string name="data_size_label">Data</string>
-  <string name="data_summary">Vælg abonnement for Data Opkald</string>
-  <string name="data_title">Data Opkald</string>
   <string name="data_usage_app_restrict_background">Begræns baggrundsdata</string>
   <string name="data_usage_app_restrict_background_summary">Deaktiver baggrundsdata på mobile data-netværk alene. Wi-Fi vil blive brugt hvis det er tilgængeligt.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">For at sætte en grænse for baggrundsdata for denne app, skal først sættes en mobil data grænse.</string>
@@ -632,8 +603,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="development_enable">Aktiver udviklingsindstillinger</string>
   <string name="development_settings_summary">Angiv udviklingsindstillinger</string>
   <string name="development_settings_title">Udviklingsindstillinger</string>
-  <string name="device_additional_status">Yderligere Status Info</string>
-  <string name="device_additional_status_summary">Telefonnr, Signal, IMEI, etc.</string>
   <string name="device_admin_add_title">Enhedsadministrator</string>
   <string name="device_admin_settings_title">Enhedsadministration Indstillinger</string>
   <string name="device_admin_status">Denne administrator er aktiv og gør det muligt for applicationen %1$s at udføre følgende handlinger:</string>
@@ -660,6 +629,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_status_activity_title">status</string>
   <string name="device_status_summary">Batteri Status, niveau, etc.</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
+  <string name="dirac_control">Dirac Kontrol</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW overlæg</string>
   <string name="disable_overlays_summary">Anvend altid GPU til skærmkomposition</string>
@@ -1035,18 +1005,14 @@ Bemærk: handlingen kan ikke fotrydes."</string>
   <string name="master_clear_final_desc">Slet alle dine personlige oplysninger og eventuelle downloadede programmer? Det er umuligt at fortryde denne handling!</string>
   <string name="master_clear_gesture_explanation">Du skal tegne dit oplåsningsmønster for at bekræfte en telefon reset</string>
   <string name="master_clear_gesture_prompt">Tegn dit oplåsningsmønster</string>
-  <string name="master_clear_personal_data">"Er du sikker på du vile slette personlige data? Venligst bemærk, denne handling kan ikke fortrydes"</string>
-  <string name="master_clear_personal_data_application">"Are you sure to erase your personal data and installed applications? Venligst bemærk, denne handling kan ikke fortrydes"</string>
-  <string name="master_clear_personal_data_sdcard">"Er du sikker på du vil slette personlige data og formatere SD Kortet? Venligst bemærk, denne handling kan ikke fortrydes"</string>
-  <string name="master_clear_summary">sletter alle data på telefon</string>
-  <string name="master_clear_title">Fabriksnustilling</string>
-  <string name="mdb_entering">Starter</string>
-  <string name="mdb_restore_cancel">Annuller</string>
-  <string name="mdb_restore_info1">Vil gendanne din telefons data</string>
-  <string name="mdb_restore_info2">Venligst frakobl ikke USB forbindelsen</string>
-  <string name="mdb_restore_label">Mdb Gendan</string>
-  <string name="mdb_restore_mode">Gendannelse</string>
-  <string name="mdb_usb_disconnection_exit">USB frakoblet, annullerer gendannelse</string>
+  <string name="master_clear_personal_data">"Er du sikker på du vile slette personlige data? 
+Bemærk: denne handling kan ikke fortrydes"</string>
+  <string name="master_clear_personal_data_application">"Er du sikker på du vil slette dine personlige data og installerede applikationer?
+Bemærk: denne handling kan ikke fortrydes."</string>
+  <string name="master_clear_personal_data_sdcard">"Er du sikker på du vil slette dine personlige data og formatere SD Kort?
+Bemærk: denne handling kan ikke fortrydes."</string>
+  <string name="master_clear_summary">Sletter alle data på telefonen</string>
+  <string name="master_clear_title">Fabriksnulstilling</string>
   <string name="media_button">Medie Knap</string>
   <string name="media_format_button_text">Formater SD Kort</string>
   <string name="media_format_desc">Slet alle SD-kort? Du mister </string>
@@ -1111,9 +1077,8 @@ Prøv følgende:
   <string name="msd_install_status_done">Driver allerede installeret</string>
   <string name="msd_install_status_undo">Installer driver</string>
   <string name="msd_install_succeed">Driver installeret</string>
-  <string name="msd_install_windows_xp_step_2_1">"1.Hvis opsætningsguiden dukker op, følg venligdt anvisningerne for at fuldføre installationen"</string>
-  <string name="multi_sim_settings_summary">Opsæt Multi Sim indstillinger for Stemme, Data og SMS</string>
-  <string name="multi_sim_settings_title">Multi SIM Indstillinger</string>
+  <string name="msd_install_windows_xp_step_2_1">"1. Hvis opsætningsguiden dukker op, 
+følg venligst trinene for at fuldføre installationen"</string>
   <string name="multi_touch_points_category_title">Multi-touch punkter</string>
   <string name="multi_touch_points_preference">Genstart for at anvende</string>
   <string name="musicfx_title">Musik effekter</string>
@@ -1264,7 +1229,6 @@ Prøv følgende:
   <string name="perm_operating">Behandler...</string>
   <string name="perm_optimize">Optimer</string>
   <string name="perm_privacy_app_count">%1$d tilladelser</string>
-  <string name="perm_privacy_app_count_trust_summary">Betro app</string>
   <string name="perm_privacy_app_finish">Færdig</string>
   <string name="perm_privacy_app_installed">Installation fuldført!</string>
   <string name="perm_privacy_app_launch">Åben</string>
@@ -1495,7 +1459,6 @@ Prøv følgende:
   <string name="runningservicedetails_stop_dlg_title">Stop system tjeneste?</string>
   <string name="runningservices_settings_summary">Se og styr kørende apps</string>
   <string name="runningservices_settings_title">Jobliste</string>
-  <string name="safe_relative">Sikre tilladelser</string>
   <string name="scan_list_label">Skan Resultater:</string>
   <string name="screen">Skærm</string>
   <string name="screen_button_custom">Rediger skærmknappers placering</string>
@@ -1584,12 +1547,9 @@ Prøv følgende:
   <string name="security_settings_desc_multi">Denne app kan få adgang til følgende på telefonen. For at øge ydeevnen og reducere hukommelsesbrug, nogle af disse tilladelser er tilgængelige for %1$s fordi den kører i samme proces som %2$s:</string>
   <string name="security_settings_summary">Indstil Min placering, oplåsning af skærmen, SIM-lås, lås lager for legitimationsoplysninger</string>
   <string name="security_settings_title">Sikkerhed</string>
-  <string name="sel_sub_summary">Vælg abonnementer for SUB-1 og SUB-2</string>
-  <string name="sel_sub_title">Konfigurer abonnementer</string>
   <string name="select_all">Vælg alle</string>
   <string name="select_application">Vælg applikation</string>
   <string name="select_device_admin_msg">Enhedsadministratorer</string>
-  <string name="select_subscription">Vælg abonnement</string>
   <string name="service_background_processes">%1$s fri</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s brugt</string>
@@ -1600,12 +1560,6 @@ Prøv følgende:
   <string name="service_started_by_app">Startet af applikation.</string>
   <string name="service_stop">Stop</string>
   <string name="service_stop_description">Denne service blev startet af dens applikation. Afslutning kan få programmet til at fejle.</string>
-  <string name="set_data_subscription_progress">Opsætning af data abonnement igang</string>
-  <string name="set_dds_error">Fejl ved opsætning af data abonnement.</string>
-  <string name="set_dds_failed">Fejl ved opsætning af data abonnement. Prøv igen.</string>
-  <string name="set_dds_success">Opsætning af data abonnement fuldført</string>
-  <string name="set_sms_error">Fejl ved opsætning af SMS abonnement. Abonnement ikke aktivt.</string>
-  <string name="set_voice_error">Fejl ved opsætning af stemme abonnement. Abonnement ikke aktivt.</string>
   <string name="settings_backup">Gem indstillinger</string>
   <string name="settings_backup_summary">Sikkerhedskopier mine indstillinger</string>
   <string name="settings_button">Indstillinger</string>
@@ -1633,16 +1587,15 @@ Prøv følgende:
   <string name="show_password">Synlige adgangskoder</string>
   <string name="show_password_summary">Vis adgangskode, mens du skriver</string>
   <string name="show_rounded_corners">Vis afrundede hjørner</string>
-  <string name="show_rounded_corners_summary">Genstart påkrævet for at tage effekt</string>
   <string name="show_running_services">Vis kørerende tjenester</string>
   <string name="show_screen_updates">Vis skærmopdateringer</string>
   <string name="show_screen_updates_summary">Flash områder af skærmen, når de har opdateret</string>
   <string name="show_touches">Vis berøringer</string>
   <string name="show_touches_summary">Vis visuel feedback for berøringer</string>
   <string name="silent_mode_title">Lydløs tilstand</string>
-  <string name="sim_absent">Ingen SIM/RUIM</string>
-  <string name="sim_bad_pin">Forkert PIN-kode</string>
-  <string name="sim_change_failed">"Kan ikke ændre PIN-kode. Muligvis forkert PIN-kode. "</string>
+  <string name="sim_bad_pin">Ugyldig PIN</string>
+  <string name="sim_change_failed">"Kan ikke ændre PIN.
+Muligvis ugyldig PIN."</string>
   <string name="sim_change_failed_enable_sim_lock">Kan ikke ændre SIM/RUIM PIN. Aktiver SIM/RUIM Lås.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">SIM PIN-kode ændret med succes</string>
@@ -1660,11 +1613,7 @@ Prøv følgende:
   <string name="sim_lock_settings">SIM-lås indstillinger</string>
   <string name="sim_lock_settings_category">Konfigurer SIM-lås</string>
   <string name="sim_lock_settings_title">SIM-lås</string>
-  <string name="sim_pin_attempts">"
-Forsøg tilbage :"</string>
   <string name="sim_pin_change">Skift SIM PIN-kode</string>
-  <string name="sim_pin_disabled">PIN1 Deaktiveret!</string>
-  <string name="sim_pin_enabled">PIN1 Aktiveret!</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>
   <string name="sim_reenter_new">Gentag PIN</string>
@@ -1678,8 +1627,6 @@ Forsøg tilbage :"</string>
   <string name="sms_over_ims_on">Aktiver SMS over IMS</string>
   <string name="sms_received_sound_dialog_title">Vælg SMS modtaget tone</string>
   <string name="sms_received_sound_title">SMS modtaget lyd</string>
-  <string name="sms_summary">Vælg abonnement for afsendelse af SMS</string>
-  <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Sorter</string>
   <string name="sort_order_size">Sorter efter størrelse</string>
   <string name="sound_category_call_ringtone_vibrate_title">Ringetone for opkald &amp; vibrering</string>
@@ -1698,7 +1645,6 @@ Forsøg tilbage :"</string>
   <string name="status_bar_settings">Statuslinie</string>
   <string name="status_bt_address">Bluetooth-adresse</string>
   <string name="status_data_state">Tilstand af Mobilnetværk</string>
-  <string name="status_esn_number">ESN</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
@@ -1730,10 +1676,6 @@ Forsøg tilbage :"</string>
   <string name="storageuse_settings_title">Lagerforbrug</string>
   <string name="strict_mode">Streng tilstand aktiveret</string>
   <string name="strict_mode_summary">Flash-skærmen, når apps gør lange operationer på hovedtråden</string>
-  <string name="subscription_01_summary">Indstil valgmuligheder for SUB1 netværk</string>
-  <string name="subscription_01_title">SUB 1</string>
-  <string name="subscription_02_summary">Indstil valgmuligheder for SUB2 netværk</string>
-  <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Vælg en netoperatør</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">supplikant status:</string>
@@ -1984,11 +1926,9 @@ Forsøg tilbage :"</string>
   <string name="virus_scanner_title">Virus skanner</string>
   <string name="virus_scanner_update_lib">Opdater Virus Database</string>
   <string name="voice_category">Tale</string>
-  <string name="voice_input_output_settings">Voice indput og output</string>
-  <string name="voice_input_output_settings_title">Voice indput og output-indstillinger</string>
-  <string name="voice_search_settings_title">Voice Search</string>
-  <string name="voice_summary">Vælg abonnement for Stemme Opkald</string>
-  <string name="voice_title">Stemme/USSD/MMI</string>
+  <string name="voice_input_output_settings">Stemme input og output</string>
+  <string name="voice_input_output_settings_title">Stemme input og output-indstillinger</string>
+  <string name="voice_search_settings_title">Stemmesøgning</string>
   <string name="volume_alarm_description">Alarmer</string>
   <string name="volume_alarm_mute">Gør alarmer lydløse</string>
   <string name="volume_bluetooth_description">Bluetooth lydstyrke</string>
@@ -2130,9 +2070,6 @@ Forsøg tilbage :"</string>
   <string name="wifi_p2p_disconnect_title">Afbryd forbindelse?</string>
   <string name="wifi_p2p_failed_connect_message">"Kunne ikke forbinde."</string>
   <string name="wifi_p2p_failed_rename_message">Kunne ikke omdøbe enhed.</string>
-  <string name="wifi_p2p_menu_advanced">Avanceret</string>
-  <string name="wifi_p2p_menu_create_group">Opret gruppe</string>
-  <string name="wifi_p2p_menu_remove_group">Fjern gruppe</string>
   <string name="wifi_p2p_menu_rename">Omdøb enhed</string>
   <string name="wifi_p2p_menu_search">Søg</string>
   <string name="wifi_p2p_menu_searching">Søger…</string>
