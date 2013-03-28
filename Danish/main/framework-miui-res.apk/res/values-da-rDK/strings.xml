@@ -446,7 +446,7 @@
   <string name="v5_date_picker_label_day" />
   <string name="v5_date_picker_label_month" />
   <string name="v5_date_picker_label_year" />
-  <string name="v5_deselect_all">Deselect all</string>
+  <string name="v5_deselect_all">Fravælg alle</string>
   <string name="v5_edit_mode_title_empty">Vælg elementer</string>
   <string name="v5_icon_menu_bar_more_item_label">Mere</string>
   <string name="v5_select_all">Vælg alle</string>
