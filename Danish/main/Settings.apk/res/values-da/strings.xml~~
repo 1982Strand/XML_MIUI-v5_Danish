@@ -153,7 +153,7 @@
   <string name="automatic_brightness">Automatisk lysstyrke</string>
   <string name="available_size">%s tilgængelig</string>
   <string name="awake">Enheds oppe-tid</string>
-  <string name="back_long_press">Langt tryk på Tilbage knap</string>
+  <string name="back_long_press">Tilbage Knap</string>
   <string name="back_long_press_timeout">Forsinkelse</string>
   <string name="background_data">Baggrundsdata</string>
   <string name="background_data_dialog_message">Deaktivering baggrundsdata forlænger batteriets levetid, og sænker data brug. Nogle programmer kan stadig bruge baggrundsdataforbindelsen.</string>
@@ -721,11 +721,11 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB fejlretning</string>
   <string name="enable_adb_summary">Fejlretnings-tilstand, når USB er tilsluttet</string>
-  <string name="enable_assist_key_long_press">Start Google Nu</string>
-  <string name="enable_back_long_press">Luk app</string>
+  <string name="enable_assist_key_long_press">Tryk og hold på Menu for at starte Stemme Assistent</string>
+  <string name="enable_back_long_press">Tryk og hold for at lukke app</string>
   <string name="enable_compatibility">Skaler app</string>
-  <string name="enable_drive_mode">Aktiver Køretilstand</string>
-  <string name="enable_snapshot_screenlock">Skærmbillede på låseskærm</string>
+  <string name="enable_drive_mode">Aktiver Køre Tilstand</string>
+  <string name="enable_snapshot_screenlock">Tryk langt på Tilbage knappen for at tage skærmbillede på låseskærmen</string>
   <string name="enable_text">Aktiver</string>
   <string name="enable_traces_dialog_title">Vælg aktiverede spor</string>
   <string name="enable_traces_summary_all">Alle spor aktive</string>
@@ -1037,7 +1037,7 @@ Bemærk: denne handling kan ikke fortrydes."</string>
   <string name="memory_size">Total</string>
   <string name="menu_cancel">Kassér</string>
   <string name="menu_delete">Slet APN</string>
-  <string name="menu_key">Langt tryk på Menu knap</string>
+  <string name="menu_key">Menu knap</string>
   <string name="menu_new">Ny APN</string>
   <string name="menu_restore">Nulstil til standard</string>
   <string name="menu_save">Gem</string>
@@ -1084,7 +1084,7 @@ følg venligst trinene for at fuldføre installationen"</string>
   <string name="musicfx_title">Musik effekter</string>
   <string name="nearby_wifi">Vælg Wi-Fi i nærheden</string>
   <string name="network_detail">%s Netværk detaljer</string>
-  <string name="network_settings_title">Mobilnetværk</string>
+  <string name="network_settings_title">mobilnetværk</string>
   <string name="network_state_label">Netværk status:</string>
   <string name="networkid_label">Netværks-ID:</string>
   <string name="networks">Valg af operatør</string>

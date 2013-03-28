@@ -292,7 +292,7 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="dirty_contacts_notification_title">Vil du synkronisere dine kontakter?</string>
   <string name="display_all_contacts">Alle kontaktpersoner</string>
   <string name="display_more_groups">flere grupper ...</string>
-  <string name="display_only_phones">Vis kun kontakter med telefonnumre</string>
+  <string name="display_only_phones">Kun med telefonnumre</string>
   <string name="display_options_sort_by_family_name">Efternavn</string>
   <string name="display_options_sort_by_given_name">Fornavn</string>
   <string name="display_options_sort_list_by">Sorter listen efter</string>
@@ -629,9 +629,9 @@ For at tilføje kontakt til favoritter:
   <string name="postal_region">Region/område</string>
   <string name="postal_street">Gade</string>
   <string name="pref_key_photo">Foto</string>
-  <string name="pref_key_photo_word_summary">Auto vælg et billede for kontakter uden et.</string>
+  <string name="pref_key_photo_word_summary">Automatisk valg af billede til kontakter</string>
   <string name="pref_key_photo_word_title">Auto vælg billede for kontakter</string>
-  <string name="pref_key_rebuild_t9_index_message">Fix indeks fejl i kontaktsøgning</string>
+  <string name="pref_key_rebuild_t9_index_message">Ret indeks fejl i kontaktsøgning</string>
   <string name="pref_key_rebuild_t9_index_title">Genopbyg T9 indeks data</string>
   <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail konti til min Xiaomi konto</string>
   <string name="pref_title_account_import">Importer fra konto</string>
@@ -641,7 +641,7 @@ For at tilføje kontakt til favoritter:
   <string name="preference_auto_ip_title">Autommatisk IP</string>
   <string name="preference_contacts">Kontakt</string>
   <string name="preference_contacts_display">Kontakt Visning</string>
-  <string name="preference_contacts_filter">Visning af kontakter</string>
+  <string name="preference_contacts_filter">Vælg fra konti</string>
   <string name="preference_contacts_more">Flere indstillinger</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_human">Menneske stemme</string>
@@ -656,7 +656,7 @@ For at tilføje kontakt til favoritter:
   <string name="preference_import_export_title">Importer/Eksporter kontakter</string>
   <string name="preference_others">Andet</string>
   <string name="preference_phone">Telefon</string>
-  <string name="preference_phone_more_title">Flere ndstillinger</string>
+  <string name="preference_phone_more_title">Flere indstillinger</string>
   <string name="preference_remove_duplicate">Flet duplikerede kontakter</string>
   <string name="preference_simple_mode_description">Kontakt viser ikke profilbillede, landekode og organisation</string>
   <string name="preference_simple_mode_title">Simpel tilstand</string>
@@ -671,7 +671,7 @@ For at tilføje kontakt til favoritter:
   <string name="preference_telocation_summary_countrycode_on">Tilføj automatisk landekode</string>
   <string name="preference_telocation_summary_teloc_off">Skjul placering</string>
   <string name="preference_telocation_summary_teloc_on">Vis placering</string>
-  <string name="preference_telocation_title">Telocation</string>
+  <string name="preference_telocation_title">Placering</string>
   <string name="preference_tone_title">Tone</string>
   <string name="prepare_import">forbered import</string>
   <string name="preview_contact_card_title">Importerer kontakter…</string>
@@ -768,7 +768,7 @@ For at tilføje kontakt til favoritter:
   <string name="select_new_photo_from_photo_package">Vælg nyt billede fra billedpakken</string>
   <string name="select_none">Intet valgt, handlingen er ugyldig</string>
   <string name="select_photo_from_photo_package">Vælg billede fra billedpakken</string>
-  <string name="select_show_contacts">Vis kontakten</string>
+  <string name="select_show_contacts">Vis Kontakter</string>
   <string name="select_vcard_title">Vælg vCard-fil</string>
   <string name="send_contact_shortcut_todesktop_success">Tilføjede genvej til kontakt på skrivebordet</string>
   <string name="send_to_voicemail_checkbox">Send opkald direkte til voicemail</string>

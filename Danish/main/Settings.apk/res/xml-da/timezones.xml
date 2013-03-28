@@ -16,7 +16,8 @@
     <timezone id="America/Bogota">Bogotá</timezone>
     <timezone id="America/New_York">Østlig Tid</timezone>
     <timezone id="America/Caracas">Venezuela</timezone>
-    <timezone id="America/Barbados">Atlantisk Tid</timezone>
+    <timezone id="America/Barbados">Atlantisk Tid (Barbados)</timezone>
+    <timezone id="America/Halifax">Atlantisk Tid (Canada)</timezone>
     <timezone id="America/Manaus">Manaus</timezone>
     <timezone id="America/Santiago">Santiago</timezone>
     <timezone id="America/St_Johns">Newfoundland</timezone>
