@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Kontakt Lager</string>
+  <string name="call_log_provider_label">Opkaldslister</string>
   <string name="create_contact">Ny kontaktperson</string>
   <string name="default_directory">Kontakter</string>
   <string name="edit_contact">Tilføj til kontakt</string>
   <string name="local_invisible_directory">Andre</string>
-  <string name="pound_search_tip">Indtast nummer efter \"#\" for at søge i kontakter</string>
+  <string name="pound_search_tip">Indtast nummer efter # for at søge i kontakter</string>
   <string name="provider_label">Kontakter</string>
   <string name="read_write_all_voicemail_description">Tillader applikationen at gemme og modtage alle voicemails telefonen har adgang til.</string>
   <string name="read_write_all_voicemail_label">Adgang til voicemails</string>
   <string name="send_sms">Send besked</string>
-  <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="sharedUserLabel">Android Kerne Apps</string>
   <string name="upgrade_msg">Opgraderer Kontaktdatabase.</string>
   <string name="upgrade_out_of_memory_notification_text">Vælg for at færdiggøre opgraderingen.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kontakt opgradering har brug for mere hukommelse</string>
