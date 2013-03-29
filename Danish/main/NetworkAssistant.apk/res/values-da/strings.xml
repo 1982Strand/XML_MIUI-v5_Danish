@@ -89,9 +89,9 @@
   <string name="overseas_menu_traffic_adjust">Juster manuelt</string>
   <string name="overseas_menu_traffic_settings">Data Trafik Grænse</string>
   <string name="overseas_unknown_traffic_hint">Data Trafik Grænse er ikke konfigureret. Konfigurer nu?</string>
-  <string name="plate_traffic_already_used">Brugt (%s)</string>
-  <string name="plate_traffic_exceed">Overskredet (%s)</string>
-  <string name="plate_traffic_remain">Resterende (%s)</string>
+  <string name="plate_traffic_already_used">Brugt</string>
+  <string name="plate_traffic_exceed">Overskredet</string>
+  <string name="plate_traffic_remain">Resterende</string>
   <string name="powered_by">Teknisk support udbudt af WALL-E</string>
   <string name="pref_category_adjust_traffic">Trafik justering</string>
   <string name="pref_connect_settings_enable_backgroung">Tillad forbindelse ved kørsel i baggrunden</string>
@@ -135,8 +135,10 @@
   <string name="traffic_settings_error">Pakke indstillingsfejl. Pakken med fri trafik er %1$s, men beskeden fra udbyderen viser du har %2$s tilbage.</string>
   <string name="traffic_suffix">Trafik</string>
   <string name="traffic_suffix_with_uint">Trafik (MB)</string>
-  <string name="traffic_total">Pakke: %s</string>
-  <string name="traffic_used_status">Brugt: %s</string>
+  <string name="traffic_total">"%s
+Pakke"</string>
+  <string name="traffic_used_status">"%s
+Brugt"</string>
   <string name="unknown">ukendt</string>
   <string name="unknown_free_traffic_hint">"Hvi du ikke kender din trafik pakke, kontakt udbyderen for information"</string>
   <string name="unknown_free_traffic_text">"Kender du ikke din trafik pakke?"</string>
