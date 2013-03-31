@@ -25,7 +25,7 @@
   <string name="camera_connected">Kamera forbundet.</string>
   <string name="camera_disconnected">Kamera ikke forbundet.</string>
   <string name="camera_folder_display_name">Kamera Fotos</string>
-  <string name="camera_path">/DCIM/Kamera</string>
+  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Tapet</string>
   <string name="camera_view_none_message">Fotos vil blive vist her.</string>
   <string name="cancel">Annuller</string>
@@ -50,9 +50,9 @@
   <string name="cloud_tab_locations">Steder</string>
   <string name="cloudfolder_already_exists">Cloud mappe eksisterer allerede</string>
   <string name="confirm_delete">Valgte mediefiler vil blive slettet</string>
-  <string formatted="false" name="confirm_delete_album">Er du sikker på du vil slette %s albums (inklusiv %s elementer)?</string>
+  <string name="confirm_delete_album" formatted="false">Er du sikker på du vil slette %s albums (inklusiv %s elementer)?</string>
   <string name="confirm_delete_folders_and_pictures">Ert du sikker på du vil slette %s?</string>
-  <string formatted="false" name="confirm_delete_folders_including">%s mapper (inklusiv %s)</string>
+  <string name="confirm_delete_folders_including" formatted="false">%s mapper (inklusiv %s)</string>
   <string name="confirm_delete_including_null">0 elementer</string>
   <string name="confirm_delete_pictures">%s billeder</string>
   <string name="confirm_delete_system_album">%s er et system album, er du sikker på du vil slette?</string>
