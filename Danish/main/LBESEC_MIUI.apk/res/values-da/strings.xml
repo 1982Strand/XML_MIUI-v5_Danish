@@ -33,7 +33,7 @@
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Rens</string>
   <string name="Generic_Configuration">Indstillinger</string>
-  <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
+  <string name="Generic_Copyright">Drevet af LBE Privacy Guard</string>
   <string name="Generic_Disable">Deaktiver</string>
   <string name="Generic_Enable">Aktiver</string>
   <string name="Generic_Good">God</string>
@@ -54,7 +54,7 @@
   <string name="Generic_TrustedApp">Sikre Apps (%1$d)</string>
   <string name="Generic_Update">Softwareopgradering</string>
   <string name="Generic_UserApp">Downloadede Apps (%d)</string>
-  <string name="Generic_Version">Version:%1$s</string>
+  <string name="Generic_Version">Version: %1$s</string>
   <string name="HIPS_Action_Accept">Tillad</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Tillad&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Tillad: %1$d</string>

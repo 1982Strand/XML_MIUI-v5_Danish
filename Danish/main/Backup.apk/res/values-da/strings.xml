@@ -29,7 +29,7 @@
   <string name="backup_failed">Backup mislykkedes, prøv venligst igen</string>
   <string name="backup_file_error">Der var et problem med backup\'en, handlingen var ugyldig.</string>
   <string name="backup_finished">Backup fuldført</string>
-  <string name="backup_hint">Undgå multitasking når backup er igang</string>
+  <string name="backup_hint">Undgå genstart når backup er igang</string>
   <string name="backup_items_app_tailer">" Apps"</string>
   <string name="backup_items_sysdata_tailer">" System Filer"</string>
   <string name="backup_new">Ny backup</string>
@@ -63,7 +63,7 @@
   <string name="compute_backup_info">Henter backup info</string>
   <string name="compute_delete_contact_info">Slet kontakt information</string>
   <string name="contact_title">Kontakter</string>
-  <string name="current_account">Nuværende konto:%s</string>
+  <string name="current_account">Nuværende konto: %s</string>
   <string name="current_sim">Nuværende SIM</string>
   <string name="data_no_enough_space">Ikke nok intern plads</string>
   <string name="data_no_enough_space_message">Gendannelse vil muligvis mislykkes, venligst frigør Restore may fail, please free some space and try again</string>
@@ -96,8 +96,8 @@
   <string name="local_no_backup">Ingen lokale backups.</string>
   <string name="local_restore_window_title">Lokal Data Gendannelse</string>
   <string name="local_select_account_contact">Konti / Kontakter</string>
-  <string name="local_select_sysdata">Data %s</string>
-  <string name="local_select_userapp">Apps %s</string>
+  <string name="local_select_sysdata">System</string>
+  <string name="local_select_userapp">Apps</string>
   <string name="menu_patch_delete">Vælg elementer til sletning</string>
   <string name="miliao_account_guide">MiTalk opgraderet til Xiaomi konto. God fornøjelse med alle Xiaomi online tjenester</string>
   <string name="miliao_account_login">Log ind på MiTalk</string>
