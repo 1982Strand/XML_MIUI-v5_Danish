@@ -6,12 +6,12 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Browser</item>
-        <item>Fil Håndtering</item>
+        <item>Filer</item>
         <item>Galleri</item>
         <item>ROOT Tilladelser</item>
         <item>Vejr Data</item>
         <item>Kamera</item>
-        <item>Netværk Assistent</item>
+        <item>Data Kontrol</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakter</item>

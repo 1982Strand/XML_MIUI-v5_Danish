@@ -31,7 +31,7 @@
   <string name="backup_finished">Backup fuldført</string>
   <string name="backup_hint">Undgå genstart når backup er igang</string>
   <string name="backup_items_app_tailer">" Apps"</string>
-  <string name="backup_items_sysdata_tailer">" System Filer"</string>
+  <string name="backup_items_sysdata_tailer">" System Data "</string>
   <string name="backup_new">Ny backup</string>
   <string name="backup_progress">Backup igang...</string>
   <string name="backup_recently">" (seneste)"</string>
@@ -145,7 +145,7 @@
   <string name="service_stoped">Tjeneste stoppet</string>
   <string name="settings_summary">Backup af telefon og besked indstillinger</string>
   <string name="sms_title">SMS beskeder</string>
-  <string name="software_backup_info">Backup apps og app data</string>
+  <string name="software_backup_info">Backup apps med data</string>
   <string name="start_backup">Start Backup</string>
   <string name="start_restore">Gendan</string>
   <string name="succeed">Fuldført</string>

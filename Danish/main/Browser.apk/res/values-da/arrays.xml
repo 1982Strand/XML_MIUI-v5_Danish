@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string-array name="pref_content_plugins_choices">
         <item>Altid slået til</item>
         <item>På forlangende</item>
@@ -34,6 +33,11 @@
         <item>Koreansk (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
+        <item>Aldrig</item>
+        <item>Kun på Wi-Fi</item>
+        <item>Altid</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
         <item>Aldrig</item>
         <item>Kun på Wi-Fi</item>
         <item>Altid</item>
