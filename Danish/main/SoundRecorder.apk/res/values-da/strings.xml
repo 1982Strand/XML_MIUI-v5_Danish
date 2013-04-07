@@ -30,6 +30,7 @@
   <string name="low_battery_warning">Uventet nedlukning kan medføre tab af optagelse, det anbefales at man kun optager med fuldt opladet batteri.</string>
   <string name="mark_now">(Nuværende)</string>
   <string name="max_length_reached">Maks. længde er nået</string>
+  <string name="menu_settings">Indstillinger</string>
   <string name="menu_view_record_list">Se liste over optagelser</string>
   <string name="minute">%d minut</string>
   <string name="no_file">Ingen optagelse</string>
@@ -39,6 +40,8 @@
   <string name="notification_warning" formatted="false">Lav lagerplads(mindre end %d minutter)...</string>
   <string name="open_file_explorer">Åben Filhåndtering</string>
   <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="preference_led_indicator">Optagelsesindikator på låseskærm</string>
+  <string name="preference_led_indicator_prompt">Hvorvidt LED skal aktiveres på låseskærmen under optagelse</string>
   <string name="record_list">Optagelser</string>
   <string name="record_loading">Indlæser optagelse, vent venligst.</string>
   <string name="record_name_hour">.</string>
@@ -53,6 +56,7 @@
   <string name="sd_card_not_available">SD-Kort ikke tilgængelig</string>
   <string name="second" formatted="false">%d sekunder</string>
   <string name="send_to">Send til</string>
+  <string name="sound_recorder_settings">Indstillinger</string>
   <string name="status_bar_anti_disturb">Telefon er på lydløs, juster lydstyrken for at fortsætte.</string>
   <string name="status_bar_back">Tryk for at vende tilbage til optager</string>
   <string name="status_bar_recording">Optager...</string>

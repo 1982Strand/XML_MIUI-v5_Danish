@@ -35,6 +35,8 @@
   <string name="disable_find_device_error">%1$s, kunne ikke deaktivere placeringstjeneste</string>
   <string name="email_already_be_used">E-mail adresse allerede i brug</string>
   <string name="enable_find_device_error">%1$s, kunne ikke aktivere placeringstjeneste</string>
+  <string name="error_account_changed_summary">Din log ind konto er ændret. Venligst kontroller indstillinger og prøv igen</string>
+  <string name="error_account_changed_title">Konto ændret</string>
   <string name="error_auth_summary">Godkendelsesfejl for konto opstod, prøv igen</string>
   <string name="error_auth_title">Konto fejl</string>
   <string name="error_common_summary">System fejl, prøv igen senere</string>
@@ -153,12 +155,7 @@
   <string name="progress_connecting">Forbinder...</string>
   <string name="progress_creating">Modtager ordre information...</string>
   <string name="progress_downloading">Downloader...</string>
-  <string name="progress_error_auth">Der opstod en godkendelsesfejl, prøv igen.</string>
-  <string name="progress_error_common">Opfyldning mislykkedes, prøv igen senere.</string>
-  <string name="progress_error_network">Kunne ikke forbinde til netværk, prøv igen.</string>
-  <string name="progress_error_server">Server fejl, prøv igen senere.</string>
   <string name="progress_error_title">Opfyldning mislykkedes</string>
-  <string name="progress_error_waiting">Stadig ikke opdateret, prøv igen senere!</string>
   <string name="progress_loading">Behandler, vent venligst...</string>
   <string name="progress_paytool_creating">Genererer %1$s ordre...</string>
   <string name="progress_paytool_installing">Installerer %1$s mobil sikkerheds plugin...</string>
@@ -173,7 +170,9 @@
   <string name="progress_warning_contact_server">"Stadig intet svar. 
 1. Venligst kontakt kundeservice i Shenzhou：%1$s 
 2. Venligst oplys serienummer: %2$s"</string>
-  <string name="quick_login_title">Validering er påkrævet, venligst indtast din adgangskode</string>
+  <string name="progress_warning_waiting">Stadig intet svar. Prøv igen senere.</string>
+  <string name="quick_login_title">"Godkendelse påkrævet.
+Venligst indtast adgangskode"</string>
   <string name="recharge_alipay_summary">Alipay opfyldning</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>

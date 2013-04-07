@@ -305,7 +305,7 @@
   <string name="labour_day" />
   <string name="lantern_festival" />
   <string name="light_snow" />
-  <string name="lock_screen_date">EEEE, d. MMMM</string>
+  <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Mønster tilføjet</string>
   <string name="lockscreen_access_pattern_cleared">Mønster ryddet</string>
   <string name="lockscreen_access_pattern_detected">Mønster fuldført</string>
@@ -343,7 +343,7 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Ingen hukommelse at rydde</string>
-  <string name="memory_clear_result">"%1$s Fri | %2$s Tilgængelig"</string>
+  <string name="memory_clear_result">"%1$s Frigjort | %2$s Tilgængelig"</string>
   <string name="miui_copyright_title">Ophavsret</string>
   <string name="miui_mibi_license_title">Mi Credit brugeraftale</string>
   <string name="miui_privacy_policy_title">Fortrolighedspolitik</string>
@@ -364,13 +364,14 @@
   <string name="month_of_september">Sep</string>
   <string name="multi_select_title">Valgte elementer: %1$s</string>
   <string name="national_day" />
+  <string name="national_father_day" />
   <string name="never">Aldrig</string>
   <string name="new_years_day" />
   <string name="no_sim">Intet SIM, tjeneste utilgængelig</string>
   <string name="open_wifi_settings">Åben Wi-Fi Indstillinger</string>
   <string name="partys_day" />
   <string name="payphone">Mønttelefon</string>
-  <string name="peace_day">Peace Day</string>
+  <string name="peace_day">Fredsdag</string>
   <string name="perm_auto_backup">Automatisk backup</string>
   <string name="perm_data_update_dspt">Tilladt at opdatere data vandmærke</string>
   <string name="perm_data_update_lab">Data opdatering</string>
@@ -386,6 +387,8 @@
   <string name="pin_operation_failed">PIN handling mislykkedes.</string>
   <string name="pincode_set_to_default_msg">PIN kode indstillet til 1234, venligst genindstil PIN her.</string>
   <string name="private_num">Hemmeligt nummer</string>
+  <string name="provider_114">114</string>
+  <string name="provider_sougou">sougou</string>
   <string name="puk_operation_failed">PUK handling mislykkedes.</string>
   <string name="reboot_confirm">Telefon vil genstarte</string>
   <string name="reboot_progress">Genstarter...</string>
@@ -464,5 +467,6 @@
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yesterday">Igår</string>
 </resources>

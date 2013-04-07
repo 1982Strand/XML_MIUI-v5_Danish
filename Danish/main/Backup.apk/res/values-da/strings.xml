@@ -170,13 +170,17 @@
   <string name="task_restore_cancel_progress">Annullerer gendannelse...</string>
   <string name="task_restore_finished_local">Gendannelse fuldført</string>
   <string name="task_restore_none">Ikke påkrævet</string>
+  <string name="task_running_backup_dialog">Backup i baggrunden er igang, tryk OK for at vise.</string>
+  <string name="task_running_backup_hint">Tjeneste kører i baggrunden, venligst prøv igen for at foretage backup!</string>
   <string name="task_running_dialog">Backup kører i baggrunden, klik OK for at se fremskridt</string>
   <string name="task_running_hint">Kører tjeneste i baggrunden for planlagte opgaver</string>
+  <string name="task_running_restore_dialog">Gendannelse i baggrunden er igang, tryk OK for at vise.</string>
+  <string name="task_running_restore_hint">Service is running in the background, please try again to restore!</string>
   <string name="task_service_not_launched">Backup stjeneste ikke staget plads og prøv igen</string>
   <string name="task_stopped_exception">Opgave annulleret</string>
   <string name="total_num">%d elementer i alt</string>
-  <string name="unit_byte">\u0020Bytes</string>
-  <string name="unit_piece">\u0020Elementer</string>
+  <string name="unit_byte">" Bytes"</string>
+  <string name="unit_piece">" Element(er)"</string>
   <string name="unknown_hint">Ukendt</string>
   <string name="wifi_title">Wi-Fi Indstillinger</string>
 </resources>

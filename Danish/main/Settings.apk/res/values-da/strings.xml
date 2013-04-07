@@ -113,6 +113,7 @@
   <string name="app_factory_reset">Afinstaller opdateringer</string>
   <string name="app_factory_reset_dlg_text">Ønsker du at afinstallere alle opdateringer til denne Android applikation?</string>
   <string name="app_factory_reset_dlg_title">Afinstaller opdateringer</string>
+  <string name="app_floating_window_dlg">Tillad\"%1$s\" at vise popup vindue?</string>
   <string name="app_forward_locked">Applikationen er kopibeskyttet</string>
   <string name="app_install_location_summary">Skift den foretrukne installationsplacering for nye applikationer</string>
   <string name="app_install_location_title">Forettrukket installationssplacering</string>
@@ -458,7 +459,7 @@
   <string name="controls_subtitle">Juster strømforbrug</string>
   <string name="copyright_title">Ophavsret</string>
   <string name="create">Opret</string>
-  <string name="credentials_configure_lock_screen_hint">Du skal angive en lås skærm PIN-kode eller adgangskode, før du kan bruge legitimationsoplysningslager.</string>
+  <string name="credentials_configure_lock_screen_hint">Du skal angive en låseskærm PIN-kode eller mix-adgangskode, før du kan bruge legitimationsoplysningslager.</string>
   <string name="credentials_enabled">legitimationsoplysningslager er aktiveret.</string>
   <string name="credentials_erased">legitimationsoplysningslager er slettet.</string>
   <string name="credentials_install">Installer fra lageret</string>
@@ -769,6 +770,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="finish_application">Afslut</string>
   <string name="finish_button_label">Afslut</string>
   <string name="firmware_version">Android Version:</string>
+  <string name="floating_window_switch_label">Vis popup vindue</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
   <string name="font_size_medium">Mellem</string>
@@ -1057,6 +1059,11 @@ Bemærk: denne handling kan ikke fortrydes."</string>
   <string name="move_app_to_internal">Flyt til telefon</string>
   <string name="move_app_to_sdcard">Flyt til SD-kort</string>
   <string name="moving">Flytter</string>
+  <string name="msd_driver_download">Download driver</string>
+  <string name="msd_driver_mac_download">"Venligst anvend Mac og hent driver, tryk derefter på AndroidFileTransfer.dmg for at installere
+Download link:http://miui.com/mac"</string>
+  <string name="msd_driver_windows_xp_download">"Venligst anvend Windows og hent driver, tryke derefter på Setup.exe for at installere
+Download link:http://miui.com/win"</string>
   <string name="msd_help_summary">"Problemer med at få adgang til telefonens lager via computer? Vælg venligst din computers operativsystem:"</string>
   <string name="msd_help_title">Hjælp</string>
   <string name="msd_install">Installer driver</string>

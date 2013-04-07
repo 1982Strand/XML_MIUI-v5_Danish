@@ -16,6 +16,7 @@
   <string name="dialog_failed_body">Vil du prøve at downloade igen senere eller slette filen fra køen?</string>
   <string name="dialog_file_already_exists">Kan ikke downloade. Destinationsfilen eksisterer allerede.</string>
   <string name="dialog_file_missing_body">Den downloadede fil kan ikke findes.</string>
+  <string name="dialog_file_missing_title">Kunne ikke åbne fil</string>
   <string name="dialog_insufficient_space_on_cache">Kan ikke færdiggøre download, der er ikke nopk plads på intern lager.</string>
   <string name="dialog_insufficient_space_on_external">Kan ikke færdiggøre download, der er ikke nok plads på ekstern lager.</string>
   <string name="dialog_media_not_found">Kan ikke downloade. Eksternt lagermedie ikke tilgængelig.</string>

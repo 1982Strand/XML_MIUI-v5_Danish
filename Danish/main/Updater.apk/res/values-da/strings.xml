@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Annuller</string>
   <string name="apply_update_dialog_update_button">Fortsæt</string>
   <string name="apply_update_fail">System opdatering mislykkedes!</string>
+  <string name="apply_update_timer">Opdatering fuldført, telefonen vil genstarte %d sekunder senere</string>
   <string name="apply_upload_info_message">Tryk på Opdater nu, vil automatisk genstarte telefonen for at installere opdateringen</string>
   <string name="apply_upload_info_message_manually">Luk venligst ned, start op i recovery manuelt og installer opdatering fra SD-kortet fra %s. Hvis du vil lave backup, gør det først og vend tilbage til System Opdatering.</string>
   <string name="applying_rom_message">Installerer ROM</string>
@@ -85,6 +86,8 @@
   <string name="paused_queued_for_network">Venter på dataforbindelse</string>
   <string name="paused_queued_for_wifi">Venter på Wi-Fi forbindelse</string>
   <string name="previous">Forrige</string>
+  <string name="reboot_later">Genstart senere</string>
+  <string name="reboot_now">Genstart nu</string>
   <string name="reboot_to_new_system">Genstart system</string>
   <string name="recommend">Anbefal</string>
   <string name="recommend_comment_hint">Årsag (valgfrit)</string>
@@ -96,6 +99,7 @@
   <string name="sdcard_is_not_present_dialog_title">SD-Kort ikke fundet</string>
   <string name="send_install_log">Send installerings log</string>
   <string name="send_install_log_error">Afsending af log mislykkedes!</string>
+  <string name="share">Del</string>
   <string name="share_qq">Post det via Tencent weibo</string>
   <string name="share_sina">Post det via Sina weibo</string>
   <string name="share_update">Del systemopdatering info</string>
@@ -103,20 +107,26 @@
   <string name="share_update_content_unsign">"Jeg har opdateret MIUI til %s! For detaljeret changelog, venligst gå til http://www.miui-au.com"</string>
   <string name="sign_in_add_account">Venligst aktiver din Xiaomi konto</string>
   <string name="sign_in_add_account_helper">Din telefon har ikke konfigureret en MIUI konto</string>
-  <string name="sign_in_info">"Din update rang er %1$s %2$s brugere loggede ind på MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Din update rang er efter %1$s Over %2$s brugere loggede in på MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Din update rang er %1$s Over %2$s brugere loggede in på MIUI %3$s"</string>
+  <string name="sign_in_info">"Din opdateringsrang er %1$s
+%2$s brugere har opdateret til MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Din opdateringsrang er efter %1$s
+Over %2$s brugere har opdateret til MIUI %3$s"</string>
+  <string name="sign_in_info_total_more">"Din opdateringsrang er %1$s
+Over %2$s brugere har opdateret til MIUI %3$s"</string>
   <string name="stable_build">Stabil Build</string>
-  <string name="start_update">Opdater</string>
+  <string name="start_update">Begynd opdatering</string>
   <string name="submit">Indsend</string>
-  <string name="submit_fail">Indsendelse mislykkedes</string>
+  <string name="submit_fail">Indsending mislykkedes</string>
   <string name="submit_progress">Indsender...</string>
-  <string name="submit_success">Indsendelse fuldført, tak!</string>
-  <string name="system_backup_button_text">System Backup</string>
-  <string name="system_backup_cancel_text">Annuller</string>
-  <string name="system_backup_error_message">Fejl ved backup af system</string>
-  <string name="system_backup_ok_text">Ok</string>
-  <string name="sytemt_backup_helper">Opdatering påvirker ikke dine brugerdata. Dog anbefales det at tage backup af dine data alligevel.</string>
+  <string name="submit_success">Indsendt. Tak!</string>
+  <string name="system_backup_apply_helper">Telefon vil automatisk genstarte for at fuldføre opdateringen</string>
+  <string name="system_backup_ask">Spørg igen</string>
+  <string name="system_backup_button_text">Udfør backup af systemet før opdatering</string>
+  <string name="system_backup_cancel_text">Genstart for at opdatere</string>
+  <string name="system_backup_download_helper">Telefon vil automatisk genstarte for at fuldføre opdateringen efter endt download</string>
+  <string name="system_backup_error_message">MIUI backup ikke fundet. Venligst foretag backup manuelt</string>
+  <string name="system_backup_helper">System opdatering sletter ikke brugerdata. Det anbefales dog at lave en backup inden opdatering</string>
+  <string name="system_backup_ok_text">Backup</string>
   <string name="top_secret_build">Hemmelig build</string>
   <string name="update_comment_hint">(valgfrit)</string>
   <string name="update_comment_title">Dine kommentarer</string>
@@ -140,5 +150,5 @@
   <string name="weekly_build">Ugentlig Build</string>
   <string name="wifi_not_available_body">Dataforbindelse fundet, dog anbefales det at anvende Wi-Fi. Forstæt alligevel?</string>
   <string name="wifi_not_available_title">Wi-Fi ikke tilgængelig</string>
-  <string name="worst_update">3. Værste update</string>
+  <string name="worst_update">Værste update</string>
 </resources>
