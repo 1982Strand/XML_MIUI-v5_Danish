@@ -53,7 +53,7 @@
   <string name="cloud_backup_login">MIUI konto</string>
   <string name="cloud_backup_window_title">Online Data Backup</string>
   <string name="cloud_home_title">Online Backup</string>
-  <string name="cloud_item_info_summary">" (Lokal : %1$s | Online : %2$s)"</string>
+  <string name="cloud_item_info_summary">" (Lokal : %1$s | Cloud : %2$s)"</string>
   <string name="cloud_last_backup">Sidste backup:</string>
   <string name="cloud_no_backup">Ingen backup</string>
   <string name="cloud_restore_guide">Tryk Start gendannelse for at gøre dette\n Du kan også gendanne %s i Backup</string>
@@ -175,8 +175,8 @@
   <string name="task_running_dialog">Backup kører i baggrunden, klik OK for at se fremskridt</string>
   <string name="task_running_hint">Kører tjeneste i baggrunden for planlagte opgaver</string>
   <string name="task_running_restore_dialog">Gendannelse i baggrunden er igang, tryk OK for at vise.</string>
-  <string name="task_running_restore_hint">Service is running in the background, please try again to restore!</string>
-  <string name="task_service_not_launched">Backup stjeneste ikke staget plads og prøv igen</string>
+  <string name="task_running_restore_hint">Tjeneste kører i baggrunden, prøv igen for at gendanne!</string>
+  <string name="task_service_not_launched">Tjeneste ikke startet, vent venligst!</string>
   <string name="task_stopped_exception">Opgave annulleret</string>
   <string name="total_num">%d elementer i alt</string>
   <string name="unit_byte">" Bytes"</string>
