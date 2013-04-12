@@ -193,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Næste</string>
   <string name="import_bookmarks_wizard_previous">Forrige</string>
   <string name="importing_favorite_files">Import af data ...</string>
+  <string name="in_incognito">I incognito og ingen browser historik bliver gemt.</string>
   <string name="instant_search_label">Google med Instant (Labs)</string>
   <string name="is_first_history_item">Er allerede første element i historik</string>
   <string name="is_first_tab">Er allerede første fane</string>
@@ -222,6 +223,7 @@
   <string name="new_tab">Ny fane</string>
   <string name="no_subfolders">Ingen undermapper.</string>
   <string name="not_remind_again">Påmind ikke igen</string>
+  <string name="notif_install_successful">Download fuldført.</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Åben alle</string>
   <string name="open_all_in_new_window">Åbn alle i nye faner</string>
@@ -229,7 +231,7 @@
   <string name="other_bookmarks">Andre Bogmærker</string>
   <string name="page_info">Sideoplysninger</string>
   <string name="page_info_address">Adresse:</string>
-  <string name="page_info_view">View page info</string>
+  <string name="page_info_view">Vis side info</string>
   <string name="password">Adgangskode</string>
   <string name="permission_preload_label">Forudindlæs resultater</string>
   <string name="picasa">Picasa</string>
@@ -281,7 +283,7 @@
   <string name="pref_development_normal_rendering">Normal gengivelse</string>
   <string name="pref_development_reset_prelogin">Nulstil prelogin</string>
   <string name="pref_development_single_column_rendering">Enkelt kolonne gengivelse</string>
-  <string name="pref_development_title">Debug</string>
+  <string name="pref_development_title">Fejlsøg</string>
   <string name="pref_development_trace">Aktiver sporing</string>
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Brug bredt viewport</string>
@@ -343,7 +345,7 @@
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Aktiver lokalisering</string>
   <string name="pref_privacy_enable_geolocation_summary">Tillad websteder at anmode om adgang til din placering</string>
-  <string name="pref_privacy_formdata_title">Form data</string>
+  <string name="pref_privacy_formdata_title">Formular data</string>
   <string name="pref_privacy_location_title">Lokation</string>
   <string name="pref_privacy_security_title">Beskyttelse af personlige oplysninger &amp; sikkerhed</string>
   <string name="pref_reading_mode_enabled_title">Læsetilstand</string>
@@ -392,7 +394,7 @@
   <string name="saving_snapshot">Gemmer…</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
-  <string name="search_button_text">Go</string>
+  <string name="search_button_text">Gå</string>
   <string name="search_cancel">Annuller</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Søg eller skriv URL</string>
@@ -430,6 +432,7 @@
   <string name="tab_history">Historik</string>
   <string name="tab_most_visited">Mest besøgte</string>
   <string name="tab_opened_background">Fane åbnet i baggrunden.</string>
+  <string name="tab_opened_background_in_incognito">Åbnet i nyt incognito vindue</string>
   <string name="tab_quicklinks">Hurtig links</string>
   <string name="tab_snapshots">Gemte sider</string>
   <string name="tab_yellowpage">Populære sider</string>

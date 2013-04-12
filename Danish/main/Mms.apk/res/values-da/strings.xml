@@ -209,7 +209,8 @@
   <string name="mx_msg">Cloud Besked</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
-  <string name="mx_reactivate">Genaktiver cloud beskeder</string>
+  <string name="mx_reactivate">Genaktiver Cloud beskeder</string>
+  <string name="mx_recommend_msg">Aktiver Cloud beskeder. Aktiver og send gratis beskeder</string>
   <string name="mx_warning_notice">En SMS vil blive sendt for at aktivere cloud beskeder. Udbyder takseringer forefindes muligvis</string>
   <string name="need_download">Venter på synk...</string>
   <string name="new_message">Ny besked</string>

@@ -49,7 +49,9 @@
   <string name="menu_rename_folder">Omdøb mappe</string>
   <string name="menu_send_to_desktop">Send til skrivebord</string>
   <string name="menu_setting">Indstillinger</string>
+  <string name="menu_stick">Knappenål</string>
   <string name="menu_title_select_folder">Vælg mappe</string>
+  <string name="menu_unstick">Fjern knappenål</string>
   <string name="not_now">Ikke nu</string>
   <string name="note_alert_expired">Udløbet</string>
   <string name="note_link_email">Send email</string>

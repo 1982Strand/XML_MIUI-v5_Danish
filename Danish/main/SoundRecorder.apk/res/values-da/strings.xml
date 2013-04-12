@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Vil du slette valgte optagelse?</string>
+  <string name="alert_message_delete_record">Vil du slette valgte optagelse(r)?</string>
   <string name="app_name">Lydoptager</string>
   <string name="audio_db_album_name">Lydoptagelser</string>
   <string name="audio_db_artist_name">Mine optagelser</string>

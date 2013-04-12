@@ -52,6 +52,7 @@
   <string name="gadget_clock_22_label">Ur 2x2</string>
   <string name="gadget_clock_24_label">Ur 2x4</string>
   <string name="gadget_error_text">Problem med at indlæse widget</string>
+  <string name="gadget_google_search_label">Google Søgning</string>
   <string name="gadget_load_error">Indlæser widget...</string>
   <string name="gadget_photo_22_label">Fotoramme 2x2</string>
   <string name="gadget_photo_24_label">Fotoramme 4x2</string>
@@ -72,6 +73,8 @@
   <string name="group_folder">Ny mappe</string>
   <string name="group_live_folders">Mapper</string>
   <string name="group_shortcuts">Genveje</string>
+  <string name="guide_install_app_msg">Denne app er ikke installeret på telefonen. Hent fra Play Butik nu?</string>
+  <string name="guide_install_app_title">Installer App</string>
   <string name="guide_tips_editing_mode">Tryk og hold for at trække widget til skrivebord</string>
   <string name="home_indicator">bottom_point</string>
   <string name="install">Installer</string>

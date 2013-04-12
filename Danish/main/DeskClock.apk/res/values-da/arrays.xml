@@ -10,10 +10,29 @@
         <item>Alarm indstillet til %2$s og %3$s fra nu.</item>
         <item>Alarm indstillet til %1$s, %2$s, og %3$s fra nu.</item>
     </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minut</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Fra</item>
+        <item>1 minut</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Ingen</item>
-        <item>Slumretilstand</item>
-        <item>Annuller</item>
+        <item>Udsæt</item>
+        <item>Sluk</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm om mindre end et minut</item>
@@ -30,18 +49,10 @@
         <item>Idag</item>
         <item>Imorgen</item>
     </string-array>
-    <string-array name="alarm_count_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>Fra</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>En gang</item>
-        <item>Daglig</item>
-        <item>Ugentlig</item>
+        <item>Dagligt</item>
+        <item>Arbejdsdage</item>
         <item>Man til Fre</item>
         <item>Brugerdefineret</item>
     </string-array>

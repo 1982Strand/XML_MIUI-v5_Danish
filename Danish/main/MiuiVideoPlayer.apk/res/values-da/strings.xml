@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">MiPlayer</string>
+  <string name="about_app_name">Video Afspiller</string>
+  <string name="about_developer_label">Udvikler</string>
+  <string name="about_developer_name">XiaoMi digit</string>
   <string name="about_title">Om</string>
   <string name="about_version">V4.0</string>
   <string name="adjust_position_next_media_notice">Næste</string>
   <string name="adjust_position_prev_media_notice">Forrige</string>
   <string name="airkan_control_device_des">Du kan styre afspilningen via knappen i bunden</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing" />
+  <string name="airkan_video_playing">afspiller</string>
   <string name="airkan_video_playing_in">Afspiller video...</string>
-  <string name="app_name">MiVideo</string>
+  <string name="app_name">Video Afspiller</string>
   <string name="buffering">Indlæser i buffer...</string>
   <string name="buffering_video_netplay_label_v5">Indlæser i buffer...</string>
   <string name="loading_video_netplay_label">Indlæser, vent venligst...</string>

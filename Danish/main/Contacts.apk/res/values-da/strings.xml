@@ -135,7 +135,7 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="clearFrequentsProgress_title">Rydder hyppigt kontaktede...</string>
   <string name="clear_default">Ryd standard</string>
   <string name="click_close">Tryk på skærmen for at lukke</string>
-  <string name="cloud_antispam_summary">Filtrer opkald og beskeder over Wi-Fi og data netværk</string>
+  <string name="cloud_antispam_mark">Markering</string>
   <string name="cloud_antispam_title">Cloud Firewall</string> 
   <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database oplysninger"</string>
   <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du rent faktisk har kontakter på din telefon, kan alle de kontakter, forbydes fra at blive eksporteret fra telefonen ved nogle data udbydere.</string>
@@ -809,11 +809,11 @@ For at tilføje kontakt til favoritter:
   <string name="smart_group_location_label">Via placering</string>
   <string name="smart_group_location_unavailable">Inge andresse information</string>
   <string name="sms">SMS</string>
-  <string formatted="false" name="sms_assistant">Skriv til %s</string>
+  <string name="sms_assistant">Skriv til %s</string>
   <string name="sms_callback">Skriv til tilbagekald</string>
   <string name="sms_car">Skriv til bil</string>
   <string name="sms_company_main">Skriv til firma hovednummer</string>
-  <string formatted="false" name="sms_custom">Skriv til %s</string>
+  <string name="sms_custom">Skriv til %s</string>
   <string name="sms_disambig_title">Skriv besked ved hjælp af</string>
   <string name="sms_fax_home">Skriv til fax hjem</string>
   <string name="sms_fax_work">Skriv til arbejde fax</string>

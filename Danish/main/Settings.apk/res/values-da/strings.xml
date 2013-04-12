@@ -77,6 +77,7 @@
   <string name="android_beam_off_summary">Fra</string>
   <string name="android_beam_on_summary">Klar til at overføre app indhold via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_witch_label">Aktiver Android Beam</string>
   <string name="animator_duration_scale_title">Animatons længde skala</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Godkendelsestype</string>
@@ -365,7 +366,6 @@
   <string name="bluetooth_profile_details">Profil indstillinger</string>
   <string name="bluetooth_profile_headset">Telefon audio</string>
   <string name="bluetooth_profile_hid">Inputenhed</string>
-  <string name="bluetooth_profile_name">"%1$s's Xiaomi Telefon"</string>
   <string name="bluetooth_profile_opp">Filoverførsel</string>
   <string name="bluetooth_profile_pan">internetadgang</string>
   <string name="bluetooth_profile_pan_nap">internetforbindelse deling</string>
@@ -425,6 +425,7 @@
   <string name="camera_key_action_title">MI Knap</string>
   <string name="camera_key_action_toggle_title">Tænd/sluk knap</string>
   <string name="cancel">Annuller</string>
+  <string name="cancel_alert">Kasser ændringer?</string>
   <string name="cant_sync_dialog_message">Synk for denne post er i øjeblikket deaktiveret. For at ændre denne indstilling, midlertidigt tænde baggrundsdata og automatisk synkronisering.</string>
   <string name="cant_sync_dialog_title">"Kan ikke manuelt synkronisere"</string>
   <string name="carrier_enabled">APN aktiver/deaktiver</string>
@@ -612,7 +613,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_cpu">CPU:</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
-  <string name="device_default_name">Xiaomi telefon</string>
   <string name="device_edit_title">Skift enhedens navn</string>
   <string name="device_info_default">Ukendt</string>
   <string name="device_info_label">Enheds info</string>
@@ -623,7 +623,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_miui_version">MIUI version:</string>
   <string name="device_name">Enhedsnavn</string>
   <string name="device_name_input_hint">Indtast enhedens navn</string>
-  <string name="device_name_usage_point">Tillad enhed at blive opdaget af andre Bluetooth enheder, for at muliggøre filoverførsler og andre funktioner.</string>
+  <string name="device_name_usage_point">Vis dette navn ved Bluetooth forbindelser, internetdeling, etc.</string>
   <string name="device_picker">Bluetooth-enhedsvælger</string>
   <string name="device_sd_memory">SD Kort:</string>
   <string name="device_status">Status</string>
@@ -1050,7 +1050,6 @@ Bemærk: denne handling kan ikke fortrydes."</string>
   <string name="misc_files">Diverse filer</string>
   <string name="misc_files_selected_count">valgt %1$d ud af %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s ud af %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Beskeder</string>
   <string name="model_number">Model:</string>
   <string name="move_app">Flyt</string>
@@ -1560,13 +1559,13 @@ følg venligst trinene for at fuldføre installationen"</string>
   <string name="service_background_processes">%1$s fri</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s brugt</string>
-  <string name="service_manage">Indstillinger</string>
+  <string name="service_manage">Opsætning</string>
   <string name="service_manage_description">%1$s: i øjeblikket i brug. Tryk på Indstillinger for at styre den.</string>
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Genstart</string>
   <string name="service_started_by_app">Startet af applikation.</string>
   <string name="service_stop">Stop</string>
-  <string name="service_stop_description">Denne service blev startet af dens applikation. Afslutning kan få programmet til at fejle.</string>
+  <string name="service_stop_description">App har startet tjenesten. Afslutning kan få programmet til at fejle.</string>
   <string name="settings_backup">Gem indstillinger</string>
   <string name="settings_backup_summary">Sikkerhedskopier mine indstillinger</string>
   <string name="settings_button">Indstillinger</string>

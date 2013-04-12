@@ -253,6 +253,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Slet</string>
+  <string name="device_xiaomi">Xiaomi telefon</string>
   <string name="double_seventh_day" />
   <string name="emergency_call_string">Nødopkald</string>
   <string name="error_forbidden">Der er problemer med din konto. Synk er deaktiveret.</string>
@@ -345,6 +346,7 @@
   <string name="memory_clear_nothing_result">Ingen hukommelse at rydde</string>
   <string name="memory_clear_result">"%1$s Frigjort | %2$s Tilgængelig"</string>
   <string name="miui_copyright_title">Ophavsret</string>
+  <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit brugeraftale</string>
   <string name="miui_privacy_policy_title">Fortrolighedspolitik</string>
   <string name="miui_unlockscreen_password_wrong">Forkert adgangskode! Prøv igen</string>
