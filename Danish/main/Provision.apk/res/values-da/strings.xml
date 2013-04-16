@@ -29,6 +29,6 @@
   <string name="traffic_protection_label">Data trafik overvågning</string>
   <string name="traffic_protection_summary">Data trafik overvågning vil underrette dig når din dataplan har nået sin grænse.</string>
   <string name="traffic_protection_text_hint">Venligst indtast din Data grænse.</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;"Ved det ikke. Venligst indtast senere."&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown">Ved det ikke. Venligst indtast senere.</string>
   <string name="use_data">Aktiver data</string>
 </resources>

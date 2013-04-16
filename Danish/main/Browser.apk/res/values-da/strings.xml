@@ -426,6 +426,7 @@
   <string name="ssl_untrusted">"Dette certifikat er ikke fra en betroet myndighed."</string>
   <string name="ssl_warnings_header">Der er problemer med sikkerhedscertifikatet for dette websted.</string>
   <string name="stop">Stop</string>
+  <string name="stop_loading">Stop</string>
   <string name="stopping">Stopper ...</string>
   <string name="tab_bookmarks">Bogmærker</string>
   <string name="tab_closed">Fane lukket.</string>

@@ -91,8 +91,8 @@
   <string name="filter_by_duration_prefix">"Minimum længde: "</string>
   <string name="filter_by_duration_summary">Filtrer korte lydfiler</string>
   <string name="filter_by_folder">Filtrer via mappe</string>
-  <string name="filter_by_folder_summary_off">FRA, tryk for at anvende mappe filter</string>
-  <string name="filter_by_folder_summary_on">TIL, tryk for at ændre mappe filter</string>
+  <string name="filter_by_folder_summary_off">Tryk for at anvende mappe filter</string>
+  <string name="filter_by_folder_summary_on">Tryk for at ændre mappe filter</string>
   <string name="filter_by_size">Filtrer via størrelse</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0K</string>
@@ -113,18 +113,18 @@
   <string name="keep_quit_position_summary">Gemmer afpsilningens position, til næste gang applikationen startes</string>
   <string name="listen_to_music_online_settings">Lyt til online musik</string>
   <string name="listen_to_online_summary">Lyt til musik via mobil netværk eller Wi-Fi</string>
-  <string name="load_album_artist_failed">Kunne ikke indlæse album og kunstner liste. Prøv igen.</string>
+  <string name="load_album_artist_failed">Kunne ikke indlæse album og kunstner liste.</string>
   <string name="load_album_artist_in_process">Indlæser album og kunstner liste...</string>
-  <string name="load_album_failed">Kunne ikke indlæse albumliste, prøv igen</string>
+  <string name="load_album_failed">Kunne ikke indlæse albumliste.</string>
   <string name="load_album_in_process">Indlæser liste</string>
-  <string name="load_artist_failed">Kunne ikke indlæse kunstnerliste, prøv igen</string>
+  <string name="load_artist_failed">Kunne ikke indlæse kunstnerliste.</string>
   <string name="load_artist_in_process">Indlæser liste</string>
-  <string name="load_audio_failed">Kunne ikke indlæse lydliste, prøv igen</string>
+  <string name="load_audio_failed">Kunne ikke indlæse lydliste.</string>
   <string name="load_audio_in_process">Indlæser liste</string>
-  <string name="load_bill_failed">Kunne ikke indlæse hitliste, prøv igen</string>
+  <string name="load_bill_failed">Kunne ikke indlæse hitliste.</string>
   <string name="load_bill_in_process">Indlæser liste</string>
-  <string name="load_channel_failed">Indlæsning af kategoriliste mislykkedes, prøv igen.</string>
-  <string name="load_channel_in_process">Indlæser liste</string>
+  <string name="load_channel_failed">Indlæsning af kategoriliste mislykkedes.</string>
+  <string name="load_channel_in_process">Indlæser liste...</string>
   <string name="loading">Indlæser</string>
   <string name="lrc_progress_modify">Juster sangtekst rulle-hastighed</string>
   <string name="lrc_progress_modify_helper">Juster hastigheden ved at trække op eller ned</string>
@@ -152,7 +152,7 @@
   <string name="music_open_other_connect">Download musik på mobildata forbindelse</string>
   <string name="music_picker_title">Vælg musiknummer</string>
   <string name="music_settings">Indstillinger</string>
-  <string name="network_error">Ingen netværksforbindelse, kontroller indstillinger</string>
+  <string name="network_error">Ingen netværksforbindelse, kontroller indstillinger.</string>
   <string name="new_albums">Nye Albums</string>
   <string name="new_equalizer_name_template">Ny EQ profil %d</string>
   <string name="new_playlist">Ny</string>
@@ -160,14 +160,15 @@
   <string name="no_effect">Ingen effekt</string>
   <string name="no_song_downloaded">Sang kan ikke downloades</string>
   <string name="not_selected">Venligst vælg en sang</string>
-  <string name="notification_artist_album">"%2$s %1$s"</string>
+  <string name="notification_artist_album">"%2$s
+%1$s"</string>
   <string name="online_music">Online Musik</string>
   <string name="online_search_hint">Søg efter online musik</string>
   <string name="other_settings">Andet</string>
   <string name="overwrite_confirm">Overskriv</string>
   <string name="play_all">Afspil Alle</string>
   <string name="play_and_download">Lyt og hent</string>
-  <string name="play_and_download_summary">Lyt til sange online og hent dem</string>
+  <string name="play_and_download_summary">Lyt til sange online og hent dem automatisk.</string>
   <string name="play_selection">Afspil</string>
   <string name="playback_failed">Beklager, afspilleren understøtter ikke dette lydformat.</string>
   <string name="playback_failed_by_bad_file">%s kan ikke afspilles, formatet er ikke understøttet, eller filen eksisterer ikke..</string>
@@ -183,6 +184,7 @@
   <string name="playlist_recently_played">Senest afspillet</string>
   <string name="playlist_renamed_message">Playliste omdøbt.</string>
   <string name="playlists_title">Playlister</string>
+  <string name="powered_by">Drevet af</string>
   <string name="queue">Nuværende playliste</string>
   <string name="quit_player">Afslut</string>
   <string name="quit_warining">Afspiller vil stoppe afspilning efter %d minut(ter)</string>
@@ -198,6 +200,7 @@
   <string name="rename_album_menu">Omdøb album</string>
   <string name="rename_artist_menu">Omdøb kunstner</string>
   <string name="rename_playlist_menu">Omdøb</string>
+  <string name="retry">Prøv igen</string>
   <string name="ringtone_menu">Anvend som ringetone</string>
   <string name="ringtone_set">\"%s\" anvend som ringetone.</string>
   <string name="save">Gem</string>
@@ -205,7 +208,8 @@
   <string name="scanning_nosdcard">Scanner USB lager…</string>
   <string name="screen_bright_wake">Skærm holdes tændt</string>
   <string name="screen_bright_wake_summary">Baglys forbliver tændt når indstillingen er aktiveret</string>
-  <string name="sdcard_busy_message">"Beklager, SD Kortet er optaget. Kontroller kort status."</string>
+  <string name="sdcard_busy_message">"Beklager, SD kortet er optaget.
+ Venligst kontroller SD kort status."</string>
   <string name="sdcard_busy_message_nosdcard">Beklager, USB lager er optaget.</string>
   <string name="sdcard_error_message">Der opstod en fejl med SD Kortet.</string>
   <string name="sdcard_error_message_nosdcard">Der opstod en fejl med USB lageret.</string>
@@ -227,7 +231,7 @@
   <string name="shake_settings">Ryst for at skifte</string>
   <string name="shake_summary">Ryst telefonen for at skifte sang</string>
   <string name="shake_while_screen_on_title">Skift kun når skærmen er tændt</string>
-  <string name="shake_while_screen_on_title_summary">Ryst for at skifte når skærm er tændt. Undgå at skifte sang når du går, etc.</string>
+  <string name="shake_while_screen_on_title_summary">Undgå at skifte sang når du går, etc.</string>
   <string name="shuffle_all">Bland alle</string>
   <string name="sort_by_album">Albums</string>
   <string name="sort_by_artist">Kunstnere</string>
@@ -235,7 +239,7 @@
   <string name="start_to_download_album">Downloader albumcovers til dine sange</string>
   <string name="start_to_download_avatar">Downloader kunstner avatarer til din musik</string>
   <string name="streamloadingtext">Forbinder til %s</string>
-  <string formatted="false" name="track_album_format">%s - %s</string>
+  <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Sang</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Alle sange</string>

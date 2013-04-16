@@ -395,9 +395,9 @@
   <string name="bluetooth_visibility_timeout">Synlighed timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Indstil, hvor lang tid enheden vil kunne registreres</string>
   <string name="breathing_light_color_summary">LED farve ved modtagelse af notifikationer</string>
-  <string name="breathing_light_color_title">LED farve</string>
+  <string name="breathing_light_color_title">" LED farve"</string>
   <string name="breathing_light_freq_summary">LED pause mellem blink</string>
-  <string name="breathing_light_freq_title">LED blinke frekvens</string>
+  <string name="breathing_light_freq_title">" LED frekvens"</string>
   <string name="brightness">Lysstyrke</string>
   <string name="brightness_auto_adjust_off">Manuel lysstyrke kan justeres efter præference ved at flytte knappen. Lysstyrken vil forblive den samme i alle omgivelser.</string>
   <string name="brightness_auto_adjust_on">Auto lysstyrke effekten kan justeres ved at flytte knappen. Lysstyrke effekten vil variere iht justeringen og omgivelserne.</string>
@@ -610,7 +610,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_admin_status">Denne administrator er aktiv og gør det muligt for applicationen %1$s at udføre følgende handlinger:</string>
   <string name="device_admin_title">Enhedsadministration</string>
   <string name="device_admin_warning">Aktivering af denne administrator vil tillade %1$s at udføre følgende handlinger:</string>
-  <string name="device_cpu">CPU:</string>
+  <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
   <string name="device_edit_title">Skift enhedens navn</string>
@@ -618,19 +618,19 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_info_label">Enheds info</string>
   <string name="device_info_not_available">Ikke tilgængelig</string>
   <string name="device_info_settings">Telefon status</string>
-  <string name="device_internal_memory">Intern Hukommelse:</string>
-  <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">MIUI version:</string>
+  <string name="device_internal_memory">Intern Hukommelse</string>
+  <string name="device_memory">RAM</string>
+  <string name="device_miui_version">MIUI version</string>
   <string name="device_name">Enhedsnavn</string>
   <string name="device_name_input_hint">Indtast enhedens navn</string>
   <string name="device_name_usage_point">Vis dette navn ved Bluetooth forbindelser, internetdeling, etc.</string>
   <string name="device_picker">Bluetooth-enhedsvælger</string>
-  <string name="device_sd_memory">SD Kort:</string>
+  <string name="device_sd_memory">SD Kort</string>
   <string name="device_status">Status</string>
-  <string name="device_status_activity_title">status</string>
+  <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Batteri Status, niveau, etc.</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
-  <string name="dirac_control">Dirac Kontrol</string>
+  <string name="dirac_control">MI Lyd</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW overlæg</string>
   <string name="disable_overlays_summary">Anvend altid GPU til skærmkomposition</string>
@@ -702,7 +702,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="dolby_roomsize_normal">Normalt rum</string>
   <string name="dolby_roomsize_summary">Surround sound tilstand tilgængelig når høretelefoner anvendes</string>
   <string name="dolby_roomsize_title">Surround：</string>
-  <string name="drive_mode">Køre tilstand</string>
+  <string name="drive_mode">Køretilstand</string>
   <string name="drive_mode_auto_reply">Autosvar</string>
   <string name="drive_mode_auto_sms_reply_content">Er ude at køre, ringer senere.</string>
   <string name="drive_mode_auto_sms_reply_content_title">SMS svar indhold</string>
@@ -1875,7 +1875,8 @@ Muligvis ugyldig PIN."</string>
   <string name="user_dict_settings_context_menu_delete_title">Slet</string>
   <string name="user_dict_settings_context_menu_edit_title">Rediger</string>
   <string name="user_dict_settings_edit_dialog_title">Rediger ord</string>
-  <string name="user_dict_settings_empty_text">"Du har ikke nogen ord i brugerordbogen. Tilføj et ord ved at trykke på Tilføj (+) knappen."</string>
+  <string name="user_dict_settings_empty_text">"Du har ingen brugerordbøger
+Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="user_dict_settings_more_languages">Flere sprog…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Brugerordbog</string>

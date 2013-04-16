@@ -4,7 +4,7 @@
   <string name="activate_fail_notification_title">Venligst genaktiver Xiaomi synk tjeneste</string>
   <string name="activating">Aktiverer...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
-  <string name="alwaysUsePrompt">Sæt som standard (ingen bekræftelse næste gang)</string>
+  <string name="alwaysUsePrompt">Sæt som standard</string>
   <string name="android_lockscreen_glogin_instructions">Log ind med din konto for at låse op</string>
   <string name="arbor_day" />
   <string name="autumn_begins" />
@@ -389,8 +389,8 @@
   <string name="pin_operation_failed">PIN handling mislykkedes.</string>
   <string name="pincode_set_to_default_msg">PIN kode indstillet til 1234, venligst genindstil PIN her.</string>
   <string name="private_num">Hemmeligt nummer</string>
-  <string name="provider_114">114</string>
-  <string name="provider_sougou">sougou</string>
+  <string name="provider_114">Udbudt af 114</string>
+  <string name="provider_sougou">Udbudt af Sougou</string>
   <string name="puk_operation_failed">PUK handling mislykkedes.</string>
   <string name="reboot_confirm">Telefon vil genstarte</string>
   <string name="reboot_progress">Genstarter...</string>

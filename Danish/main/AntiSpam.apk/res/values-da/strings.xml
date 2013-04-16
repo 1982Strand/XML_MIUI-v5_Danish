@@ -46,6 +46,7 @@
   <string name="context_call">Ring op</string>
   <string name="context_ms">Send besked</string>
   <string name="context_new_contact">Ny Kontakt</string>
+  <string name="custom_mark_category">Bruggerdefineret</string>
   <string name="edit_blacklist">Rediger Blackliste</string>
   <string name="edit_whitelist">Rediger Godkendte</string>
   <string name="emptylist_fwlog_call">Opkald vil blive registreret når firewall feature er TIL</string>
@@ -108,7 +109,9 @@
   <string name="fw_whitelist">Godkendte</string>
   <string name="fw_whitelist_hint">Godkendte numre vil accepteres ved opkald og beskeder</string>
   <string name="log_count">(%d)</string>
-  <string formatted="false" name="member_firewall_log">Blokeret: Opkald: %d Beskeder: %d</string>
+  <string name="mark_number_dialog_maintitle">Marker ukendt nummer og upload</string>
+  <string name="mark_number_dialog_subtitle">Udviklet i samarbejde med Sogu nummer pass</string>
+  <string name="member_firewall_log" formatted="false">Blokeret: Opkald: %d Beskeder: %d</string>
   <string name="menu_edit">Rediger</string>
   <string name="mms_log_tab_title">Beskeder</string>
   <string name="new_bw_list_button">Tilføj kontakter</string>
@@ -130,5 +133,10 @@
   <string name="save_button">Gem</string>
   <string name="show_firewall_notification">Vis notifikationsikon</string>
   <string name="show_notification">Vis alle notifikationer</string>
+  <string name="smart_antispam">Identificer ukendt nummer intelligent</string>
+  <string name="turn_on_smart_antispam_hint">Efter aktivering, numre vil blive identificeret, markeret og hjælpe med afgørelse om hvorvidt det er et bedragerisk opkald.</string>
+  <string name="turn_on_smart_antispam_summary_off">Efterspørg kun med lokal nummer database</string>
+  <string name="turn_on_smart_antispam_summary_on">Virker kun på Wi-Fi og 3G netværk</string>
+  <string name="turn_on_smart_antispam_title">Identificer ukendte nummre</string>
   <string name="whitelist_tab_title">Godkendte</string>
 </resources>
