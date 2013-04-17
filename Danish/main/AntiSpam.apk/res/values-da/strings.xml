@@ -46,7 +46,7 @@
   <string name="context_call">Ring op</string>
   <string name="context_ms">Send besked</string>
   <string name="context_new_contact">Ny Kontakt</string>
-  <string name="custom_mark_category">Bruggerdefineret</string>
+  <string name="custom_mark_category">Brugerdefineret</string>
   <string name="edit_blacklist">Rediger Blackliste</string>
   <string name="edit_whitelist">Rediger Godkendte</string>
   <string name="emptylist_fwlog_call">Opkald vil blive registreret når firewall feature er TIL</string>
@@ -58,15 +58,15 @@
   <string name="firewall_settings_tab_title">Opsætning</string>
   <string name="fw_action_settings">Handlinger</string>
   <string name="fw_add_keyword">Tilføj nøgleord</string>
-  <string formatted="false" name="fw_add_keyword_existing">Nøgleordet %s eksisterer allerede</string>
+  <string name="fw_add_keyword_existing">Nøgleordet %s eksisterer allerede</string>
   <string name="fw_add_list_title">Indtast telefonnummer</string>
   <string name="fw_advanced_settings">Avancerede indstillinger</string>
   <string name="fw_all_day">Hele dagen</string>
   <string name="fw_blacklist">Blackliste</string>
   <string name="fw_blacklist_hint">Blacklistede numre vil blokeres ved opkald og beskeder</string>
   <string name="fw_blocked">Blokering er TIL</string>
-  <string formatted="false" name="fw_blocked_count">Blokerede %d Opkald %d Beskeder</string>
-  <string formatted="false" name="fw_call">Opkald blokeret: %s (%d)</string>
+  <string name="fw_blocked_count" formatted="false">Blokerede %d Opkald %d Beskeder</string>
+  <string name="fw_call" formatted="false">Opkald blokeret: %s (%d)</string>
   <string name="fw_call_imported">Importer fra opkaldsliste</string>
   <string name="fw_call_muted">Opkald er lydløse</string>
   <string name="fw_call_rejected">Opkald blokeres</string>
@@ -80,8 +80,8 @@
   <string name="fw_import_ms">Importer alle beskeder fra kontakt</string>
   <string name="fw_import_whitelist">Tilføjer godkendte...</string>
   <string name="fw_import_whitelist_confirm">%d numre valgt, importer til Godkendte?</string>
-  <string formatted="false" name="fw_in_blacklist">Nummer: %s eksisterer allerede i Blackliste</string>
-  <string formatted="false" name="fw_in_whitelist">Number: %s eksisterer allerede i Godkendte</string>
+  <string name="fw_in_blacklist">Nummer: %s eksisterer allerede i Blackliste</string>
+  <string name="fw_in_whitelist">Number: %s eksisterer allerede i Godkendte</string>
   <string name="fw_keyword_filter">Beskedfiltrering</string>
   <string name="fw_keyword_filter_summary">Filtrer beskeder baseret på nøgleord</string>
   <string name="fw_keyword_list">Liste over nøgleord</string>
@@ -92,7 +92,7 @@
   <string name="fw_menu_new_whitelist_title">Tilføj til godkendte</string>
   <string name="fw_menu_pick_from_contact">Vælg fra kontakter...</string>
   <string name="fw_menu_remove">Fjern</string>
-  <string formatted="false" name="fw_ms">Beskeder blokeret: %s (%d)</string>
+  <string name="fw_ms" formatted="false">Beskeder blokeret: %s (%d)</string>
   <string name="fw_ms_filtered">Filtrerede beskeder</string>
   <string name="fw_ms_imported">Beskeder importeret</string>
   <string name="fw_ms_muted">Beskeder er lydløse</string>

@@ -117,7 +117,7 @@
   <string name="theme_changed_message">Tema indstillet!</string>
   <string name="theme_changing_dialog_title">Indstiller tema...</string>
   <string name="theme_component_title_alarm">Alarm</string>
-  <string name="theme_component_title_alarmstyle">Alarm stil</string>
+  <string name="theme_component_title_alarmstyle">Alarm Udseende</string>
   <string name="theme_component_title_all">Temaer</string>
   <string name="theme_component_title_audio_effect">Lydeffekt</string>
   <string name="theme_component_title_boot_animation">Boot Animation</string>

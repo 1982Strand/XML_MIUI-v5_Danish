@@ -726,7 +726,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="enable_back_long_press">Luk app</string>
   <string name="enable_compatibility">Skaler app</string>
   <string name="enable_drive_mode">Aktiver Køretilstand</string>
-  <string name="enable_snapshot_screenlock">Skærmbillede på låseskærm</string>
+  <string name="enable_snapshot_screenlock">Åbn Kamera fra låseskærm</string>
   <string name="enable_text">Aktiver</string>
   <string name="enable_traces_dialog_title">Vælg aktiverede spor</string>
   <string name="enable_traces_summary_all">Alle spor aktive</string>
@@ -769,7 +769,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="filter_dlg_title">Vælg filtreringsmuligheder</string>
   <string name="finish_application">Afslut</string>
   <string name="finish_button_label">Afslut</string>
-  <string name="firmware_version">Android Version:</string>
+  <string name="firmware_version">Android Version</string>
   <string name="floating_window_switch_label">Vis popup vindue</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
@@ -803,10 +803,10 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="header_account_settings">Kontoindstillinger</string>
   <string name="header_add_an_account">Tilføj en konto</string>
   <string name="header_application_sync_settings">App synkroniseringsindstillinger</string>
-  <string name="header_category_accounts">KONTI</string>
-  <string name="header_category_device">ENHED</string>
-  <string name="header_category_personal">PERSONLIG</string>
-  <string name="header_category_system">SYSTEM</string>
+  <string name="header_category_accounts">Konti</string>
+  <string name="header_category_device">Enhed</string>
+  <string name="header_category_personal">Personlig</string>
+  <string name="header_category_system">System</string>
   <string name="header_category_wireless_networks">Trådløs og netværk</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="heavy_weight_stop_description">Denne applikation kan ikke stoppes sikkert. Dette kan medføre tab af dit nuværende arbejde.</string>
@@ -873,7 +873,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="join_two_items">%1$s and %2$s</string>
   <string name="keep_screen_on">Hold vågen</string>
   <string name="keep_screen_on_summary">Skærmen vil aldrig slukke, mens du oplader</string>
-  <string name="kernel_version">Kernel:</string>
+  <string name="kernel_version">Kernel</string>
   <string name="key_settings">Hardware Knapper</string>
   <string name="key_settings_title">Hardware Knapper</string>
   <string name="keyboard_layout_default_label">Standard</string>
