@@ -114,7 +114,10 @@
   <string name="app_factory_reset">Afinstaller opdateringer</string>
   <string name="app_factory_reset_dlg_text">Ønsker du at afinstallere alle opdateringer til denne Android applikation?</string>
   <string name="app_factory_reset_dlg_title">Afinstaller opdateringer</string>
-  <string name="app_floating_window_dlg">Tillad\"%1$s\" at vise popup vindue?</string>
+  <string name="app_floating_window_dlg_disable">"Deaktivering af indstillingerne for %1$s's popup vinduer vil tvinge lukning af applikationen. Du kan også manuelt åbne app'en.
+Er du sikker på du vil deaktivere?"</string>
+  <string name="app_floating_window_dlg_enable">"Aktivering af indstillingerne for %1$s's popup vinduer påkræver genstart af app'en. Du kan også manuelt standse applikationen. 
+Er du isikker på du vil aktivere?"</string>
   <string name="app_forward_locked">Applikationen er kopibeskyttet</string>
   <string name="app_install_location_summary">Skift den foretrukne installationsplacering for nye applikationer</string>
   <string name="app_install_location_title">Forettrukket installationssplacering</string>
@@ -771,6 +774,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="finish_button_label">Afslut</string>
   <string name="firmware_version">Android Version</string>
   <string name="floating_window_switch_label">Vis popup vindue</string>
+  <string name="floating_window_switch_label_disable">Vis ikke popup vindue</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
   <string name="font_size_medium">Mellem</string>
@@ -1619,6 +1623,7 @@ Muligvis ugyldig PIN."</string>
   <string name="sim_lock_settings">SIM-lås indstillinger</string>
   <string name="sim_lock_settings_category">Konfigurer SIM-lås</string>
   <string name="sim_lock_settings_title">SIM-lås</string>
+  <string name="sim_management_title">SIM håndtering</string>
   <string name="sim_pin_change">Skift SIM PIN-kode</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>

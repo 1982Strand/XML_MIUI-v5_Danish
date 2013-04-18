@@ -5,16 +5,21 @@ indlæsning kan tage et par minutter,
 din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="add_task">Tilføj opgaver</string>
   <string name="adding_upload_tasks">Tilføjer upload opgave.</string>
+  <string name="app_cache_cleanup_indication">%s cache</string>
+  <string name="app_cache_title">Applikation cache</string>
+  <string name="app_garbage_cleanup_indication">%s app affald</string>
+  <string name="app_garbage_path">Placering:</string>
+  <string name="app_garbage_title">Applikation affald</string>
   <string name="app_name">Filer</string>
+  <string name="application_size_label">Applikation</string>
   <string name="background">Kør i baggrunden</string>
   <string name="bind_account">knyt til kuaipan konto</string>
   <string name="bind_account_summary">Hvis du allerede har en kuaipan konto, kan du knytte den til din telefon for at læse dens data</string>
   <string name="binded_accout_description">De to konti er flettet, nu kan der logges ind vha begges oplysninger og begge konti kan læse dine data</string>
   <string name="binded_accout_title">Du har allerede en tilknytning til en kuaipan konto</string>
-  <string name="binded_accout_warning">Advarsel: Denn handling kan ikke fortrydes</string>
-  <string name="binding_accout_title">Knyt til din eksisterende kuaipan konto</string>
+  <string name="cache_size_label">Cache</string>
   <string name="cancel">Annuller</string>
-  <string name="cancel_cleanup">Annuller oprydning</string>
+  <string name="cancel_app_garbage_cleanup">Annuller sletning</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKer</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -30,14 +35,11 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="category_zip">Arkiver</string>
   <string name="choose_send_type">Vælg forsendelsetype</string>
   <string name="choose_upload_location">Vælg upload placering</string>
-  <string name="clean_complete">Oprydning fuldført</string>
+  <string name="clean_app_garbage">Slet %d element(er)</string>
   <string name="clean_message">%1$s plads frigjort</string>
   <string name="clean_title">Slet filer fra papirkurven der er ældre end 30 dage</string>
   <string name="clean_trash_box">Ryd papirkurv</string>
-  <string name="clean_trash_box_failed">Kunne ikke slette gamle filer fra papirkurven</string>
-  <string name="cleanup_help">Ryd for uønskede filer i systemet for at frigøre plads</string>
-  <string name="cleanup_tab_app">App Oprydning</string>
-  <string name="cleanup_tab_garbage">System Oprydning</string>
+  <string name="cleanup_complete">Færdig</string>
   <string name="clear_cache">Ryd cache</string>
   <string name="close">Luk</string>
   <string name="compress_message">Komprimer til:</string>
@@ -50,6 +52,7 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="create_share_link_description">Opretter delings link…</string>
   <string name="cution">Tips</string>
   <string name="data_capacity">Data %1$s</string>
+  <string name="data_size_label">Data</string>
   <string name="decompress_cancel">Annuller</string>
   <string name="decompress_confirm">Dekomprimer?</string>
   <string name="decompress_fail">Dekomprimering mislykkedes!</string>
@@ -68,11 +71,14 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="dialog_type_image">Billede</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
+  <string name="directory_no_item">Tom mappe</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Download mislykkedes</string>
   <string name="download_link_completed">Jeg har delt %1$s via MiDrive. Klik på linket nedenunder for at se: </string>
-  <string name="download_successful">Download fuldført</string>
-  <string name="downloading">Downloader...</string>
+  <string name="downloading">Downloader</string>
+  <string name="empty_dir_cleanup_indication">%s affaldsfiler</string>
+  <string name="empty_dir_title">Tomme mapper</string>
   <string name="enable_sd_card">Intet SD Kort tilgængeligt. Venligst isæt, eller afmonter fra USB lager</string>
   <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
   <string name="fail_to_create_folder">Kan ikke oprette, mappe eksisterer allerede</string>
@@ -99,14 +105,25 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="ftp_transfer_secure">Sikker FTP overførsel</string>
   <string name="ftp_username_and_passworld">Brugernavn og adgangskode</string>
   <string name="ftp_username_hint">Brugernav</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
+  <string name="garbage_size_metric">"%s
+Affald"</string>
   <string name="gbk_summary">Hvis du bruger GBK tegnsæt, e.g. Windows Explorer, vælg denne type tegnsæt for at undgå forvrænget kinesisk tekst.</string>
   <string name="gbk_title">GBK</string>
-  <string name="instruction">Indtast følgende adresse i din FTP klient:</string>
-  <string name="instruction_pre">Start tjeneste for at aktivere FTP server</string>
-  <string name="kingsoft_account">MiDrive konto</string>
-  <string name="kuaipan_over_space">Ikke mere plads på dit MiDrive.</string>
-  <string name="kuaipan_prompt">MiDrive Hjælp</string>
-  <string name="kuaipan_prompt_message">"Serveren er utilgængelig, prøv igen senere."</string>
+  <string name="give_up_cleaning">Opgiv</string>
+  <string name="header_text_cleaned">Slettede affald</string>
+  <string name="header_text_cleaning">Sletter, affald tilbage</string>
+  <string name="header_text_scanned">Der er affald der kan slettes</string>
+  <string name="header_text_scanning">Skanner affald...</string>
+  <string name="instruction">Indtast følgende adresse i en FTP klient:</string>
+  <string name="instruction_pre">"Tryk 'Start' nedenfor for at starte FTP server"</string>
+  <string name="item_name">Intet navn</string>
+  <string name="kuaipan_over_space">Dit MiDrive har ikke mere plads.</string>
+  <string name="kuaipan_prompt">MiDrive tip</string>
+  <string name="kuaipan_prompt_message">"
+ Serveren er nede for vedligeholdelse. Prøv igen senere...
+ "</string>
   <string name="kuaipan_tech_support">Teknisk support tilbudt af Kingsoft Kuaipan</string>
   <string name="load_err">Indlæsning mislykkedes</string>
   <string name="loading">Indlæser</string>
@@ -129,16 +146,24 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="name_illegal">Filnavn kan ikke være blankt</string>
   <string name="net_lose_connected">Netværk ikke tilgængeligt, kan ikke få størrelse</string>
   <string name="networkView_notConnected">Intet netværk tilgængeligt</string>
-  <string name="networkView_offline">"Offline tilstand, kan ikke opdatere liste"</string>
   <string name="new_folder_name">Ny Mappe</string>
   <string name="no">Nej</string>
+  <string name="no_app_cache_indication">Ingen applikation cache</string>
+  <string name="no_app_garbage_indication">Ingen applikation affald</string>
+  <string name="no_empty_dir_indication">No empty directories</string>
   <string name="no_file">Ingen filer</string>
   <string name="no_more_space">Ikke mere plads</string>
   <string name="no_tasks">Ingen opgaver</string>
+  <string name="no_temp_file_indication">Ingen temp filer</string>
+  <string name="no_thumbnail_indication">Ingen miniaturer</string>
   <string name="no_wifi">Wi-Fi ikke tilsluttet</string>
   <string name="no_wifi_hint">Ingen Wi-Fi forbindelse fundet, tryk for at kontrollere indstillinger</string>
   <string name="notif_server_starting">FTP Server startet</string>
   <string name="notif_title">FTP Server kører</string>
+  <string name="open_changed_file_message">"Filen du prøver at åbne er blevet ændret, du kan:
+1. Downloade (opdater den lokale fil)
+2. Uploade (opdater fjernfilen)"</string>
+  <string name="open_changed_file_title">Fil ændret</string>
   <string name="operating">Behandler...</string>
   <string name="operation_cancel">Annuller</string>
   <string name="operation_compress">Komprimer</string>
@@ -176,13 +201,15 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="pan_settting">MiDrive indstillinger</string>
   <string name="paused">På pause</string>
   <string name="query_bind_state">Forespørger status på tilknytning, vent venligst...</string>
-  <string name="remote_management">FTP</string>
-  <string name="rename_description">Omdøber, vent venligst…</string>
+  <string name="rename_description">Omdøber···</string>
   <string name="rename_failed">Kunne ikke omdøbe %1$s</string>
-  <string name="scanning">Skanner</string>
+  <string name="restart_cleaning">Genstart</string>
+  <string name="scanning" formatted="false">Skan %d app ... (%d apps i alt)</string>
+  <string name="scanning_on_going">Skanner...</string>
   <string name="sd_card_available">Tilgængelig: %1$s</string>
   <string name="sd_card_size">SD Kort: %1$s</string>
   <string name="sd_full">SD Kort fyldt</string>
+  <string name="sd_size_label">SD Kort</string>
   <string name="search_hint">Indtast hele eller dele af filnavnet</string>
   <string name="search_title">Søg</string>
   <string name="send_to_midrive">Send til MiDrive</string>
@@ -204,9 +231,15 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="storage_sd_card">SD kort</string>
   <string name="storage_usb">USB lager</string>
   <string name="storage_warning">Eksternt lager ikke tilgængelig</string>
+  <string name="sys_size">Lager i alt %1$s</string>
+  <string name="sys_size_title">Lager i alt</string>
   <string name="tab_category">Kategori</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefon</string>
+  <string name="temp_file_cleanup_indication">%s temp filer</string>
+  <string name="temp_file_title">Temp filer</string>
+  <string name="thumbnail_cleanup_indication">%s miniaturer</string>
+  <string name="thumbnail_title">Miniature filer</string>
   <string name="toast_file_not_can_read">Filen kan ikke læses.</string>
   <string name="trans_task">Netværksoverførsel</string>
   <string name="trans_task_delete_confirm_message">Er du sikker på du vil slette de valgte %1$d opgaver?</string>
@@ -218,13 +251,14 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="ui_bar_txt_download_progress">%1$d resterende fil(er) at downloade</string>
   <string name="ui_bar_txt_upload_progress">%1$d resterende fil(er) at uploade</string>
   <string name="ui_filechange_btn_download">Download filer</string>
+  <string name="ui_filechange_btn_upload">Upload filer</string>
   <string name="ui_main_menu_option_task_manage">Håndtering af overførsler</string>
   <string name="ui_main_progress_txt_open_file">Downloader...</string>
   <string name="ui_main_toast_favorite_removed">Favoritter fjernet</string>
   <string name="ui_main_toast_operation_failed">Fjernelse af %1$s mislykkedes.</string>
+  <string name="uninstall_app_data">Slet App og al data</string>
   <string name="upload_failed">Upload mislykkedes</string>
   <string name="upload_file_toolarge_message">"%1$d filer større end 300MB kan ikke uploades."</string>
-  <string name="upload_successful">Upload fuldført</string>
   <string name="uploading">Uploader...</string>
   <string name="used">Brugt</string>
   <string name="user_guide">Bruger Guide</string>
@@ -235,10 +269,13 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="user_guide_upload_to_kuaipan">"Kopier og indsæt filer til MiDrive"</string>
   <string name="utf8_summary">Standard kodning</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="version_text">version %1$s</string>
   <string name="wait_net">Venter på netværk</string>
   <string name="wait_sdcard">Venter på SD Kort monteret</string>
   <string name="wait_wifi">Venter på Wi-Fi</string>
   <string name="waiting">Venter...</string>
+  <string name="waiting_for_cleaning">Venter på sletning</string>
+  <string name="waiting_for_scanning">Venter på skanning</string>
   <string name="wangpan_root_path">Mit Drev</string>
   <string name="wifi_state">Wi-Fi Status</string>
   <string name="xiaomi_account">Xiaomi konto</string>
