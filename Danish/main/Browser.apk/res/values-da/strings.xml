@@ -39,7 +39,7 @@
   <string name="added_to_bookmarks">Tilføjet til bogmærker.</string>
   <string name="allow">Tillad</string>
   <string name="application_name">Browser</string>
-  <string name="autofill_profile_editor_address_line_1">Adresse Line 1:</string>
+  <string name="autofill_profile_editor_address_line_1">Adresse Linie 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Gadenavn og husnummer, PO boks, c/o</string>
   <string name="autofill_profile_editor_address_line_2">Adresse linie 2:</string>
   <string name="autofill_profile_editor_address_line_2_hint">etage, side, dør, etc.</string>

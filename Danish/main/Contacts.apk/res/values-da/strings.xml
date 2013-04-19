@@ -136,7 +136,7 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="clear_default">Ryd standard</string>
   <string name="click_close">Tryk på skærmen for at lukke</string>
   <string name="cloud_antispam_mark">Markering</string>
-  <string name="cloud_antispam_title">Cloud Firewall</string> 
+  <string name="cloud_antispam_title">Identificer nummer</string> 
   <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database oplysninger"</string>
   <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du rent faktisk har kontakter på din telefon, kan alle de kontakter, forbydes fra at blive eksporteret fra telefonen ved nogle data udbydere.</string>
   <string name="composer_not_initialized">vCard opretteren er ikke korrekt initialiseret</string>
@@ -662,7 +662,7 @@ For at tilføje kontakt til favoritter:
   <string name="preference_remove_duplicate">Flet duplikerede kontakter</string>
   <string name="preference_simple_mode_description">Kontakt viser ikke profilbillede, landekode og organisation</string>
   <string name="preference_simple_mode_title">Simpel tilstand</string>
-  <string name="preference_smart_group_company_summary">Grupper kontakter via firma contacts by company info</string>
+  <string name="preference_smart_group_company_summary">Grupper kontakter via firma</string>
   <string name="preference_smart_group_company_title">Via firma</string>
   <string name="preference_smart_group_frequency_summary">Grupper via seneste opkald eller beskeder</string>
   <string name="preference_smart_group_frequency_title">Via nyligt kontaktet</string>

@@ -180,7 +180,7 @@ Er du isikker på du vil aktivere?"</string>
   <string name="band_mode_set">Indstil</string>
   <string name="band_mode_succeeded">Gennemført</string>
   <string name="band_mode_title">Indstil GSM / UMTS band</string>
-  <string name="baseband_version">Celleradio:</string>
+  <string name="baseband_version">Modem:</string>
   <string name="battery_action_app_details">Applikation info</string>
   <string name="battery_action_app_settings">App indstillinger</string>
   <string name="battery_action_bluetooth">Bluetooth-indstillinger</string>
@@ -1055,7 +1055,7 @@ Bemærk: denne handling kan ikke fortrydes."</string>
   <string name="misc_files_selected_count">valgt %1$d ud af %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s ud af %2$s</string>
   <string name="mms_vibrate_abbreviation">Beskeder</string>
-  <string name="model_number">Model:</string>
+  <string name="model_number">Model</string>
   <string name="move_app">Flyt</string>
   <string name="move_app_failed_dlg_text">Kunne ikke flytte applikation. %1$s</string>
   <string name="move_app_failed_dlg_title">Flyt applikation</string>

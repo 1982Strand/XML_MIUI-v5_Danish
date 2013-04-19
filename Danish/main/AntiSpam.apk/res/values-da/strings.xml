@@ -133,10 +133,10 @@
   <string name="save_button">Gem</string>
   <string name="show_firewall_notification">Vis notifikationsikon</string>
   <string name="show_notification">Vis alle notifikationer</string>
-  <string name="smart_antispam">Identificer ukendt nummer intelligent</string>
-  <string name="turn_on_smart_antispam_hint">Efter aktivering, numre vil blive identificeret, markeret og hjælpe med afgørelse om hvorvidt det er et bedragerisk opkald.</string>
+  <string name="smart_antispam">Identificer ukendte numre</string>
+  <string name="turn_on_smart_antispam_hint">Numre vil forsøges identificeret, og markeres efter type, som kan hjælpe med at afgøre opkaldets hensigt.</string>
   <string name="turn_on_smart_antispam_summary_off">Efterspørg kun med lokal nummer database</string>
   <string name="turn_on_smart_antispam_summary_on">Virker kun på Wi-Fi og 3G netværk</string>
-  <string name="turn_on_smart_antispam_title">Identificer ukendte nummre</string>
+  <string name="turn_on_smart_antispam_title">Identificer ukendte numre</string>
   <string name="whitelist_tab_title">Godkendte</string>
 </resources>
