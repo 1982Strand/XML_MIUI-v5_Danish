@@ -37,7 +37,7 @@
   <string name="answer_widget_sliding_horizontal_miui">Træk vandret</string>
   <string name="answer_widget_sliding_vertical_miui">Træk lodret</string>
   <string name="answer_widget_title_miui">Svar handling</string>
-  <string name="antispam_marked_count">Markeret af %1$d personer</string>
+  <string name="antispam_marked_count">%1$d afviste</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Identificer ukendt nummer intelligent</string>
   <string name="apn_settings">Navn på adgangspunkt</string>
