@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Tilføj alarm</string>
-  <string name="alarm_alert">Alarmtone</string>
+  <string name="alarm_alert">Ringetone</string>
   <string name="alarm_alert_alert_silenced">Alarm lydløs efter %d minutter</string>
   <string name="alarm_alert_dismiss_text">Slå fra</string>
   <string name="alarm_alert_snooze_set">Udsæt i %d minutter.</string>
@@ -15,7 +15,7 @@
   <string name="alarm_label_hint">Indtast alarm etiket</string>
   <string name="alarm_list_title">Alarmer</string>
   <string name="alarm_notify_snooze_label">%s (udsat)</string>
-  <string name="alarm_notify_snooze_text">Alarm indstilliet i %s. Vælg for at annullere.</string>
+  <string name="alarm_notify_snooze_text">Alarm indstillet i %s. Vælg for at annullere.</string>
   <string name="alarm_notify_text">Vælg om du vil udsætte eller slå alarmen fra.</string>
   <string name="alarm_repeat">Gentag</string>
   <string name="alarm_screen">Udseende</string>
@@ -41,7 +41,7 @@
   <string name="day_concat">". "</string>
   <string name="days">%s dage</string>
   <string name="default_alarm_alert">Alarm Tema</string>
-  <string name="default_alarm_title">Standard alarmtone</string>
+  <string name="default_alarm_title">Standard ringetone</string>
   <string name="default_label">Alarm</string>
   <string name="default_ringtone_setting_title">Angiv standardringetone</string>
   <string name="delelte_selected_timezone">Er du sikker på du vil slette valgte tidszone(r)?</string>
@@ -61,14 +61,14 @@
   <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="gallery_button_description">Galleri</string>
   <string name="hide_clock">Skjul ur</string>
-  <string name="holiday_data_already_newest">Ugedag data er allerede den nyeste</string>
+  <string name="holiday_data_already_newest">Arbejdsdage data er allerede de nyeste</string>
   <string name="holiday_data_no_network">Intet netværk, prøv igen senere</string>
   <string name="holiday_data_update_failed">Kontroller for opdateringsfejl og prøv igen senere.</string>
   <string name="holiday_data_update_succeed">Kontroller for fuldført opdatering</string>
   <string name="holiday_data_updating">Opdaterer...</string>
-  <string name="holiday_update_pref_invalidate_title">Ugedag data opdatering (udløbet)</string>
+  <string name="holiday_update_pref_invalidate_title">Arbejdsdage data opdatering (udløbet)</string>
   <string name="holiday_update_pref_summary">Tryk Kontroller opdateringer</string>
-  <string name="holiday_update_pref_title">Ugedag data opdatering</string>
+  <string name="holiday_update_pref_title">Arbejdsdage data opdatering</string>
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 time</string>
   <string name="hour_unit">t</string>
@@ -76,8 +76,8 @@
   <string name="keep_screen_on">Hold skærm tændt under timing</string>
   <string name="label">Mærkat</string>
   <string name="lap">Omgang</string>
-  <string name="lap_num">Omgang nr.</string>
-  <string name="legal_workday">Ugedag</string>
+  <string name="lap_num">Omgang</string>
+  <string name="legal_workday">Arbejdsdag</string>
   <string name="legal_workday_invalidate">Data udløbet (Alarm ringer pt. Mandag til Fredag)</string>
   <string name="legal_workday_invalidate_message">(Data udløbet. Opdater i indstillinger)</string>
   <string name="legal_workday_message">(Alarm fra under ferie)</string>
@@ -113,7 +113,7 @@ Du kan også annullere alarmen."</string>
   <string name="snooze_duration_title">Varighed for udsættelse</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
-  <string name="stopwatch_lap_empty_text">Ingen omgange taget</string>
+  <string name="stopwatch_lap_empty_text">Ingen omgange</string>
   <string name="stopwatch_title">Stopur</string>
   <string name="system_time_setting">Indstillinger</string>
   <string name="time">Tidspunkt</string>
@@ -123,7 +123,7 @@ Du kan også annullere alarmen."</string>
   <string name="timer_message">%1$d minutter</string>
   <string name="timer_message_with_hour">%1$d timer og %2$d minutter</string>
   <string name="timer_minute">M</string>
-  <string name="timer_start_alarm">Timer tid udløbet</string>
+  <string name="timer_start_alarm">Tiden er udløbet!</string>
   <string name="timer_title">Timer</string>
   <string name="timer_tutorial">Træk med uret</string>
   <string name="timezone_exist_error_message">Kunne ikke tilføje tidszone, da den eksisterer allerede. Venligst vælg en ny.</string>
