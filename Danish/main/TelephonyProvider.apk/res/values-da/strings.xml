@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Telefon/Besked Lager</string>
+  <string name="default_cateogry_courier">Kurerer</string>
+  <string name="default_cateogry_fraudulent">Bedrager</string>
+  <string name="default_cateogry_intermediary">Mellemmand</string>
+  <string name="default_cateogry_meal_delivery">Mad levering</string>
+  <string name="default_cateogry_sales">Sælger</string>
   <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">Beskeder</string>
   <string name="sms_provider_label">SMS</string>

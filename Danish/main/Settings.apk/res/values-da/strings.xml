@@ -158,8 +158,7 @@ Er du isikker på du vil aktivere?"</string>
   <string name="automatic_brightness">Automatisk lysstyrke</string>
   <string name="available_size">%s tilgængelig</string>
   <string name="awake">Enheds oppe-tid</string>
-  <string name="back_long_press">Langt tryk på Tilbage knap</string>
-  <string name="back_long_press_timeout">Forsinkelse</string>
+  <string name="back_key">Tilbage Knap</string>
   <string name="background_data">Baggrundsdata</string>
   <string name="background_data_dialog_message">Deaktivering baggrundsdata forlænger batteriets levetid, og sænker data brug. Nogle programmer kan stadig bruge baggrundsdataforbindelsen.</string>
   <string name="background_data_dialog_title">Deaktiver baggrundsdata?</string>
@@ -634,6 +633,9 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="device_status_summary">Batteri Status, niveau, etc.</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
   <string name="dirac_control">MI Lyd</string>
+  <string name="dirac_mode_earbuds">In-ear høretelefoner</string>
+  <string name="dirac_mode_earphones">Høretelefoner</string>
+  <string name="dirac_mode_off">Dirac Fra</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW overlæg</string>
   <string name="disable_overlays_summary">Anvend altid GPU til skærmkomposition</string>
@@ -725,11 +727,9 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB fejlretning</string>
   <string name="enable_adb_summary">Fejlretnings-tilstand, når USB er tilsluttet</string>
-  <string name="enable_assist_key_long_press">Start Google Nu</string>
-  <string name="enable_back_long_press">Luk app</string>
   <string name="enable_compatibility">Skaler app</string>
   <string name="enable_drive_mode">Aktiver Køretilstand</string>
-  <string name="enable_snapshot_screenlock">Åbn Kamera fra låseskærm</string>
+  <string name="enable_snapshot_screenlock">Hold Tilbage knap åbner kamera</string>
   <string name="enable_text">Aktiver</string>
   <string name="enable_traces_dialog_title">Vælg aktiverede spor</string>
   <string name="enable_traces_summary_all">Alle spor aktive</string>
@@ -828,6 +828,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">skjult SSID:</string>
   <string name="history_details_title">Historik detaljer</string>
+  <string name="home_key">Hjem Knap</string>
   <string name="ime_security_warning">%1$s kan være i stand til at indsamle al den tekst, du skriver, herunder personoplysninger som kodeord og kreditkortnumre. Den kommer fra applikationen %1$s. Brug denne inputmetode?</string>
   <string name="immediately_destroy_activities">"Hold ikke aktiviteter kørende"</string>
   <string name="immediately_destroy_activities_summary">Stop hver aktivitet, så snart brugeren forlader den</string>
@@ -1306,7 +1307,6 @@ følg venligst trinene for at fuldføre installationen"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Celle radio standby</string>
   <string name="power_idle">Telefon tomgang</string>
-  <string name="power_key">Sluk knap</string>
   <string name="power_mode">Strømtilstand</string>
   <string name="power_phone">Taleopkald</string>
   <string name="power_screen">Skærm</string>
@@ -1319,8 +1319,7 @@ følg venligst trinene for at fuldføre installationen"</string>
   <string name="pref_button_light">Knap lys</string>
   <string name="pref_button_light_summary">Menu, Hjem og Tilbage knap indikator</string>
   <string name="pref_operational_key">Operationstast</string>
-  <string name="pref_volume_category_title">Lydstyrke</string>
-  <string name="pref_volume_wake_summary">Tryk på lydstyrke knappen (+/-) vækker telefonen. Specielt til enheder med defekt sluk knap</string>
+  <string name="pref_volume_wake_summary">Tryk på lydstyrke knappen (+/-) vækker telefonen</string>
   <string name="pref_volume_wake_title">Væk med Lydstyrke (+/-)</string>
   <string name="preference_change_password_title">Skift adgangskode</string>
   <string name="preferred_launcher_title">Foretrukne Launcher</string>
@@ -1476,6 +1475,9 @@ følg venligst trinene for at fuldføre installationen"</string>
   <string name="screen_color_temperature_adjust">Indstil farvetemperatur</string>
   <string name="screen_compatibility_label">Skærm kompatibilitet</string>
   <string name="screen_compatibility_text">Denne app er muligvis ikke konstrueret til din skærm. Du kan kontrollere, hvordan den tilpasser sig din skærm her.</string>
+  <string name="screen_key_long_press">Langt tryk på skærmknapper</string>
+  <string name="screen_key_long_press_action">Aktiver funktion</string>
+  <string name="screen_key_long_press_timeout">Langt tryk forsinkelse</string>
   <string name="screen_on_proximity_sensor_summary">Undgå opkald m.m. når telefonen ligger løst i lommen (odpag via sensor).</string>
   <string name="screen_on_proximity_sensor_title">Undgå misbrug</string>
   <string name="screen_saturation_adjust">Indstil farvemætning</string>
@@ -1784,6 +1786,7 @@ Muligvis ugyldig PIN."</string>
   <string name="tts_settings_title">Tekst-til-tale-indstillinger</string>
   <string name="turn_off_radio">Sluk radioen</string>
   <string name="turn_on_radio">Tænd for radioen</string>
+  <string name="under_keyguard">På låseskærmen</string>
   <string name="uninstall_text">Afinstaller</string>
   <string name="unknown">Ukendt</string>
   <string name="unlock_backup_info_summary">"Når Ansigts Lås ikke kan se dig, hvordan du vil låse op?"</string>
