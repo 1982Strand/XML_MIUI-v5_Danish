@@ -30,6 +30,10 @@
   <string name="menu_wh_item_full_screen_label">Fuld skærm</string>
   <string name="menu_wh_item_using_16_9_label">16:9 format</string>
   <string name="menu_wh_item_using_4_3_label">4:3 format</string>
+  <string name="nowifi_alert_dialog_continue">Fortsæt</string>
+  <string name="nowifi_alert_dialog_exit">Afslut</string>
+  <string name="nowifi_alert_dialog_message">Afspiller video på mobil netværk, fortsæt?</string>
+  <string name="nowifi_alert_dialog_title">Notifikation</string>
   <string name="temp_play_history_button_label">Vis afspiller historik</string>
   <string name="to_be_play_label_v5">Starter afspilning</string>
   <string name="toast_back_key_pressed_notice">Tryk på Tilbage igen for at afslutte</string>
