@@ -205,7 +205,9 @@
   <string name="mx_current_status">Aktuel status: Online</string>
   <string name="mx_dspt">Send beskeder via Internet mellem MIUI, aktiver for at sende via udbyder når mislykket</string>
   <string name="mx_enable">Aktiver Cloud Beskeder</string>
-  <string name="mx_enable_popup_msg">Cloud Beskeder tillader dig at sende beskeder via MIUI. En normal SMS er påkrævet for at aktivere tjenesten. Vil du aktivere nu?</string>
+  <string name="mx_enable_int_popup_msg">Cloud Beskeder tillader dig at sende beskeder mellem MIUI brugere. Afsendelse af en international SMS er påkrævet for at aktivere tjenesten. Udbyder taksering er gældende, aktiver nu? Hvis ikke, kan du aktivere det i indstillinger senere</string>
+  <string name="mx_enable_popup_msg">Cloud Beskeder tillader dig at sende beskeder mellem MIUI brugere. Afsendelse af en international SMS er påkrævet for at aktivere tjenesten. Vil du aktivere nu?</string>
+  <string name="mx_int_warning_notice">Afsendelse af en international SMS er påkrævet for at aktivere tjenesten. Udbyder taksering er gældende</string>
   <string name="mx_msg">Cloud Besked</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>

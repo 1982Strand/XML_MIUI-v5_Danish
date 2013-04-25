@@ -85,6 +85,7 @@
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Indtast adgangskode</string>
+  <string name="int_phone_user_notice">Ved indlogning med et nummer udenfor Kina, venligst anvend landekode i nummeret, f.eks. +45xxxxxxxx</string>
   <string name="label_order_name">Produkt navn: </string>
   <string name="label_order_price">Antal: </string>
   <string name="login">Log ind</string>
@@ -116,7 +117,8 @@
   <string name="micloud_reg_new">Ny</string>
   <string name="micloud_resend_active_email">Gensend aktiverings Email</string>
   <string name="micloud_use_existing">Eksisterende</string>
-  <string name="micloud_val_sms_alert">En SMS skal sendes for at validere dit telefonnummer, fortsæt?</string>
+  <string name="micloud_via_int_sms_alert">En SMS skal sendes for at validere dit telefonnummer, fortsæt?</string>
+  <string name="micloud_via_sms_alert">En SMS skal sendes for at validere dit telefonnummer, fortsæt?</string>
   <string name="micloud_welcome_skip_login">Skip registrering</string>
   <string name="mili_center">Mi credit center</string>
   <string name="next">Næste</string>
@@ -196,11 +198,13 @@ Venligst indtast adgangskode"</string>
   <string name="reg_failed">Registrering mislykkedes</string>
   <string name="reg_type_email">Registrer via E-mail</string>
   <string name="reg_type_phone">Registrer via telefon (anbefalet)</string>
+  <string name="reging">Registrerer. Vent venligst</string>
   <string name="relogin">Log ind</string>
   <string name="remove_account_notice">Hvad vil du gøre med de tidligere synkroniserede beskeder, kontakter, opkaldslister og noter på din telefon?</string>
   <string name="remove_confirm">Slet</string>
   <string name="remove_unactivated_account_notice">Xiaomi kontoen er ikke aktiveret, ønsker du at fjerne den nu?</string>
   <string name="removing_account">Sletter konto...</string>
+  <string name="send_int_sms_for_sync_notice">En international aktiverings sms er påkrævet for at aktivere synk. Fortsæt?</string>
   <string name="send_sms_for_sync_notice">Aktiverings SMS skal sendes, fortsæt?</string>
   <string name="send_sms_for_sync_title">Synk tjeneste ikke aktiveret</string>
   <string name="sim_changed_notification_content">SIM ikke aktiveret, venligst aktiver</string>

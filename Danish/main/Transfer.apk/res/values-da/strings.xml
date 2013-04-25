@@ -24,7 +24,7 @@
   <string name="fail">Mislykket</string>
   <string name="failed">Mislykkedes</string>
   <string name="finish">Fuldført</string>
-  <string name="first_in_tip">Anvender Oversførsel for første gang</string>
+  <string name="first_in_tip">Anvender Overførsel for første gang</string>
   <string name="goback">Gå tilbage</string>
   <string name="guide_label">Overførselsguide</string>
   <string name="history">Overførselshistorik</string>
@@ -94,6 +94,7 @@
   <string name="title_step_three">3. Del filer med venner</string>
   <string name="title_step_two">2. AnyShare er en universel overførselsprotokol</string>
   <string name="transfer_history">Overførsel historik</string>
+  <string name="trasfer_list">Overførselsliste</string>
   <string name="use_start">Start nu</string>
   <string name="voice_assist_match">Hurtig matching</string>
   <string name="voice_match">Hurtig matching</string>
