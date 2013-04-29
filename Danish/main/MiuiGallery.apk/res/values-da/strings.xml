@@ -27,7 +27,7 @@
   <string name="camera_connected">Kamera forbundet.</string>
   <string name="camera_disconnected">Kamera ikke forbundet.</string>
   <string name="camera_folder_display_name">Kamera Fotos</string>
-  <string name="camera_path">/DCIM/Camera</string>
+  <string name="camera_path">/storage/extSdCard/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Tapet</string>
   <string name="camera_view_none_message">Fotos vil blive vist her.</string>
   <string name="cancel">Annuller</string>
@@ -51,6 +51,7 @@
   <string name="cloud_tab_all">Alle</string>
   <string name="cloud_tab_locations">Steder</string>
   <string name="cloudfolder_already_exists">Cloud mappe eksisterer allerede</string>
+  <string name="comma">, </string>
   <string name="confirm_delete">Valgte mediefiler vil blive slettet</string>
   <string name="confirm_delete_album" formatted="false">Er du sikker på du vil slette %s albums (inklusiv %s elementer)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s billeder fra %s albums, bekræft sletning?</string>
@@ -199,6 +200,7 @@
   <string name="photos">Foto(s)</string>
   <string name="posterize">Posteriser</string>
   <string name="projection">Projektion</string>
+  <string name="quotation">\"%s\"</string>
   <string name="redeye">Rød øje</string>
   <string name="redeye_tooltip">Tryk for at fjerne røde øjne</string>
   <string name="remove_hidden_album">Annuller skjulte</string>

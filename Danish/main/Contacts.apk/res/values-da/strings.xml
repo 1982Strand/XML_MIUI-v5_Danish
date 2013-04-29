@@ -778,6 +778,7 @@ For at tilføje kontakt til favoritter:
   <string name="separatorJoinAggregateSuggestions">Foreslåede</string>
   <string name="service_provider">Tjenesteudbyder</string>
   <string name="set_default">Indstil standard</string>
+  <string name="set_photo_failed_msg">Indstilling af profilbillede mislykkedes</string>
   <string name="share_error">Denne kontakt kan ikke deles</string>
   <string name="share_via">Del kontakt via</string>
   <string name="share_visible_contacts">Del synlige kontakter</string>

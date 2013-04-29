@@ -2,6 +2,7 @@
 <resources>
   <string name="continues">Fortsæt</string>
   <string name="data_usage_summary">Hvis du ikke har en data plan fra din udbyder, anbefales det at være varsom med netværkstrafik. Vær opmærksom på din udbyders priser på datatrafik.</string>
+  <string name="default_gprs_sim_name">Venligst indtast \"%s\" data plan grænser</string>
   <string name="input_method">Tastatur</string>
   <string name="input_method_category">Vælg standard tastatur</string>
   <string name="next">Næste</string>
@@ -29,6 +30,6 @@
   <string name="traffic_protection_label">Data trafik overvågning</string>
   <string name="traffic_protection_summary">Data trafik overvågning vil underrette dig når din dataplan har nået sin grænse.</string>
   <string name="traffic_protection_text_hint">Venligst indtast din Data grænse.</string>
-  <string name="traffic_protection_unknown">Ved det ikke. Venligst indtast senere.</string>
+  <string name="traffic_protection_unknown" />
   <string name="use_data">Aktiver data</string>
 </resources>

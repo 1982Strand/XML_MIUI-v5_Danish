@@ -40,8 +40,10 @@
   <string name="notification_warning" formatted="false">Lav lagerplads(mindre end %d minutter)...</string>
   <string name="open_file_explorer">Åben Filhåndtering</string>
   <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
-  <string name="preference_led_indicator">Optagelsesindikator på låseskærm</string>
-  <string name="preference_led_indicator_prompt">Hvorvidt LED skal aktiveres på låseskærmen under optagelse</string>
+  <string name="preference_led_indicator">Optagelse under låseskærm</string>
+  <string name="preference_led_indicator_prompt">Under optagelse, indiker på statuslinien og blink med rød LED When recording, indicate on status bar and flash red LED in screen lock mode</string>
+  <string name="preference_silent_mode">Optager i lydløs tilstand</string>
+  <string name="preference_silent_mode_summary">Hvorvidt lydløs tilstand skal aktiveres under optagelse</string>
   <string name="record_list">Optagelser</string>
   <string name="record_loading">Indlæser optagelse, vent venligst.</string>
   <string name="record_name_hour">.</string>

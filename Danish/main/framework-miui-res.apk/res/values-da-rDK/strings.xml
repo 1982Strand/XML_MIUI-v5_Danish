@@ -415,7 +415,8 @@
   <string name="short_pincode_error_msg">Venligst indtast 4–8 cifre</string>
   <string name="short_pukcode_error_msg">Venligst indtast mindst 8 cifre</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_notice">SIM er ikke aktiveret. En SMS er påkrævet for at aktivere Xiaomi synk tjenesten. Genaktiver nu?</string>
+  <string name="sim_changed_reactivate_int_notice">Nuværende SIM er ikke aktiveret. En international sms er påkrævet for at aktivere tjenesten, aktiver nu?</string>
+  <string name="sim_changed_reactivate_notice">Nuværende SIM er ikke aktiveret. En almindelig sms er påkrævet for at aktivere tjenesten, aktiver nu?</string>
   <string name="sim_in_airplane_mode">Venligst deaktiver Flytilstand.</string>
   <string name="sim_locked">SIM kort er låst</string>
   <string name="sim_not_ready">Sim kort i brug. Prøv igen senere.</string>

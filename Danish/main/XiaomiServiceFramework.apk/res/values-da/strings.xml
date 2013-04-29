@@ -20,6 +20,7 @@
   <string name="btn_count_down_auto">Forespørg efter %1$s sekunder</string>
   <string name="btn_count_down_wait">Vent %1$s sekunder</string>
   <string name="btn_mili_center_recharge">Genopfyld Mi credits</string>
+  <string name="btn_pay_large">Betal nu</string>
   <string name="btn_query">Forespørg nu</string>
   <string name="btn_recharge_large">Genopfyld nu</string>
   <string name="btn_recharge_other">Andre opfyldningsmetoder</string>
@@ -46,6 +47,7 @@
   <string name="error_common_summary">System fejl, prøv igen senere</string>
   <string name="error_common_title">System fejl</string>
   <string name="error_dup_phone">Telefon registreret</string>
+  <string name="error_expired_summary">Din ordre er udløbet</string>
   <string name="error_frozen_summary">Din konto er blevet låst</string>
   <string name="error_frozen_title">Konto låst!</string>
   <string name="error_has_bought_summary">Du har allerede købt dette produkt</string>
@@ -162,17 +164,20 @@
   <string name="progress_connecting">Forbinder...</string>
   <string name="progress_creating">Modtager ordre information...</string>
   <string name="progress_downloading">Downloader...</string>
-  <string name="progress_error_title">Opfyldning mislykkedes</string>
+  <string name="progress_error_pay_title">Betaling mislykkedes</string>
+  <string name="progress_error_recharge_title">Opfyldning mislykkedes</string>
   <string name="progress_loading">Behandler, vent venligst...</string>
   <string name="progress_paytool_creating">Genererer %1$s ordre...</string>
   <string name="progress_paytool_installing">Installerer %1$s mobil sikkerheds plugin...</string>
   <string name="progress_prepaid_creating">Genererer opfyldningsordre...</string>
   <string name="progress_querying">Behandler betalingsanmodning…</string>
   <string name="progress_submit_hint">Forventet om ca. 3 min</string>
-  <string name="progress_submit_summary">Opfyldning: %1$s RMB</string>
-  <string name="progress_submit_title">Opfyldningsanmodning indsendt</string>
-  <string name="progress_success_summary">Saldo: %1$sMi Credits</string>
-  <string name="progress_success_title">%1$sMi Credit opfyldning fuldført</string>
+  <string name="progress_submit_pay_summary">Betaling: %1$s RMB</string>
+  <string name="progress_submit_recharge_summary">Opfylder: %1$s RMB</string>
+  <string name="progress_submit_title">Anmodning sendt, verificerer</string>
+  <string name="progress_success_pay_title">%1$s Mi Credit betaling fuldført</string>
+  <string name="progress_success_recharge_summary">Saldo: %1$s Mi Credits</string>
+  <string name="progress_success_recharge_title">%1$s Mi Credit opfyldning fuldført</string>
   <string name="progress_voucher_creating">Opdaterer MiCredit...</string>
   <string name="progress_warning_contact_server">"Stadig intet svar. 
 1. Venligst kontakt kundeservice i Shenzhou：%1$s 
@@ -216,10 +221,12 @@ Venligst indtast adgangskode"</string>
   <string name="sync_off">Fra</string>
   <string name="sync_on">Til</string>
   <string name="sync_sub_dspt">En SMS skal sendes for aktivere tjenesten</string>
+  <string name="sync_sub_int_dspt">En international sms vil sendes for at aktivere tjenesten</string>
   <string name="title_mili_center">Mi Credit center</string>
-  <string name="title_pay_record">%1$s betalingshistorik</string>
-  <string name="title_paytool">Genopfyld med %1$s</string>
-  <string name="title_prepaid">Genopfyld med kort</string>
+  <string name="title_pay">Betal Mi Credits</string>
+  <string name="title_pay_record">%1$s betalings historik</string>
+  <string name="title_paytool">Opfyld via %1$s</string>
+  <string name="title_prepaid">Opfyld via opfyldningskort</string>
   <string name="title_recharge">Genopfyld Mi Credits</string>
   <string name="title_recharge_record">Opfyldningshistorik</string>
   <string name="title_reg">Registrer en XiaoMi konto</string>
