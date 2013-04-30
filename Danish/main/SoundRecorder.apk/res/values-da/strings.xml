@@ -13,7 +13,7 @@
   <string name="delete">Slet</string>
   <string name="delete_dialog_message">Vil du slette nuværende optagelse?</string>
   <string name="deleting_message">Sletter...</string>
-  <string name="dialog_content_storage_full">Pga manglende plads, blev optagelsen stoppet. Du kan fjerne unødige file med Fil Håndtering. Åbn nu?</string>
+  <string name="dialog_content_storage_full">Pga manglende plads, blev optagelsen stoppet. Du kan fjerne unødige file med Filer. Åbn nu?</string>
   <string name="dialog_play">Afspil</string>
   <string name="dialog_send">Send</string>
   <string name="dialog_title_storage_full">Ikke mere plads</string>
@@ -37,11 +37,11 @@
   <string name="notification_playback">Afspiller...</string>
   <string name="notification_recording">Optager</string>
   <string name="notification_stopped">Optagelse stoppet</string>
-  <string name="notification_warning" formatted="false">Lav lagerplads(mindre end %d minutter)...</string>
+  <string name="notification_warning" formatted="false">Lav lagerplads (mindre end %d minutter)...</string>
   <string name="open_file_explorer">Åben Filhåndtering</string>
-  <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
-  <string name="preference_led_indicator">Optagelse under låseskærm</string>
-  <string name="preference_led_indicator_prompt">Under optagelse, indiker på statuslinien og blink med rød LED When recording, indicate on status bar and flash red LED in screen lock mode</string>
+  <string name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="preference_led_indicator">Optag under låseskærm</string>
+  <string name="preference_led_indicator_prompt">Vis i statuslinie og blink med rød LED, når der optages med låseskærmen aktiv</string>
   <string name="preference_silent_mode">Optager i lydløs tilstand</string>
   <string name="preference_silent_mode_summary">Hvorvidt lydløs tilstand skal aktiveres under optagelse</string>
   <string name="record_list">Optagelser</string>
@@ -56,7 +56,7 @@
   <string name="rename_duplicate">Navn eksisterer, venligst anvend et andet:</string>
   <string name="rename_illegal">Ugyldigt navn, venligst anvend et andet:</string>
   <string name="sd_card_not_available">SD-Kort ikke tilgængelig</string>
-  <string name="second" formatted="false">%d sekunder</string>
+  <string name="second">%d sekunder</string>
   <string name="send_to">Send til</string>
   <string name="sound_recorder_settings">Indstillinger</string>
   <string name="status_bar_anti_disturb">Telefon er på lydløs, juster lydstyrken for at fortsætte.</string>
