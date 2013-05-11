@@ -95,6 +95,7 @@ din konto vil blive låst midlertidigt, vent venligst..."</string>
   <string name="file_loading">Indlæser...</string>
   <string name="file_too_large">Filen er for stor, kan ikke uploades</string>
   <string name="finished">Fuldført</string>
+  <string name="folder_exist">Mappen eksisterer allerede</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tryk her&lt;/a&gt;for at gå til papirkurven</string>
   <string name="ftp_account_req_notice">Brugernavn og adgangskode, 4~16 tegn, skal indeholde cifre, bogstaver, er versalfølsom</string>
   <string name="ftp_anonymous_login">Anonym FTP</string>

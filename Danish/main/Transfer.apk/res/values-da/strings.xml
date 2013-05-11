@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_receive">Skal til at modtage</string>
   <string name="about_to_send">Send fil(er)</string>
   <string name="app_name">Overfør</string>
   <string name="button_last">Start nu</string>
@@ -94,7 +95,6 @@
   <string name="title_step_three">3. Del filer med venner</string>
   <string name="title_step_two">2. AnyShare er en universel overførselsprotokol</string>
   <string name="transfer_history">Overførsel historik</string>
-  <string name="trasfer_list">Overførselsliste</string>
   <string name="use_start">Start nu</string>
   <string name="voice_assist_match">Hurtig matching</string>
   <string name="voice_match">Hurtig matching</string>

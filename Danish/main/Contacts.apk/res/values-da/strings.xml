@@ -408,7 +408,7 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
   <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
   <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
-  <string name="import_weibo_fetch_followers">Henter Sina Weibo følgere…</string>
+  <string name="import_weibo_fetch_followers">Henter Sina Weibo kontakter…</string>
   <string name="import_weibo_notification_title">Importerer Sina weibo kontakter…</string>
   <string name="import_weibo_notification_title_done">Importering fuldført</string>
   <string name="import_weibo_progress_name">%1$s</string>

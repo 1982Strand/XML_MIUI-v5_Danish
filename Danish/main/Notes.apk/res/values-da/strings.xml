@@ -63,6 +63,9 @@
   <string name="notealert_ok">OK</string>
   <string name="notelist_menu_new">Tilføj note</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Lydløs</string>
+  <string name="notify_alarm_action_view">Vis</string>
+  <string name="notify_alarm_title">Note påmindelse</string>
   <string name="pref_desc_mode_grid">Gitter</string>
   <string name="pref_desc_mode_list">Liste</string>
   <string name="pref_title_data_export">Data eksport</string>

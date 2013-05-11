@@ -35,6 +35,7 @@
   <string name="clock_instructions">Vælg et ur</string>
   <string name="close_alarm">Luk alarm</string>
   <string name="common_settings">Generelle indstillinger</string>
+  <string name="confirm_abort">Annuller</string>
   <string name="control_set_alarm">Indstil alarm</string>
   <string name="control_set_alarm_with_existing">Alarmen er indstillet til: %s</string>
   <string name="day">1 dag</string>
@@ -66,9 +67,8 @@
   <string name="holiday_data_update_failed">Kontroller for opdateringsfejl og prøv igen senere.</string>
   <string name="holiday_data_update_succeed">Kontroller for fuldført opdatering</string>
   <string name="holiday_data_updating">Opdaterer...</string>
-  <string name="holiday_update_pref_invalidate_title">Arbejdsdage data opdatering (udløbet)</string>
-  <string name="holiday_update_pref_summary">Tryk Kontroller opdateringer</string>
-  <string name="holiday_update_pref_title">Arbejdsdage data opdatering</string>
+  <string name="holiday_update_summary">Tryk Kontroller opdateringer</string>
+  <string name="holiday_update_title">Arbejdsdage data opdatering</string>
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 time</string>
   <string name="hour_unit">t</string>
@@ -128,7 +128,6 @@ Du kan også annullere alarmen."</string>
   <string name="timer_tutorial">Træk med uret</string>
   <string name="timezone_exist_error_message">Kunne ikke tilføje tidszone, da den eksisterer allerede. Venligst vælg en ny.</string>
   <string name="timezone_search_hint">Søg efter by at tilføje til verdensuret</string>
-  <string name="update_legal_workday_toast">Opdater kinesiske offentlige helligdage i Indstillinger</string>
   <string name="volume_button_dialog_title">Knap effekt</string>
   <string name="volume_button_setting_summary">Angiv, hvad sideknapperne gør, når der trykkes på dem under en alarm</string>
   <string name="volume_button_setting_title">Hardware knapper</string>

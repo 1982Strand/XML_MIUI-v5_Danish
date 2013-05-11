@@ -1630,9 +1630,11 @@ Muligvis ugyldig PIN."</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>
   <string name="sim_reenter_new">Gentag PIN</string>
+  <string name="sim_status_title">SIM status</string>
   <string name="skip_button_label">Annuller</string>
   <string name="skip_label">Spring over</string>
   <string name="skip_step">Spring dette trin over</string>
+  <string name="slot_status_title">IMEI information</string>
   <string name="small_font">Lille</string>
   <string name="sms_delivered_sound_dialog_title">Vælg SMS leveret tone</string>
   <string name="sms_delivered_sound_title">SMS leveret lyd</string>
