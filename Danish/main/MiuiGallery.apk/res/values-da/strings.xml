@@ -27,7 +27,6 @@
   <string name="camera_connected">Kamera forbundet.</string>
   <string name="camera_disconnected">Kamera ikke forbundet.</string>
   <string name="camera_folder_display_name">Kamera Fotos</string>
-  <string name="camera_path">/storage/extSdCard/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Tapet</string>
   <string name="camera_view_none_message">Fotos vil blive vist her.</string>
   <string name="cancel">Annuller</string>
